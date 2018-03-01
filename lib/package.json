@@ -1,0 +1,31 @@
+{
+  "name": "fundamentalsfriday",
+  "version": "1.0.0",
+  "description": "...uses GitHub's API to track student's most recent commits and pushes so an instructor or TA can quickly scan and understand where their class is with exercises and group projects. Visit https://studentspy.bangazon.com/ to see it in action!",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "browserify": "^16.1.0",
+    "grunt": "^1.0.2",
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {
+    "grunt-browserify": "^5.2.0",
+    "grunt-contrib-uglify-es": "git://github.com/gruntjs/grunt-contrib-uglify.git#harmony",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-eslint": "^20.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/megducharme/studentCommitTracker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/megducharme/studentCommitTracker/issues"
+  },
+  "homepage": "https://github.com/megducharme/studentCommitTracker#readme"
+}
