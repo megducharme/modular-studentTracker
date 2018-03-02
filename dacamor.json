@@ -1,0 +1,3157 @@
+[
+  {
+    "id": "7297996355",
+    "type": "ForkEvent",
+    "actor": {
+      "id": 32465672,
+      "login": "dacamor",
+      "display_login": "dacamor",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dacamor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32465672?"
+    },
+    "repo": {
+      "id": 122653467,
+      "name": "nss-day-cohort-22/bob-ross-movie-history",
+      "url": "https://api.github.com/repos/nss-day-cohort-22/bob-ross-movie-history"
+    },
+    "payload": {
+      "forkee": {
+        "id": 122991624,
+        "name": "bob-ross-movie-history",
+        "full_name": "dacamor/bob-ross-movie-history",
+        "owner": {
+          "login": "dacamor",
+          "id": 32465672,
+          "avatar_url": "https://avatars3.githubusercontent.com/u/32465672?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/dacamor",
+          "html_url": "https://github.com/dacamor",
+          "followers_url": "https://api.github.com/users/dacamor/followers",
+          "following_url": "https://api.github.com/users/dacamor/following{/other_user}",
+          "gists_url": "https://api.github.com/users/dacamor/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/dacamor/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/dacamor/subscriptions",
+          "organizations_url": "https://api.github.com/users/dacamor/orgs",
+          "repos_url": "https://api.github.com/users/dacamor/repos",
+          "events_url": "https://api.github.com/users/dacamor/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/dacamor/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "private": false,
+        "html_url": "https://github.com/dacamor/bob-ross-movie-history",
+        "description": "Pulling it all together",
+        "fork": true,
+        "url": "https://api.github.com/repos/dacamor/bob-ross-movie-history",
+        "forks_url": "https://api.github.com/repos/dacamor/bob-ross-movie-history/forks",
+        "keys_url": "https://api.github.com/repos/dacamor/bob-ross-movie-history/keys{/key_id}",
+        "collaborators_url": "https://api.github.com/repos/dacamor/bob-ross-movie-history/collaborators{/collaborator}",
+        "teams_url": "https://api.github.com/repos/dacamor/bob-ross-movie-history/teams",
+        "hooks_url": "https://api.github.com/repos/dacamor/bob-ross-movie-history/hooks",
+        "issue_events_url": "https://api.github.com/repos/dacamor/bob-ross-movie-history/issues/events{/number}",
+        "events_url": "https://api.github.com/repos/dacamor/bob-ross-movie-history/events",
+        "assignees_url": "https://api.github.com/repos/dacamor/bob-ross-movie-history/assignees{/user}",
+        "branches_url": "https://api.github.com/repos/dacamor/bob-ross-movie-history/branches{/branch}",
+        "tags_url": "https://api.github.com/repos/dacamor/bob-ross-movie-history/tags",
+        "blobs_url": "https://api.github.com/repos/dacamor/bob-ross-movie-history/git/blobs{/sha}",
+        "git_tags_url": "https://api.github.com/repos/dacamor/bob-ross-movie-history/git/tags{/sha}",
+        "git_refs_url": "https://api.github.com/repos/dacamor/bob-ross-movie-history/git/refs{/sha}",
+        "trees_url": "https://api.github.com/repos/dacamor/bob-ross-movie-history/git/trees{/sha}",
+        "statuses_url": "https://api.github.com/repos/dacamor/bob-ross-movie-history/statuses/{sha}",
+        "languages_url": "https://api.github.com/repos/dacamor/bob-ross-movie-history/languages",
+        "stargazers_url": "https://api.github.com/repos/dacamor/bob-ross-movie-history/stargazers",
+        "contributors_url": "https://api.github.com/repos/dacamor/bob-ross-movie-history/contributors",
+        "subscribers_url": "https://api.github.com/repos/dacamor/bob-ross-movie-history/subscribers",
+        "subscription_url": "https://api.github.com/repos/dacamor/bob-ross-movie-history/subscription",
+        "commits_url": "https://api.github.com/repos/dacamor/bob-ross-movie-history/commits{/sha}",
+        "git_commits_url": "https://api.github.com/repos/dacamor/bob-ross-movie-history/git/commits{/sha}",
+        "comments_url": "https://api.github.com/repos/dacamor/bob-ross-movie-history/comments{/number}",
+        "issue_comment_url": "https://api.github.com/repos/dacamor/bob-ross-movie-history/issues/comments{/number}",
+        "contents_url": "https://api.github.com/repos/dacamor/bob-ross-movie-history/contents/{+path}",
+        "compare_url": "https://api.github.com/repos/dacamor/bob-ross-movie-history/compare/{base}...{head}",
+        "merges_url": "https://api.github.com/repos/dacamor/bob-ross-movie-history/merges",
+        "archive_url": "https://api.github.com/repos/dacamor/bob-ross-movie-history/{archive_format}{/ref}",
+        "downloads_url": "https://api.github.com/repos/dacamor/bob-ross-movie-history/downloads",
+        "issues_url": "https://api.github.com/repos/dacamor/bob-ross-movie-history/issues{/number}",
+        "pulls_url": "https://api.github.com/repos/dacamor/bob-ross-movie-history/pulls{/number}",
+        "milestones_url": "https://api.github.com/repos/dacamor/bob-ross-movie-history/milestones{/number}",
+        "notifications_url": "https://api.github.com/repos/dacamor/bob-ross-movie-history/notifications{?since,all,participating}",
+        "labels_url": "https://api.github.com/repos/dacamor/bob-ross-movie-history/labels{/name}",
+        "releases_url": "https://api.github.com/repos/dacamor/bob-ross-movie-history/releases{/id}",
+        "deployments_url": "https://api.github.com/repos/dacamor/bob-ross-movie-history/deployments",
+        "created_at": "2018-02-26T15:46:25Z",
+        "updated_at": "2018-02-23T21:54:31Z",
+        "pushed_at": "2018-02-26T15:40:47Z",
+        "git_url": "git://github.com/dacamor/bob-ross-movie-history.git",
+        "ssh_url": "git@github.com:dacamor/bob-ross-movie-history.git",
+        "clone_url": "https://github.com/dacamor/bob-ross-movie-history.git",
+        "svn_url": "https://github.com/dacamor/bob-ross-movie-history",
+        "homepage": null,
+        "size": 547,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "language": null,
+        "has_issues": false,
+        "has_projects": true,
+        "has_downloads": true,
+        "has_wiki": true,
+        "has_pages": false,
+        "forks_count": 0,
+        "mirror_url": null,
+        "archived": false,
+        "open_issues_count": 0,
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit"
+        },
+        "forks": 0,
+        "open_issues": 0,
+        "watchers": 0,
+        "default_branch": "master",
+        "public": true
+      }
+    },
+    "public": true,
+    "created_at": "2018-02-26T15:46:25Z",
+    "org": {
+      "id": 29761257,
+      "login": "nss-day-cohort-22",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/nss-day-cohort-22",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29761257?"
+    }
+  },
+  {
+    "id": "7284084947",
+    "type": "PullRequestEvent",
+    "actor": {
+      "id": 32465672,
+      "login": "dacamor",
+      "display_login": "dacamor",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dacamor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32465672?"
+    },
+    "repo": {
+      "id": 121672190,
+      "name": "StormyHares/Bangazon_WebApp",
+      "url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp"
+    },
+    "payload": {
+      "action": "opened",
+      "number": 35,
+      "pull_request": {
+        "url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls/35",
+        "id": 170869080,
+        "html_url": "https://github.com/StormyHares/Bangazon_WebApp/pull/35",
+        "diff_url": "https://github.com/StormyHares/Bangazon_WebApp/pull/35.diff",
+        "patch_url": "https://github.com/StormyHares/Bangazon_WebApp/pull/35.patch",
+        "issue_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/35",
+        "number": 35,
+        "state": "open",
+        "locked": false,
+        "title": "added order history link in my account and fixed a small bug in displ…",
+        "user": {
+          "login": "dacamor",
+          "id": 32465672,
+          "avatar_url": "https://avatars3.githubusercontent.com/u/32465672?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/dacamor",
+          "html_url": "https://github.com/dacamor",
+          "followers_url": "https://api.github.com/users/dacamor/followers",
+          "following_url": "https://api.github.com/users/dacamor/following{/other_user}",
+          "gists_url": "https://api.github.com/users/dacamor/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/dacamor/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/dacamor/subscriptions",
+          "organizations_url": "https://api.github.com/users/dacamor/orgs",
+          "repos_url": "https://api.github.com/users/dacamor/repos",
+          "events_url": "https://api.github.com/users/dacamor/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/dacamor/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "body": "…aying cart\r\n\r\n* **The Name of this branch is**\r\nSW-16\r\n\r\n* **Please check if the PR fulfills these requirements**\r\n- [ ] All files contain comments including Author, Purpose\r\n- [ ] All methods contain comments including Purpose, And Argument List and a short purpose for each argument\r\n- [ ] Tests for the changes have been added (for bug fixes / features)\r\n- [ ] Docs have been added / updated (for bug fixes / features)\r\n\r\n\r\n\r\n* **What kind of change does this PR introduce?** (Bug Fix, Feature, Document Update...)\r\n\r\nUser can now view order history\r\n\r\n* **What Ticket is associated with this PR**\r\nTicket 16: https://github.com/StormyHares/Bangazon_WebApp/issues/16\r\n\r\n* **What is the new behavior?**  (if this is a feature change)\r\n\r\nUser can now view order history\r\n* **List all core functionality** (Must include at least one Unit Test for Each)\r\n\r\nUser can now view order history\r\n\r\n* **Other information / Steps to Test**:\r\ngit fetch --all\r\ngit checkout SW-16\r\nrun program\r\nnavigate to My Account\r\nclick on Order History\r\nverify that the order history shows all closed orders for the logged in user",
+        "created_at": "2018-02-22T21:21:19Z",
+        "updated_at": "2018-02-22T21:21:19Z",
+        "closed_at": null,
+        "merged_at": null,
+        "merge_commit_sha": null,
+        "assignee": null,
+        "assignees": [
+          
+        ],
+        "requested_reviewers": [
+          
+        ],
+        "requested_teams": [
+          
+        ],
+        "labels": [
+          
+        ],
+        "milestone": null,
+        "commits_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls/35/commits",
+        "review_comments_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls/35/comments",
+        "review_comment_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls/comments{/number}",
+        "comments_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/35/comments",
+        "statuses_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/statuses/c4b36519c52aaa719b27363917da5a7b62d1db6b",
+        "head": {
+          "label": "StormyHares:SW-16",
+          "ref": "SW-16",
+          "sha": "c4b36519c52aaa719b27363917da5a7b62d1db6b",
+          "user": {
+            "login": "StormyHares",
+            "id": 35742655,
+            "avatar_url": "https://avatars3.githubusercontent.com/u/35742655?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/StormyHares",
+            "html_url": "https://github.com/StormyHares",
+            "followers_url": "https://api.github.com/users/StormyHares/followers",
+            "following_url": "https://api.github.com/users/StormyHares/following{/other_user}",
+            "gists_url": "https://api.github.com/users/StormyHares/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/StormyHares/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/StormyHares/subscriptions",
+            "organizations_url": "https://api.github.com/users/StormyHares/orgs",
+            "repos_url": "https://api.github.com/users/StormyHares/repos",
+            "events_url": "https://api.github.com/users/StormyHares/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/StormyHares/received_events",
+            "type": "Organization",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 121672190,
+            "name": "Bangazon_WebApp",
+            "full_name": "StormyHares/Bangazon_WebApp",
+            "owner": {
+              "login": "StormyHares",
+              "id": 35742655,
+              "avatar_url": "https://avatars3.githubusercontent.com/u/35742655?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/StormyHares",
+              "html_url": "https://github.com/StormyHares",
+              "followers_url": "https://api.github.com/users/StormyHares/followers",
+              "following_url": "https://api.github.com/users/StormyHares/following{/other_user}",
+              "gists_url": "https://api.github.com/users/StormyHares/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/StormyHares/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/StormyHares/subscriptions",
+              "organizations_url": "https://api.github.com/users/StormyHares/orgs",
+              "repos_url": "https://api.github.com/users/StormyHares/repos",
+              "events_url": "https://api.github.com/users/StormyHares/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/StormyHares/received_events",
+              "type": "Organization",
+              "site_admin": false
+            },
+            "private": false,
+            "html_url": "https://github.com/StormyHares/Bangazon_WebApp",
+            "description": "Bangazon MVC Web Application",
+            "fork": false,
+            "url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp",
+            "forks_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/forks",
+            "keys_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/teams",
+            "hooks_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/hooks",
+            "issue_events_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/events",
+            "assignees_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/tags",
+            "blobs_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/languages",
+            "stargazers_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/stargazers",
+            "contributors_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/contributors",
+            "subscribers_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/subscribers",
+            "subscription_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/subscription",
+            "commits_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/comments{/number}",
+            "contents_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/merges",
+            "archive_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/downloads",
+            "issues_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/labels{/name}",
+            "releases_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/releases{/id}",
+            "deployments_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/deployments",
+            "created_at": "2018-02-15T19:27:36Z",
+            "updated_at": "2018-02-15T20:30:02Z",
+            "pushed_at": "2018-02-22T21:15:02Z",
+            "git_url": "git://github.com/StormyHares/Bangazon_WebApp.git",
+            "ssh_url": "git@github.com:StormyHares/Bangazon_WebApp.git",
+            "clone_url": "https://github.com/StormyHares/Bangazon_WebApp.git",
+            "svn_url": "https://github.com/StormyHares/Bangazon_WebApp",
+            "homepage": null,
+            "size": 694,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": "C#",
+            "has_issues": true,
+            "has_projects": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": false,
+            "forks_count": 0,
+            "mirror_url": null,
+            "archived": false,
+            "open_issues_count": 23,
+            "license": null,
+            "forks": 0,
+            "open_issues": 23,
+            "watchers": 0,
+            "default_branch": "master"
+          }
+        },
+        "base": {
+          "label": "StormyHares:develop",
+          "ref": "develop",
+          "sha": "60c9877692ca1a982ba853be057c074afeae1c6f",
+          "user": {
+            "login": "StormyHares",
+            "id": 35742655,
+            "avatar_url": "https://avatars3.githubusercontent.com/u/35742655?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/StormyHares",
+            "html_url": "https://github.com/StormyHares",
+            "followers_url": "https://api.github.com/users/StormyHares/followers",
+            "following_url": "https://api.github.com/users/StormyHares/following{/other_user}",
+            "gists_url": "https://api.github.com/users/StormyHares/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/StormyHares/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/StormyHares/subscriptions",
+            "organizations_url": "https://api.github.com/users/StormyHares/orgs",
+            "repos_url": "https://api.github.com/users/StormyHares/repos",
+            "events_url": "https://api.github.com/users/StormyHares/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/StormyHares/received_events",
+            "type": "Organization",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 121672190,
+            "name": "Bangazon_WebApp",
+            "full_name": "StormyHares/Bangazon_WebApp",
+            "owner": {
+              "login": "StormyHares",
+              "id": 35742655,
+              "avatar_url": "https://avatars3.githubusercontent.com/u/35742655?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/StormyHares",
+              "html_url": "https://github.com/StormyHares",
+              "followers_url": "https://api.github.com/users/StormyHares/followers",
+              "following_url": "https://api.github.com/users/StormyHares/following{/other_user}",
+              "gists_url": "https://api.github.com/users/StormyHares/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/StormyHares/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/StormyHares/subscriptions",
+              "organizations_url": "https://api.github.com/users/StormyHares/orgs",
+              "repos_url": "https://api.github.com/users/StormyHares/repos",
+              "events_url": "https://api.github.com/users/StormyHares/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/StormyHares/received_events",
+              "type": "Organization",
+              "site_admin": false
+            },
+            "private": false,
+            "html_url": "https://github.com/StormyHares/Bangazon_WebApp",
+            "description": "Bangazon MVC Web Application",
+            "fork": false,
+            "url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp",
+            "forks_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/forks",
+            "keys_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/teams",
+            "hooks_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/hooks",
+            "issue_events_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/events",
+            "assignees_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/tags",
+            "blobs_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/languages",
+            "stargazers_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/stargazers",
+            "contributors_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/contributors",
+            "subscribers_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/subscribers",
+            "subscription_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/subscription",
+            "commits_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/comments{/number}",
+            "contents_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/merges",
+            "archive_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/downloads",
+            "issues_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/labels{/name}",
+            "releases_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/releases{/id}",
+            "deployments_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/deployments",
+            "created_at": "2018-02-15T19:27:36Z",
+            "updated_at": "2018-02-15T20:30:02Z",
+            "pushed_at": "2018-02-22T21:15:02Z",
+            "git_url": "git://github.com/StormyHares/Bangazon_WebApp.git",
+            "ssh_url": "git@github.com:StormyHares/Bangazon_WebApp.git",
+            "clone_url": "https://github.com/StormyHares/Bangazon_WebApp.git",
+            "svn_url": "https://github.com/StormyHares/Bangazon_WebApp",
+            "homepage": null,
+            "size": 694,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": "C#",
+            "has_issues": true,
+            "has_projects": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": false,
+            "forks_count": 0,
+            "mirror_url": null,
+            "archived": false,
+            "open_issues_count": 23,
+            "license": null,
+            "forks": 0,
+            "open_issues": 23,
+            "watchers": 0,
+            "default_branch": "master"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls/35"
+          },
+          "html": {
+            "href": "https://github.com/StormyHares/Bangazon_WebApp/pull/35"
+          },
+          "issue": {
+            "href": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/35"
+          },
+          "comments": {
+            "href": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/35/comments"
+          },
+          "review_comments": {
+            "href": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls/35/comments"
+          },
+          "review_comment": {
+            "href": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls/comments{/number}"
+          },
+          "commits": {
+            "href": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls/35/commits"
+          },
+          "statuses": {
+            "href": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/statuses/c4b36519c52aaa719b27363917da5a7b62d1db6b"
+          }
+        },
+        "author_association": "NONE",
+        "merged": false,
+        "mergeable": null,
+        "rebaseable": null,
+        "mergeable_state": "unknown",
+        "merged_by": null,
+        "comments": 0,
+        "review_comments": 0,
+        "maintainer_can_modify": false,
+        "commits": 1,
+        "additions": 7,
+        "deletions": 3,
+        "changed_files": 5
+      }
+    },
+    "public": true,
+    "created_at": "2018-02-22T21:21:19Z",
+    "org": {
+      "id": 35742655,
+      "login": "StormyHares",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/StormyHares",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35742655?"
+    }
+  },
+  {
+    "id": "7284052820",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 32465672,
+      "login": "dacamor",
+      "display_login": "dacamor",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dacamor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32465672?"
+    },
+    "repo": {
+      "id": 121672190,
+      "name": "StormyHares/Bangazon_WebApp",
+      "url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp"
+    },
+    "payload": {
+      "ref": "SW-16",
+      "ref_type": "branch",
+      "master_branch": "master",
+      "description": "Bangazon MVC Web Application",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2018-02-22T21:15:02Z",
+    "org": {
+      "id": 35742655,
+      "login": "StormyHares",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/StormyHares",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35742655?"
+    }
+  },
+  {
+    "id": "7284017475",
+    "type": "IssueCommentEvent",
+    "actor": {
+      "id": 32465672,
+      "login": "dacamor",
+      "display_login": "dacamor",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dacamor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32465672?"
+    },
+    "repo": {
+      "id": 121672190,
+      "name": "StormyHares/Bangazon_WebApp",
+      "url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp"
+    },
+    "payload": {
+      "action": "created",
+      "issue": {
+        "url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/34",
+        "repository_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp",
+        "labels_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/34/labels{/name}",
+        "comments_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/34/comments",
+        "events_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/34/events",
+        "html_url": "https://github.com/StormyHares/Bangazon_WebApp/pull/34",
+        "id": 299484531,
+        "number": 34,
+        "title": "Chase",
+        "user": {
+          "login": "ChaseSteely",
+          "id": 22205404,
+          "avatar_url": "https://avatars0.githubusercontent.com/u/22205404?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/ChaseSteely",
+          "html_url": "https://github.com/ChaseSteely",
+          "followers_url": "https://api.github.com/users/ChaseSteely/followers",
+          "following_url": "https://api.github.com/users/ChaseSteely/following{/other_user}",
+          "gists_url": "https://api.github.com/users/ChaseSteely/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/ChaseSteely/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/ChaseSteely/subscriptions",
+          "organizations_url": "https://api.github.com/users/ChaseSteely/orgs",
+          "repos_url": "https://api.github.com/users/ChaseSteely/repos",
+          "events_url": "https://api.github.com/users/ChaseSteely/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/ChaseSteely/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+          
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": null,
+        "assignees": [
+          
+        ],
+        "milestone": null,
+        "comments": 0,
+        "created_at": "2018-02-22T19:48:56Z",
+        "updated_at": "2018-02-22T21:07:28Z",
+        "closed_at": null,
+        "author_association": "CONTRIBUTOR",
+        "pull_request": {
+          "url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls/34",
+          "html_url": "https://github.com/StormyHares/Bangazon_WebApp/pull/34",
+          "diff_url": "https://github.com/StormyHares/Bangazon_WebApp/pull/34.diff",
+          "patch_url": "https://github.com/StormyHares/Bangazon_WebApp/pull/34.patch"
+        },
+        "body": "* **The Name of this branch is**\r\n\r\n\r\n* **Please check if the PR fulfills these requirements**\r\n- [ ] All files contain comments including Author, Purpose\r\n- [ ] All methods contain comments including Purpose, And Argument List and a short purpose for each argument\r\n- [ ] Tests for the changes have been added (for bug fixes / features)\r\n- [ ] Docs have been added / updated (for bug fixes / features)\r\n\r\n\r\n\r\n* **What kind of change does this PR introduce?** (Bug Fix, Feature, Document Update...)\r\nUser can Complete an Order from the Cart, and view all orders from the Orders tab.\r\n\r\n\r\n* **What Ticket is associated with this PR**\r\nhttps://github.com/StormyHares/Bangazon_WebApp/issues/2\r\n\r\n\r\n* **What is the new behavior?**  (if this is a feature change)\r\nUser can Complete an Order from the Cart, and view all orders from the Orders tab.\r\n\r\n* **List all core functionality** (Must include at least one Unit Test for Each)\r\nUser can Complete an Order from the Cart, and view all orders from the Orders tab.\r\n\r\n* **Other information / Steps to Test**:\r\nSeed the database\r\nrun\r\n"
+      },
+      "comment": {
+        "url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/comments/367822373",
+        "html_url": "https://github.com/StormyHares/Bangazon_WebApp/pull/34#issuecomment-367822373",
+        "issue_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/34",
+        "id": 367822373,
+        "user": {
+          "login": "dacamor",
+          "id": 32465672,
+          "avatar_url": "https://avatars3.githubusercontent.com/u/32465672?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/dacamor",
+          "html_url": "https://github.com/dacamor",
+          "followers_url": "https://api.github.com/users/dacamor/followers",
+          "following_url": "https://api.github.com/users/dacamor/following{/other_user}",
+          "gists_url": "https://api.github.com/users/dacamor/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/dacamor/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/dacamor/subscriptions",
+          "organizations_url": "https://api.github.com/users/dacamor/orgs",
+          "repos_url": "https://api.github.com/users/dacamor/repos",
+          "events_url": "https://api.github.com/users/dacamor/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/dacamor/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "created_at": "2018-02-22T21:07:28Z",
+        "updated_at": "2018-02-22T21:07:28Z",
+        "author_association": "NONE",
+        "body": ":+1: "
+      }
+    },
+    "public": true,
+    "created_at": "2018-02-22T21:07:28Z",
+    "org": {
+      "id": 35742655,
+      "login": "StormyHares",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/StormyHares",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35742655?"
+    }
+  },
+  {
+    "id": "7283554546",
+    "type": "DeleteEvent",
+    "actor": {
+      "id": 32465672,
+      "login": "dacamor",
+      "display_login": "dacamor",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dacamor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32465672?"
+    },
+    "repo": {
+      "id": 121672190,
+      "name": "StormyHares/Bangazon_WebApp",
+      "url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp"
+    },
+    "payload": {
+      "ref": "SW-14",
+      "ref_type": "branch",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2018-02-22T19:31:31Z",
+    "org": {
+      "id": 35742655,
+      "login": "StormyHares",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/StormyHares",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35742655?"
+    }
+  },
+  {
+    "id": "7283554317",
+    "type": "PushEvent",
+    "actor": {
+      "id": 32465672,
+      "login": "dacamor",
+      "display_login": "dacamor",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dacamor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32465672?"
+    },
+    "repo": {
+      "id": 121672190,
+      "name": "StormyHares/Bangazon_WebApp",
+      "url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp"
+    },
+    "payload": {
+      "push_id": 2351426009,
+      "size": 2,
+      "distinct_size": 1,
+      "ref": "refs/heads/develop",
+      "head": "6c2770388a454106b945ab77848f45861af8b38d",
+      "before": "da411a4b5937a8b218ebed04aad6a20030e3d177",
+      "commits": [
+        {
+          "sha": "ed7e4a83b6e74d807de54133f398eee352d219b4",
+          "author": {
+            "email": "dacamor85@gmail.com",
+            "name": "Sean Williams"
+          },
+          "message": "added photo upload and display",
+          "distinct": false,
+          "url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/commits/ed7e4a83b6e74d807de54133f398eee352d219b4"
+        },
+        {
+          "sha": "6c2770388a454106b945ab77848f45861af8b38d",
+          "author": {
+            "email": "32465672+dacamor@users.noreply.github.com",
+            "name": "dacamor"
+          },
+          "message": "Merge pull request #33 from StormyHares/SW-14\n\nadded photo upload and display",
+          "distinct": true,
+          "url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/commits/6c2770388a454106b945ab77848f45861af8b38d"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2018-02-22T19:31:28Z",
+    "org": {
+      "id": 35742655,
+      "login": "StormyHares",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/StormyHares",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35742655?"
+    }
+  },
+  {
+    "id": "7283554277",
+    "type": "PullRequestEvent",
+    "actor": {
+      "id": 32465672,
+      "login": "dacamor",
+      "display_login": "dacamor",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dacamor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32465672?"
+    },
+    "repo": {
+      "id": 121672190,
+      "name": "StormyHares/Bangazon_WebApp",
+      "url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp"
+    },
+    "payload": {
+      "action": "closed",
+      "number": 33,
+      "pull_request": {
+        "url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls/33",
+        "id": 170821639,
+        "html_url": "https://github.com/StormyHares/Bangazon_WebApp/pull/33",
+        "diff_url": "https://github.com/StormyHares/Bangazon_WebApp/pull/33.diff",
+        "patch_url": "https://github.com/StormyHares/Bangazon_WebApp/pull/33.patch",
+        "issue_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/33",
+        "number": 33,
+        "state": "closed",
+        "locked": false,
+        "title": "added photo upload and display",
+        "user": {
+          "login": "dacamor",
+          "id": 32465672,
+          "avatar_url": "https://avatars3.githubusercontent.com/u/32465672?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/dacamor",
+          "html_url": "https://github.com/dacamor",
+          "followers_url": "https://api.github.com/users/dacamor/followers",
+          "following_url": "https://api.github.com/users/dacamor/following{/other_user}",
+          "gists_url": "https://api.github.com/users/dacamor/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/dacamor/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/dacamor/subscriptions",
+          "organizations_url": "https://api.github.com/users/dacamor/orgs",
+          "repos_url": "https://api.github.com/users/dacamor/repos",
+          "events_url": "https://api.github.com/users/dacamor/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/dacamor/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "body": "* **The Name of this branch is**\r\n\r\n\r\n* **Please check if the PR fulfills these requirements**\r\n- [ ] All files contain comments including Author, Purpose\r\n- [ ] All methods contain comments including Purpose, And Argument List and a short purpose for each argument\r\n- [ ] Tests for the changes have been added (for bug fixes / features)\r\n- [ ] Docs have been added / updated (for bug fixes / features)\r\n\r\n\r\n\r\n* **What kind of change does this PR introduce?** (Bug Fix, Feature, Document Update...)\r\nUser can now upload a photo during product creation\r\nPhoto is displayed on product details page\r\n\r\n\r\n* **What Ticket is associated with this PR**\r\nTicket 14: https://github.com/StormyHares/Bangazon_WebApp/issues/14\r\n\r\n\r\n* **What is the new behavior?**  (if this is a feature change)\r\nUser can now upload a photo during product creation\r\nPhoto is displayed on product details page\r\n\r\n\r\n* **List all core functionality** (Must include at least one Unit Test for Each)\r\n\r\n\r\n* **Other information / Steps to Test**:\r\ngit fetch --all\r\ngit checkout SW-14\r\nrun program\r\nlogin\r\nclick \"sell a product\"\r\nfill out the form\r\nUnder PhotoName, upload a photo\r\nverify that the photo appears as a thumbnail on the details page for that product",
+        "created_at": "2018-02-22T17:52:43Z",
+        "updated_at": "2018-02-22T19:31:27Z",
+        "closed_at": "2018-02-22T19:31:27Z",
+        "merged_at": "2018-02-22T19:31:27Z",
+        "merge_commit_sha": "6c2770388a454106b945ab77848f45861af8b38d",
+        "assignee": null,
+        "assignees": [
+          
+        ],
+        "requested_reviewers": [
+          
+        ],
+        "requested_teams": [
+          
+        ],
+        "labels": [
+          
+        ],
+        "milestone": null,
+        "commits_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls/33/commits",
+        "review_comments_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls/33/comments",
+        "review_comment_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls/comments{/number}",
+        "comments_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/33/comments",
+        "statuses_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/statuses/ed7e4a83b6e74d807de54133f398eee352d219b4",
+        "head": {
+          "label": "StormyHares:SW-14",
+          "ref": "SW-14",
+          "sha": "ed7e4a83b6e74d807de54133f398eee352d219b4",
+          "user": {
+            "login": "StormyHares",
+            "id": 35742655,
+            "avatar_url": "https://avatars3.githubusercontent.com/u/35742655?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/StormyHares",
+            "html_url": "https://github.com/StormyHares",
+            "followers_url": "https://api.github.com/users/StormyHares/followers",
+            "following_url": "https://api.github.com/users/StormyHares/following{/other_user}",
+            "gists_url": "https://api.github.com/users/StormyHares/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/StormyHares/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/StormyHares/subscriptions",
+            "organizations_url": "https://api.github.com/users/StormyHares/orgs",
+            "repos_url": "https://api.github.com/users/StormyHares/repos",
+            "events_url": "https://api.github.com/users/StormyHares/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/StormyHares/received_events",
+            "type": "Organization",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 121672190,
+            "name": "Bangazon_WebApp",
+            "full_name": "StormyHares/Bangazon_WebApp",
+            "owner": {
+              "login": "StormyHares",
+              "id": 35742655,
+              "avatar_url": "https://avatars3.githubusercontent.com/u/35742655?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/StormyHares",
+              "html_url": "https://github.com/StormyHares",
+              "followers_url": "https://api.github.com/users/StormyHares/followers",
+              "following_url": "https://api.github.com/users/StormyHares/following{/other_user}",
+              "gists_url": "https://api.github.com/users/StormyHares/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/StormyHares/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/StormyHares/subscriptions",
+              "organizations_url": "https://api.github.com/users/StormyHares/orgs",
+              "repos_url": "https://api.github.com/users/StormyHares/repos",
+              "events_url": "https://api.github.com/users/StormyHares/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/StormyHares/received_events",
+              "type": "Organization",
+              "site_admin": false
+            },
+            "private": false,
+            "html_url": "https://github.com/StormyHares/Bangazon_WebApp",
+            "description": "Bangazon MVC Web Application",
+            "fork": false,
+            "url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp",
+            "forks_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/forks",
+            "keys_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/teams",
+            "hooks_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/hooks",
+            "issue_events_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/events",
+            "assignees_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/tags",
+            "blobs_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/languages",
+            "stargazers_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/stargazers",
+            "contributors_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/contributors",
+            "subscribers_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/subscribers",
+            "subscription_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/subscription",
+            "commits_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/comments{/number}",
+            "contents_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/merges",
+            "archive_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/downloads",
+            "issues_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/labels{/name}",
+            "releases_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/releases{/id}",
+            "deployments_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/deployments",
+            "created_at": "2018-02-15T19:27:36Z",
+            "updated_at": "2018-02-15T20:30:02Z",
+            "pushed_at": "2018-02-22T19:31:27Z",
+            "git_url": "git://github.com/StormyHares/Bangazon_WebApp.git",
+            "ssh_url": "git@github.com:StormyHares/Bangazon_WebApp.git",
+            "clone_url": "https://github.com/StormyHares/Bangazon_WebApp.git",
+            "svn_url": "https://github.com/StormyHares/Bangazon_WebApp",
+            "homepage": null,
+            "size": 666,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": "C#",
+            "has_issues": true,
+            "has_projects": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": false,
+            "forks_count": 0,
+            "mirror_url": null,
+            "archived": false,
+            "open_issues_count": 22,
+            "license": null,
+            "forks": 0,
+            "open_issues": 22,
+            "watchers": 0,
+            "default_branch": "master"
+          }
+        },
+        "base": {
+          "label": "StormyHares:develop",
+          "ref": "develop",
+          "sha": "da411a4b5937a8b218ebed04aad6a20030e3d177",
+          "user": {
+            "login": "StormyHares",
+            "id": 35742655,
+            "avatar_url": "https://avatars3.githubusercontent.com/u/35742655?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/StormyHares",
+            "html_url": "https://github.com/StormyHares",
+            "followers_url": "https://api.github.com/users/StormyHares/followers",
+            "following_url": "https://api.github.com/users/StormyHares/following{/other_user}",
+            "gists_url": "https://api.github.com/users/StormyHares/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/StormyHares/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/StormyHares/subscriptions",
+            "organizations_url": "https://api.github.com/users/StormyHares/orgs",
+            "repos_url": "https://api.github.com/users/StormyHares/repos",
+            "events_url": "https://api.github.com/users/StormyHares/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/StormyHares/received_events",
+            "type": "Organization",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 121672190,
+            "name": "Bangazon_WebApp",
+            "full_name": "StormyHares/Bangazon_WebApp",
+            "owner": {
+              "login": "StormyHares",
+              "id": 35742655,
+              "avatar_url": "https://avatars3.githubusercontent.com/u/35742655?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/StormyHares",
+              "html_url": "https://github.com/StormyHares",
+              "followers_url": "https://api.github.com/users/StormyHares/followers",
+              "following_url": "https://api.github.com/users/StormyHares/following{/other_user}",
+              "gists_url": "https://api.github.com/users/StormyHares/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/StormyHares/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/StormyHares/subscriptions",
+              "organizations_url": "https://api.github.com/users/StormyHares/orgs",
+              "repos_url": "https://api.github.com/users/StormyHares/repos",
+              "events_url": "https://api.github.com/users/StormyHares/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/StormyHares/received_events",
+              "type": "Organization",
+              "site_admin": false
+            },
+            "private": false,
+            "html_url": "https://github.com/StormyHares/Bangazon_WebApp",
+            "description": "Bangazon MVC Web Application",
+            "fork": false,
+            "url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp",
+            "forks_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/forks",
+            "keys_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/teams",
+            "hooks_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/hooks",
+            "issue_events_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/events",
+            "assignees_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/tags",
+            "blobs_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/languages",
+            "stargazers_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/stargazers",
+            "contributors_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/contributors",
+            "subscribers_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/subscribers",
+            "subscription_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/subscription",
+            "commits_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/comments{/number}",
+            "contents_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/merges",
+            "archive_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/downloads",
+            "issues_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/labels{/name}",
+            "releases_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/releases{/id}",
+            "deployments_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/deployments",
+            "created_at": "2018-02-15T19:27:36Z",
+            "updated_at": "2018-02-15T20:30:02Z",
+            "pushed_at": "2018-02-22T19:31:27Z",
+            "git_url": "git://github.com/StormyHares/Bangazon_WebApp.git",
+            "ssh_url": "git@github.com:StormyHares/Bangazon_WebApp.git",
+            "clone_url": "https://github.com/StormyHares/Bangazon_WebApp.git",
+            "svn_url": "https://github.com/StormyHares/Bangazon_WebApp",
+            "homepage": null,
+            "size": 666,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": "C#",
+            "has_issues": true,
+            "has_projects": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": false,
+            "forks_count": 0,
+            "mirror_url": null,
+            "archived": false,
+            "open_issues_count": 22,
+            "license": null,
+            "forks": 0,
+            "open_issues": 22,
+            "watchers": 0,
+            "default_branch": "master"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls/33"
+          },
+          "html": {
+            "href": "https://github.com/StormyHares/Bangazon_WebApp/pull/33"
+          },
+          "issue": {
+            "href": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/33"
+          },
+          "comments": {
+            "href": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/33/comments"
+          },
+          "review_comments": {
+            "href": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls/33/comments"
+          },
+          "review_comment": {
+            "href": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls/comments{/number}"
+          },
+          "commits": {
+            "href": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls/33/commits"
+          },
+          "statuses": {
+            "href": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/statuses/ed7e4a83b6e74d807de54133f398eee352d219b4"
+          }
+        },
+        "author_association": "NONE",
+        "merged": true,
+        "mergeable": null,
+        "rebaseable": null,
+        "mergeable_state": "unknown",
+        "merged_by": {
+          "login": "dacamor",
+          "id": 32465672,
+          "avatar_url": "https://avatars3.githubusercontent.com/u/32465672?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/dacamor",
+          "html_url": "https://github.com/dacamor",
+          "followers_url": "https://api.github.com/users/dacamor/followers",
+          "following_url": "https://api.github.com/users/dacamor/following{/other_user}",
+          "gists_url": "https://api.github.com/users/dacamor/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/dacamor/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/dacamor/subscriptions",
+          "organizations_url": "https://api.github.com/users/dacamor/orgs",
+          "repos_url": "https://api.github.com/users/dacamor/repos",
+          "events_url": "https://api.github.com/users/dacamor/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/dacamor/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "comments": 1,
+        "review_comments": 0,
+        "maintainer_can_modify": false,
+        "commits": 1,
+        "additions": 24,
+        "deletions": 7,
+        "changed_files": 5
+      }
+    },
+    "public": true,
+    "created_at": "2018-02-22T19:31:28Z",
+    "org": {
+      "id": 35742655,
+      "login": "StormyHares",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/StormyHares",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35742655?"
+    }
+  },
+  {
+    "id": "7283060277",
+    "type": "PullRequestEvent",
+    "actor": {
+      "id": 32465672,
+      "login": "dacamor",
+      "display_login": "dacamor",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dacamor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32465672?"
+    },
+    "repo": {
+      "id": 121672190,
+      "name": "StormyHares/Bangazon_WebApp",
+      "url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp"
+    },
+    "payload": {
+      "action": "opened",
+      "number": 33,
+      "pull_request": {
+        "url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls/33",
+        "id": 170821639,
+        "html_url": "https://github.com/StormyHares/Bangazon_WebApp/pull/33",
+        "diff_url": "https://github.com/StormyHares/Bangazon_WebApp/pull/33.diff",
+        "patch_url": "https://github.com/StormyHares/Bangazon_WebApp/pull/33.patch",
+        "issue_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/33",
+        "number": 33,
+        "state": "open",
+        "locked": false,
+        "title": "added photo upload and display",
+        "user": {
+          "login": "dacamor",
+          "id": 32465672,
+          "avatar_url": "https://avatars3.githubusercontent.com/u/32465672?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/dacamor",
+          "html_url": "https://github.com/dacamor",
+          "followers_url": "https://api.github.com/users/dacamor/followers",
+          "following_url": "https://api.github.com/users/dacamor/following{/other_user}",
+          "gists_url": "https://api.github.com/users/dacamor/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/dacamor/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/dacamor/subscriptions",
+          "organizations_url": "https://api.github.com/users/dacamor/orgs",
+          "repos_url": "https://api.github.com/users/dacamor/repos",
+          "events_url": "https://api.github.com/users/dacamor/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/dacamor/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "body": "* **The Name of this branch is**\r\n\r\n\r\n* **Please check if the PR fulfills these requirements**\r\n- [ ] All files contain comments including Author, Purpose\r\n- [ ] All methods contain comments including Purpose, And Argument List and a short purpose for each argument\r\n- [ ] Tests for the changes have been added (for bug fixes / features)\r\n- [ ] Docs have been added / updated (for bug fixes / features)\r\n\r\n\r\n\r\n* **What kind of change does this PR introduce?** (Bug Fix, Feature, Document Update...)\r\nUser can now upload a photo during product creation\r\nPhoto is displayed on product details page\r\n\r\n\r\n* **What Ticket is associated with this PR**\r\nTicket 14: https://github.com/StormyHares/Bangazon_WebApp/issues/14\r\n\r\n\r\n* **What is the new behavior?**  (if this is a feature change)\r\nUser can now upload a photo during product creation\r\nPhoto is displayed on product details page\r\n\r\n\r\n* **List all core functionality** (Must include at least one Unit Test for Each)\r\n\r\n\r\n* **Other information / Steps to Test**:\r\ngit fetch --all\r\ngit checkout SW-14\r\nrun program\r\nlogin\r\nclick \"sell a product\"\r\nfill out the form\r\nUnder PhotoName, upload a photo\r\nverify that the photo appears as a thumbnail on the details page for that product",
+        "created_at": "2018-02-22T17:52:43Z",
+        "updated_at": "2018-02-22T17:52:43Z",
+        "closed_at": null,
+        "merged_at": null,
+        "merge_commit_sha": null,
+        "assignee": null,
+        "assignees": [
+          
+        ],
+        "requested_reviewers": [
+          
+        ],
+        "requested_teams": [
+          
+        ],
+        "labels": [
+          
+        ],
+        "milestone": null,
+        "commits_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls/33/commits",
+        "review_comments_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls/33/comments",
+        "review_comment_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls/comments{/number}",
+        "comments_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/33/comments",
+        "statuses_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/statuses/ed7e4a83b6e74d807de54133f398eee352d219b4",
+        "head": {
+          "label": "StormyHares:SW-14",
+          "ref": "SW-14",
+          "sha": "ed7e4a83b6e74d807de54133f398eee352d219b4",
+          "user": {
+            "login": "StormyHares",
+            "id": 35742655,
+            "avatar_url": "https://avatars3.githubusercontent.com/u/35742655?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/StormyHares",
+            "html_url": "https://github.com/StormyHares",
+            "followers_url": "https://api.github.com/users/StormyHares/followers",
+            "following_url": "https://api.github.com/users/StormyHares/following{/other_user}",
+            "gists_url": "https://api.github.com/users/StormyHares/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/StormyHares/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/StormyHares/subscriptions",
+            "organizations_url": "https://api.github.com/users/StormyHares/orgs",
+            "repos_url": "https://api.github.com/users/StormyHares/repos",
+            "events_url": "https://api.github.com/users/StormyHares/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/StormyHares/received_events",
+            "type": "Organization",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 121672190,
+            "name": "Bangazon_WebApp",
+            "full_name": "StormyHares/Bangazon_WebApp",
+            "owner": {
+              "login": "StormyHares",
+              "id": 35742655,
+              "avatar_url": "https://avatars3.githubusercontent.com/u/35742655?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/StormyHares",
+              "html_url": "https://github.com/StormyHares",
+              "followers_url": "https://api.github.com/users/StormyHares/followers",
+              "following_url": "https://api.github.com/users/StormyHares/following{/other_user}",
+              "gists_url": "https://api.github.com/users/StormyHares/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/StormyHares/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/StormyHares/subscriptions",
+              "organizations_url": "https://api.github.com/users/StormyHares/orgs",
+              "repos_url": "https://api.github.com/users/StormyHares/repos",
+              "events_url": "https://api.github.com/users/StormyHares/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/StormyHares/received_events",
+              "type": "Organization",
+              "site_admin": false
+            },
+            "private": false,
+            "html_url": "https://github.com/StormyHares/Bangazon_WebApp",
+            "description": "Bangazon MVC Web Application",
+            "fork": false,
+            "url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp",
+            "forks_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/forks",
+            "keys_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/teams",
+            "hooks_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/hooks",
+            "issue_events_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/events",
+            "assignees_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/tags",
+            "blobs_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/languages",
+            "stargazers_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/stargazers",
+            "contributors_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/contributors",
+            "subscribers_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/subscribers",
+            "subscription_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/subscription",
+            "commits_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/comments{/number}",
+            "contents_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/merges",
+            "archive_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/downloads",
+            "issues_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/labels{/name}",
+            "releases_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/releases{/id}",
+            "deployments_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/deployments",
+            "created_at": "2018-02-15T19:27:36Z",
+            "updated_at": "2018-02-15T20:30:02Z",
+            "pushed_at": "2018-02-22T17:47:37Z",
+            "git_url": "git://github.com/StormyHares/Bangazon_WebApp.git",
+            "ssh_url": "git@github.com:StormyHares/Bangazon_WebApp.git",
+            "clone_url": "https://github.com/StormyHares/Bangazon_WebApp.git",
+            "svn_url": "https://github.com/StormyHares/Bangazon_WebApp",
+            "homepage": null,
+            "size": 621,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": "C#",
+            "has_issues": true,
+            "has_projects": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": false,
+            "forks_count": 0,
+            "mirror_url": null,
+            "archived": false,
+            "open_issues_count": 23,
+            "license": null,
+            "forks": 0,
+            "open_issues": 23,
+            "watchers": 0,
+            "default_branch": "master"
+          }
+        },
+        "base": {
+          "label": "StormyHares:develop",
+          "ref": "develop",
+          "sha": "da411a4b5937a8b218ebed04aad6a20030e3d177",
+          "user": {
+            "login": "StormyHares",
+            "id": 35742655,
+            "avatar_url": "https://avatars3.githubusercontent.com/u/35742655?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/StormyHares",
+            "html_url": "https://github.com/StormyHares",
+            "followers_url": "https://api.github.com/users/StormyHares/followers",
+            "following_url": "https://api.github.com/users/StormyHares/following{/other_user}",
+            "gists_url": "https://api.github.com/users/StormyHares/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/StormyHares/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/StormyHares/subscriptions",
+            "organizations_url": "https://api.github.com/users/StormyHares/orgs",
+            "repos_url": "https://api.github.com/users/StormyHares/repos",
+            "events_url": "https://api.github.com/users/StormyHares/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/StormyHares/received_events",
+            "type": "Organization",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 121672190,
+            "name": "Bangazon_WebApp",
+            "full_name": "StormyHares/Bangazon_WebApp",
+            "owner": {
+              "login": "StormyHares",
+              "id": 35742655,
+              "avatar_url": "https://avatars3.githubusercontent.com/u/35742655?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/StormyHares",
+              "html_url": "https://github.com/StormyHares",
+              "followers_url": "https://api.github.com/users/StormyHares/followers",
+              "following_url": "https://api.github.com/users/StormyHares/following{/other_user}",
+              "gists_url": "https://api.github.com/users/StormyHares/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/StormyHares/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/StormyHares/subscriptions",
+              "organizations_url": "https://api.github.com/users/StormyHares/orgs",
+              "repos_url": "https://api.github.com/users/StormyHares/repos",
+              "events_url": "https://api.github.com/users/StormyHares/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/StormyHares/received_events",
+              "type": "Organization",
+              "site_admin": false
+            },
+            "private": false,
+            "html_url": "https://github.com/StormyHares/Bangazon_WebApp",
+            "description": "Bangazon MVC Web Application",
+            "fork": false,
+            "url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp",
+            "forks_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/forks",
+            "keys_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/teams",
+            "hooks_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/hooks",
+            "issue_events_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/events",
+            "assignees_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/tags",
+            "blobs_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/languages",
+            "stargazers_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/stargazers",
+            "contributors_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/contributors",
+            "subscribers_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/subscribers",
+            "subscription_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/subscription",
+            "commits_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/comments{/number}",
+            "contents_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/merges",
+            "archive_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/downloads",
+            "issues_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/labels{/name}",
+            "releases_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/releases{/id}",
+            "deployments_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/deployments",
+            "created_at": "2018-02-15T19:27:36Z",
+            "updated_at": "2018-02-15T20:30:02Z",
+            "pushed_at": "2018-02-22T17:47:37Z",
+            "git_url": "git://github.com/StormyHares/Bangazon_WebApp.git",
+            "ssh_url": "git@github.com:StormyHares/Bangazon_WebApp.git",
+            "clone_url": "https://github.com/StormyHares/Bangazon_WebApp.git",
+            "svn_url": "https://github.com/StormyHares/Bangazon_WebApp",
+            "homepage": null,
+            "size": 621,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": "C#",
+            "has_issues": true,
+            "has_projects": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": false,
+            "forks_count": 0,
+            "mirror_url": null,
+            "archived": false,
+            "open_issues_count": 23,
+            "license": null,
+            "forks": 0,
+            "open_issues": 23,
+            "watchers": 0,
+            "default_branch": "master"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls/33"
+          },
+          "html": {
+            "href": "https://github.com/StormyHares/Bangazon_WebApp/pull/33"
+          },
+          "issue": {
+            "href": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/33"
+          },
+          "comments": {
+            "href": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/33/comments"
+          },
+          "review_comments": {
+            "href": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls/33/comments"
+          },
+          "review_comment": {
+            "href": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls/comments{/number}"
+          },
+          "commits": {
+            "href": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls/33/commits"
+          },
+          "statuses": {
+            "href": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/statuses/ed7e4a83b6e74d807de54133f398eee352d219b4"
+          }
+        },
+        "author_association": "NONE",
+        "merged": false,
+        "mergeable": null,
+        "rebaseable": null,
+        "mergeable_state": "unknown",
+        "merged_by": null,
+        "comments": 0,
+        "review_comments": 0,
+        "maintainer_can_modify": false,
+        "commits": 1,
+        "additions": 24,
+        "deletions": 7,
+        "changed_files": 5
+      }
+    },
+    "public": true,
+    "created_at": "2018-02-22T17:52:43Z",
+    "org": {
+      "id": 35742655,
+      "login": "StormyHares",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/StormyHares",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35742655?"
+    }
+  },
+  {
+    "id": "7283034796",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 32465672,
+      "login": "dacamor",
+      "display_login": "dacamor",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dacamor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32465672?"
+    },
+    "repo": {
+      "id": 121672190,
+      "name": "StormyHares/Bangazon_WebApp",
+      "url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp"
+    },
+    "payload": {
+      "ref": "SW-14",
+      "ref_type": "branch",
+      "master_branch": "master",
+      "description": "Bangazon MVC Web Application",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2018-02-22T17:47:38Z",
+    "org": {
+      "id": 35742655,
+      "login": "StormyHares",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/StormyHares",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35742655?"
+    }
+  },
+  {
+    "id": "7277444486",
+    "type": "IssueCommentEvent",
+    "actor": {
+      "id": 32465672,
+      "login": "dacamor",
+      "display_login": "dacamor",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dacamor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32465672?"
+    },
+    "repo": {
+      "id": 121672190,
+      "name": "StormyHares/Bangazon_WebApp",
+      "url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp"
+    },
+    "payload": {
+      "action": "created",
+      "issue": {
+        "url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/31",
+        "repository_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp",
+        "labels_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/31/labels{/name}",
+        "comments_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/31/comments",
+        "events_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/31/events",
+        "html_url": "https://github.com/StormyHares/Bangazon_WebApp/pull/31",
+        "id": 299095005,
+        "number": 31,
+        "title": "Search cm",
+        "user": {
+          "login": "camilleryr",
+          "id": 32465602,
+          "avatar_url": "https://avatars3.githubusercontent.com/u/32465602?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/camilleryr",
+          "html_url": "https://github.com/camilleryr",
+          "followers_url": "https://api.github.com/users/camilleryr/followers",
+          "following_url": "https://api.github.com/users/camilleryr/following{/other_user}",
+          "gists_url": "https://api.github.com/users/camilleryr/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/camilleryr/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/camilleryr/subscriptions",
+          "organizations_url": "https://api.github.com/users/camilleryr/orgs",
+          "repos_url": "https://api.github.com/users/camilleryr/repos",
+          "events_url": "https://api.github.com/users/camilleryr/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/camilleryr/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+          
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": null,
+        "assignees": [
+          
+        ],
+        "milestone": null,
+        "comments": 0,
+        "created_at": "2018-02-21T19:20:40Z",
+        "updated_at": "2018-02-21T19:28:48Z",
+        "closed_at": null,
+        "author_association": "CONTRIBUTOR",
+        "pull_request": {
+          "url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls/31",
+          "html_url": "https://github.com/StormyHares/Bangazon_WebApp/pull/31",
+          "diff_url": "https://github.com/StormyHares/Bangazon_WebApp/pull/31.diff",
+          "patch_url": "https://github.com/StormyHares/Bangazon_WebApp/pull/31.patch"
+        },
+        "body": "* **The Name of this branch is**\r\nsearch-cm\r\n\r\n* **Please check if the PR fulfills these requirements**\r\n- [ ] All files contain comments including Author, Purpose\r\n- [ ] All methods contain comments including Purpose, And Argument List and a short purpose for each argument\r\n- [ ] Tests for the changes have been added (for bug fixes / features)\r\n- [ ] Docs have been added / updated (for bug fixes / features)\r\n\r\n\r\n\r\n* **What kind of change does this PR introduce?** (Bug Fix, Feature, Document Update...)\r\nFEATURE - search products by title or delivery location\r\n\r\n\r\n* **What Ticket is associated with this PR**\r\n#4 + #5 \r\n\r\n\r\n* **What is the new behavior?**  (if this is a feature change)\r\n\r\nWhen a user is logged in they are presented with search functionality in the nav bar - they can select either product or local delivery as search options, enter a string into the text filed, and when the search button is pressed - they will be presented with a list of products that matches the input.\r\n\r\n* **List all core functionality** (Must include at least one Unit Test for Each)\r\nSearch products by a user inputted string by the product title or the product localdevlivery properties\r\n\r\n* **Other information / Steps to Test**:\r\ngit fetch\r\ngit checkout search-cm\r\nrun!\r\nlog into the application\r\nadd 2 products into the system via the sell a product tab in the nav bar\r\nCall the first product pants and do not include a local delivery location\r\ncall the second product something different and use pants as the local delivery location\r\nnavigate back to the home page\r\nuse the search bar to search for pants with the product selected in the select box\r\nthe first product you entered should be returned\r\nsearch for pants again with local delivery selected in the select box\r\nthe second object should be returned\r\n"
+      },
+      "comment": {
+        "url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/comments/367442229",
+        "html_url": "https://github.com/StormyHares/Bangazon_WebApp/pull/31#issuecomment-367442229",
+        "issue_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/31",
+        "id": 367442229,
+        "user": {
+          "login": "dacamor",
+          "id": 32465672,
+          "avatar_url": "https://avatars3.githubusercontent.com/u/32465672?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/dacamor",
+          "html_url": "https://github.com/dacamor",
+          "followers_url": "https://api.github.com/users/dacamor/followers",
+          "following_url": "https://api.github.com/users/dacamor/following{/other_user}",
+          "gists_url": "https://api.github.com/users/dacamor/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/dacamor/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/dacamor/subscriptions",
+          "organizations_url": "https://api.github.com/users/dacamor/orgs",
+          "repos_url": "https://api.github.com/users/dacamor/repos",
+          "events_url": "https://api.github.com/users/dacamor/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/dacamor/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "created_at": "2018-02-21T19:28:48Z",
+        "updated_at": "2018-02-21T19:28:48Z",
+        "author_association": "NONE",
+        "body": ":+1: "
+      }
+    },
+    "public": true,
+    "created_at": "2018-02-21T19:28:48Z",
+    "org": {
+      "id": 35742655,
+      "login": "StormyHares",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/StormyHares",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35742655?"
+    }
+  },
+  {
+    "id": "7277055301",
+    "type": "PushEvent",
+    "actor": {
+      "id": 32465672,
+      "login": "dacamor",
+      "display_login": "dacamor",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dacamor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32465672?"
+    },
+    "repo": {
+      "id": 122363226,
+      "name": "dacamor/PathfinderHelper",
+      "url": "https://api.github.com/repos/dacamor/PathfinderHelper"
+    },
+    "payload": {
+      "push_id": 2348062152,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "12c2279fa81685681daa72f96f70f451df35024a",
+      "before": "d14af054980b57e996c8bcc88cd981e61d29397c",
+      "commits": [
+        {
+          "sha": "12c2279fa81685681daa72f96f70f451df35024a",
+          "author": {
+            "email": "dacamor85@gmail.com",
+            "name": "Sean Williams"
+          },
+          "message": "added total calculation and fixed typos",
+          "distinct": true,
+          "url": "https://api.github.com/repos/dacamor/PathfinderHelper/commits/12c2279fa81685681daa72f96f70f451df35024a"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2018-02-21T18:12:56Z"
+  },
+  {
+    "id": "7276916225",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 32465672,
+      "login": "dacamor",
+      "display_login": "dacamor",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dacamor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32465672?"
+    },
+    "repo": {
+      "id": 122363226,
+      "name": "dacamor/PathfinderHelper",
+      "url": "https://api.github.com/repos/dacamor/PathfinderHelper"
+    },
+    "payload": {
+      "ref": "master",
+      "ref_type": "branch",
+      "master_branch": "master",
+      "description": null,
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2018-02-21T17:45:55Z"
+  },
+  {
+    "id": "7276570767",
+    "type": "PushEvent",
+    "actor": {
+      "id": 32465672,
+      "login": "dacamor",
+      "display_login": "dacamor",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dacamor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32465672?"
+    },
+    "repo": {
+      "id": 121672190,
+      "name": "StormyHares/Bangazon_WebApp",
+      "url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp"
+    },
+    "payload": {
+      "push_id": 2347813160,
+      "size": 3,
+      "distinct_size": 1,
+      "ref": "refs/heads/develop",
+      "head": "fa679a9942b0361c036f038625dd78da677114ce",
+      "before": "187aad1fcee3c137fd6ea2518c71519bc005d1b2",
+      "commits": [
+        {
+          "sha": "d5c6eb7e958876845b7bf48384f706c8fed750ff",
+          "author": {
+            "email": "dacamor85@gmail.com",
+            "name": "Sean Williams"
+          },
+          "message": "added functionality to create and delete a payment type",
+          "distinct": false,
+          "url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/commits/d5c6eb7e958876845b7bf48384f706c8fed750ff"
+        },
+        {
+          "sha": "66a8942766bbc038aafa0c5a8b50b2fde5c35951",
+          "author": {
+            "email": "dacamor85@gmail.com",
+            "name": "Sean Williams"
+          },
+          "message": "fixed delete so that it doesn't delete Payments that are linked to a completed order",
+          "distinct": false,
+          "url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/commits/66a8942766bbc038aafa0c5a8b50b2fde5c35951"
+        },
+        {
+          "sha": "fa679a9942b0361c036f038625dd78da677114ce",
+          "author": {
+            "email": "32465672+dacamor@users.noreply.github.com",
+            "name": "dacamor"
+          },
+          "message": "Merge pull request #29 from StormyHares/SW-07\n\nSw 07",
+          "distinct": true,
+          "url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/commits/fa679a9942b0361c036f038625dd78da677114ce"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2018-02-21T16:44:23Z",
+    "org": {
+      "id": 35742655,
+      "login": "StormyHares",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/StormyHares",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35742655?"
+    }
+  },
+  {
+    "id": "7276570686",
+    "type": "PullRequestEvent",
+    "actor": {
+      "id": 32465672,
+      "login": "dacamor",
+      "display_login": "dacamor",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dacamor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32465672?"
+    },
+    "repo": {
+      "id": 121672190,
+      "name": "StormyHares/Bangazon_WebApp",
+      "url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp"
+    },
+    "payload": {
+      "action": "closed",
+      "number": 29,
+      "pull_request": {
+        "url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls/29",
+        "id": 170520247,
+        "html_url": "https://github.com/StormyHares/Bangazon_WebApp/pull/29",
+        "diff_url": "https://github.com/StormyHares/Bangazon_WebApp/pull/29.diff",
+        "patch_url": "https://github.com/StormyHares/Bangazon_WebApp/pull/29.patch",
+        "issue_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/29",
+        "number": 29,
+        "state": "closed",
+        "locked": false,
+        "title": "Sw 07",
+        "user": {
+          "login": "dacamor",
+          "id": 32465672,
+          "avatar_url": "https://avatars3.githubusercontent.com/u/32465672?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/dacamor",
+          "html_url": "https://github.com/dacamor",
+          "followers_url": "https://api.github.com/users/dacamor/followers",
+          "following_url": "https://api.github.com/users/dacamor/following{/other_user}",
+          "gists_url": "https://api.github.com/users/dacamor/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/dacamor/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/dacamor/subscriptions",
+          "organizations_url": "https://api.github.com/users/dacamor/orgs",
+          "repos_url": "https://api.github.com/users/dacamor/repos",
+          "events_url": "https://api.github.com/users/dacamor/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/dacamor/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "body": "* **The Name of this branch is**\r\nSW-07\r\n\r\n* **Please check if the PR fulfills these requirements**\r\n- [x ] All files contain comments including Author, Purpose\r\n- [x ] All methods contain comments including Purpose, And Argument List and a short purpose for each argument\r\n- [x ] Tests for the changes have been added (for bug fixes / features)\r\n- [x ] Docs have been added / updated (for bug fixes / features)\r\n\r\n\r\n\r\n* **What kind of change does this PR introduce?** (Bug Fix, Feature, Document Update...)\r\nAdded feature to create and delete payments\r\n\r\n\r\n* **What Ticket is associated with this PR**\r\nTicket 7 - https://github.com/StormyHares/Bangazon_WebApp/issues/7\r\nTicket 8 - https://github.com/StormyHares/Bangazon_WebApp/issues/8\r\n\r\n* **What is the new behavior?**  (if this is a feature change)\r\nAdded feature to create and delete payments\r\n\r\n* **List all core functionality** (Must include at least one Unit Test for Each)\r\nCan add payment \r\ncan delete payment\r\n\r\n* **Other information / Steps to Test**:\r\ngit fetch --all\r\ngit checkout SW-07\r\nUpdate-Database\r\nRun program\r\nClick on _My Account_\r\nClick on _Add Payment_\r\nFill out form and click _Submit_\r\nVerify that the new payment is displayed\r\nClick on _My Account_\r\nClick on _Payment Options_\r\nVerify the payment is still shown\r\nClick on _Delete_ next to the payment\r\nVerify that the payment is no longer displayed",
+        "created_at": "2018-02-21T16:26:18Z",
+        "updated_at": "2018-02-21T16:44:22Z",
+        "closed_at": "2018-02-21T16:44:22Z",
+        "merged_at": "2018-02-21T16:44:22Z",
+        "merge_commit_sha": "fa679a9942b0361c036f038625dd78da677114ce",
+        "assignee": null,
+        "assignees": [
+          
+        ],
+        "requested_reviewers": [
+          
+        ],
+        "requested_teams": [
+          
+        ],
+        "labels": [
+          
+        ],
+        "milestone": null,
+        "commits_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls/29/commits",
+        "review_comments_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls/29/comments",
+        "review_comment_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls/comments{/number}",
+        "comments_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/29/comments",
+        "statuses_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/statuses/66a8942766bbc038aafa0c5a8b50b2fde5c35951",
+        "head": {
+          "label": "StormyHares:SW-07",
+          "ref": "SW-07",
+          "sha": "66a8942766bbc038aafa0c5a8b50b2fde5c35951",
+          "user": {
+            "login": "StormyHares",
+            "id": 35742655,
+            "avatar_url": "https://avatars3.githubusercontent.com/u/35742655?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/StormyHares",
+            "html_url": "https://github.com/StormyHares",
+            "followers_url": "https://api.github.com/users/StormyHares/followers",
+            "following_url": "https://api.github.com/users/StormyHares/following{/other_user}",
+            "gists_url": "https://api.github.com/users/StormyHares/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/StormyHares/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/StormyHares/subscriptions",
+            "organizations_url": "https://api.github.com/users/StormyHares/orgs",
+            "repos_url": "https://api.github.com/users/StormyHares/repos",
+            "events_url": "https://api.github.com/users/StormyHares/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/StormyHares/received_events",
+            "type": "Organization",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 121672190,
+            "name": "Bangazon_WebApp",
+            "full_name": "StormyHares/Bangazon_WebApp",
+            "owner": {
+              "login": "StormyHares",
+              "id": 35742655,
+              "avatar_url": "https://avatars3.githubusercontent.com/u/35742655?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/StormyHares",
+              "html_url": "https://github.com/StormyHares",
+              "followers_url": "https://api.github.com/users/StormyHares/followers",
+              "following_url": "https://api.github.com/users/StormyHares/following{/other_user}",
+              "gists_url": "https://api.github.com/users/StormyHares/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/StormyHares/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/StormyHares/subscriptions",
+              "organizations_url": "https://api.github.com/users/StormyHares/orgs",
+              "repos_url": "https://api.github.com/users/StormyHares/repos",
+              "events_url": "https://api.github.com/users/StormyHares/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/StormyHares/received_events",
+              "type": "Organization",
+              "site_admin": false
+            },
+            "private": false,
+            "html_url": "https://github.com/StormyHares/Bangazon_WebApp",
+            "description": "Bangazon MVC Web Application",
+            "fork": false,
+            "url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp",
+            "forks_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/forks",
+            "keys_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/teams",
+            "hooks_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/hooks",
+            "issue_events_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/events",
+            "assignees_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/tags",
+            "blobs_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/languages",
+            "stargazers_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/stargazers",
+            "contributors_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/contributors",
+            "subscribers_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/subscribers",
+            "subscription_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/subscription",
+            "commits_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/comments{/number}",
+            "contents_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/merges",
+            "archive_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/downloads",
+            "issues_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/labels{/name}",
+            "releases_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/releases{/id}",
+            "deployments_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/deployments",
+            "created_at": "2018-02-15T19:27:36Z",
+            "updated_at": "2018-02-15T20:30:02Z",
+            "pushed_at": "2018-02-21T16:44:22Z",
+            "git_url": "git://github.com/StormyHares/Bangazon_WebApp.git",
+            "ssh_url": "git@github.com:StormyHares/Bangazon_WebApp.git",
+            "clone_url": "https://github.com/StormyHares/Bangazon_WebApp.git",
+            "svn_url": "https://github.com/StormyHares/Bangazon_WebApp",
+            "homepage": null,
+            "size": 599,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": "C#",
+            "has_issues": true,
+            "has_projects": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": false,
+            "forks_count": 0,
+            "mirror_url": null,
+            "archived": false,
+            "open_issues_count": 22,
+            "license": null,
+            "forks": 0,
+            "open_issues": 22,
+            "watchers": 0,
+            "default_branch": "master"
+          }
+        },
+        "base": {
+          "label": "StormyHares:develop",
+          "ref": "develop",
+          "sha": "187aad1fcee3c137fd6ea2518c71519bc005d1b2",
+          "user": {
+            "login": "StormyHares",
+            "id": 35742655,
+            "avatar_url": "https://avatars3.githubusercontent.com/u/35742655?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/StormyHares",
+            "html_url": "https://github.com/StormyHares",
+            "followers_url": "https://api.github.com/users/StormyHares/followers",
+            "following_url": "https://api.github.com/users/StormyHares/following{/other_user}",
+            "gists_url": "https://api.github.com/users/StormyHares/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/StormyHares/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/StormyHares/subscriptions",
+            "organizations_url": "https://api.github.com/users/StormyHares/orgs",
+            "repos_url": "https://api.github.com/users/StormyHares/repos",
+            "events_url": "https://api.github.com/users/StormyHares/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/StormyHares/received_events",
+            "type": "Organization",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 121672190,
+            "name": "Bangazon_WebApp",
+            "full_name": "StormyHares/Bangazon_WebApp",
+            "owner": {
+              "login": "StormyHares",
+              "id": 35742655,
+              "avatar_url": "https://avatars3.githubusercontent.com/u/35742655?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/StormyHares",
+              "html_url": "https://github.com/StormyHares",
+              "followers_url": "https://api.github.com/users/StormyHares/followers",
+              "following_url": "https://api.github.com/users/StormyHares/following{/other_user}",
+              "gists_url": "https://api.github.com/users/StormyHares/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/StormyHares/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/StormyHares/subscriptions",
+              "organizations_url": "https://api.github.com/users/StormyHares/orgs",
+              "repos_url": "https://api.github.com/users/StormyHares/repos",
+              "events_url": "https://api.github.com/users/StormyHares/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/StormyHares/received_events",
+              "type": "Organization",
+              "site_admin": false
+            },
+            "private": false,
+            "html_url": "https://github.com/StormyHares/Bangazon_WebApp",
+            "description": "Bangazon MVC Web Application",
+            "fork": false,
+            "url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp",
+            "forks_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/forks",
+            "keys_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/teams",
+            "hooks_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/hooks",
+            "issue_events_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/events",
+            "assignees_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/tags",
+            "blobs_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/languages",
+            "stargazers_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/stargazers",
+            "contributors_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/contributors",
+            "subscribers_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/subscribers",
+            "subscription_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/subscription",
+            "commits_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/comments{/number}",
+            "contents_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/merges",
+            "archive_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/downloads",
+            "issues_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/labels{/name}",
+            "releases_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/releases{/id}",
+            "deployments_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/deployments",
+            "created_at": "2018-02-15T19:27:36Z",
+            "updated_at": "2018-02-15T20:30:02Z",
+            "pushed_at": "2018-02-21T16:44:22Z",
+            "git_url": "git://github.com/StormyHares/Bangazon_WebApp.git",
+            "ssh_url": "git@github.com:StormyHares/Bangazon_WebApp.git",
+            "clone_url": "https://github.com/StormyHares/Bangazon_WebApp.git",
+            "svn_url": "https://github.com/StormyHares/Bangazon_WebApp",
+            "homepage": null,
+            "size": 599,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": "C#",
+            "has_issues": true,
+            "has_projects": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": false,
+            "forks_count": 0,
+            "mirror_url": null,
+            "archived": false,
+            "open_issues_count": 22,
+            "license": null,
+            "forks": 0,
+            "open_issues": 22,
+            "watchers": 0,
+            "default_branch": "master"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls/29"
+          },
+          "html": {
+            "href": "https://github.com/StormyHares/Bangazon_WebApp/pull/29"
+          },
+          "issue": {
+            "href": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/29"
+          },
+          "comments": {
+            "href": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/29/comments"
+          },
+          "review_comments": {
+            "href": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls/29/comments"
+          },
+          "review_comment": {
+            "href": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls/comments{/number}"
+          },
+          "commits": {
+            "href": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls/29/commits"
+          },
+          "statuses": {
+            "href": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/statuses/66a8942766bbc038aafa0c5a8b50b2fde5c35951"
+          }
+        },
+        "author_association": "NONE",
+        "merged": true,
+        "mergeable": null,
+        "rebaseable": null,
+        "mergeable_state": "unknown",
+        "merged_by": {
+          "login": "dacamor",
+          "id": 32465672,
+          "avatar_url": "https://avatars3.githubusercontent.com/u/32465672?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/dacamor",
+          "html_url": "https://github.com/dacamor",
+          "followers_url": "https://api.github.com/users/dacamor/followers",
+          "following_url": "https://api.github.com/users/dacamor/following{/other_user}",
+          "gists_url": "https://api.github.com/users/dacamor/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/dacamor/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/dacamor/subscriptions",
+          "organizations_url": "https://api.github.com/users/dacamor/orgs",
+          "repos_url": "https://api.github.com/users/dacamor/repos",
+          "events_url": "https://api.github.com/users/dacamor/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/dacamor/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "comments": 1,
+        "review_comments": 0,
+        "maintainer_can_modify": false,
+        "commits": 2,
+        "additions": 681,
+        "deletions": 1,
+        "changed_files": 11
+      }
+    },
+    "public": true,
+    "created_at": "2018-02-21T16:44:22Z",
+    "org": {
+      "id": 35742655,
+      "login": "StormyHares",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/StormyHares",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35742655?"
+    }
+  },
+  {
+    "id": "7276551532",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 32465672,
+      "login": "dacamor",
+      "display_login": "dacamor",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dacamor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32465672?"
+    },
+    "repo": {
+      "id": 122363226,
+      "name": "dacamor/PathfinderHelper",
+      "url": "https://api.github.com/repos/dacamor/PathfinderHelper"
+    },
+    "payload": {
+      "ref": null,
+      "ref_type": "repository",
+      "master_branch": "master",
+      "description": null,
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2018-02-21T16:41:12Z"
+  },
+  {
+    "id": "7276459981",
+    "type": "PullRequestEvent",
+    "actor": {
+      "id": 32465672,
+      "login": "dacamor",
+      "display_login": "dacamor",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dacamor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32465672?"
+    },
+    "repo": {
+      "id": 121672190,
+      "name": "StormyHares/Bangazon_WebApp",
+      "url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp"
+    },
+    "payload": {
+      "action": "opened",
+      "number": 29,
+      "pull_request": {
+        "url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls/29",
+        "id": 170520247,
+        "html_url": "https://github.com/StormyHares/Bangazon_WebApp/pull/29",
+        "diff_url": "https://github.com/StormyHares/Bangazon_WebApp/pull/29.diff",
+        "patch_url": "https://github.com/StormyHares/Bangazon_WebApp/pull/29.patch",
+        "issue_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/29",
+        "number": 29,
+        "state": "open",
+        "locked": false,
+        "title": "Sw 07",
+        "user": {
+          "login": "dacamor",
+          "id": 32465672,
+          "avatar_url": "https://avatars3.githubusercontent.com/u/32465672?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/dacamor",
+          "html_url": "https://github.com/dacamor",
+          "followers_url": "https://api.github.com/users/dacamor/followers",
+          "following_url": "https://api.github.com/users/dacamor/following{/other_user}",
+          "gists_url": "https://api.github.com/users/dacamor/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/dacamor/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/dacamor/subscriptions",
+          "organizations_url": "https://api.github.com/users/dacamor/orgs",
+          "repos_url": "https://api.github.com/users/dacamor/repos",
+          "events_url": "https://api.github.com/users/dacamor/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/dacamor/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "body": "* **The Name of this branch is**\r\nSW-07\r\n\r\n* **Please check if the PR fulfills these requirements**\r\n- [x ] All files contain comments including Author, Purpose\r\n- [x ] All methods contain comments including Purpose, And Argument List and a short purpose for each argument\r\n- [x ] Tests for the changes have been added (for bug fixes / features)\r\n- [x ] Docs have been added / updated (for bug fixes / features)\r\n\r\n\r\n\r\n* **What kind of change does this PR introduce?** (Bug Fix, Feature, Document Update...)\r\nAdded feature to create and delete payments\r\n\r\n\r\n* **What Ticket is associated with this PR**\r\nTicket 7 - https://github.com/StormyHares/Bangazon_WebApp/issues/7\r\nTicket 8 - https://github.com/StormyHares/Bangazon_WebApp/issues/8\r\n\r\n* **What is the new behavior?**  (if this is a feature change)\r\nAdded feature to create and delete payments\r\n\r\n* **List all core functionality** (Must include at least one Unit Test for Each)\r\nCan add payment \r\ncan delete payment\r\n\r\n* **Other information / Steps to Test**:\r\ngit fetch --all\r\ngit checkout SW-07\r\nUpdate-Database\r\nRun program\r\nClick on _My Account_\r\nClick on _Add Payment_\r\nFill out form and click _Submit_\r\nVerify that the new payment is displayed\r\nClick on _My Account_\r\nClick on _Payment Options_\r\nVerify the payment is still shown\r\nClick on _Delete_ next to the payment\r\nVerify that the payment is no longer displayed",
+        "created_at": "2018-02-21T16:26:18Z",
+        "updated_at": "2018-02-21T16:26:18Z",
+        "closed_at": null,
+        "merged_at": null,
+        "merge_commit_sha": null,
+        "assignee": null,
+        "assignees": [
+          
+        ],
+        "requested_reviewers": [
+          
+        ],
+        "requested_teams": [
+          
+        ],
+        "labels": [
+          
+        ],
+        "milestone": null,
+        "commits_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls/29/commits",
+        "review_comments_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls/29/comments",
+        "review_comment_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls/comments{/number}",
+        "comments_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/29/comments",
+        "statuses_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/statuses/66a8942766bbc038aafa0c5a8b50b2fde5c35951",
+        "head": {
+          "label": "StormyHares:SW-07",
+          "ref": "SW-07",
+          "sha": "66a8942766bbc038aafa0c5a8b50b2fde5c35951",
+          "user": {
+            "login": "StormyHares",
+            "id": 35742655,
+            "avatar_url": "https://avatars3.githubusercontent.com/u/35742655?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/StormyHares",
+            "html_url": "https://github.com/StormyHares",
+            "followers_url": "https://api.github.com/users/StormyHares/followers",
+            "following_url": "https://api.github.com/users/StormyHares/following{/other_user}",
+            "gists_url": "https://api.github.com/users/StormyHares/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/StormyHares/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/StormyHares/subscriptions",
+            "organizations_url": "https://api.github.com/users/StormyHares/orgs",
+            "repos_url": "https://api.github.com/users/StormyHares/repos",
+            "events_url": "https://api.github.com/users/StormyHares/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/StormyHares/received_events",
+            "type": "Organization",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 121672190,
+            "name": "Bangazon_WebApp",
+            "full_name": "StormyHares/Bangazon_WebApp",
+            "owner": {
+              "login": "StormyHares",
+              "id": 35742655,
+              "avatar_url": "https://avatars3.githubusercontent.com/u/35742655?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/StormyHares",
+              "html_url": "https://github.com/StormyHares",
+              "followers_url": "https://api.github.com/users/StormyHares/followers",
+              "following_url": "https://api.github.com/users/StormyHares/following{/other_user}",
+              "gists_url": "https://api.github.com/users/StormyHares/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/StormyHares/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/StormyHares/subscriptions",
+              "organizations_url": "https://api.github.com/users/StormyHares/orgs",
+              "repos_url": "https://api.github.com/users/StormyHares/repos",
+              "events_url": "https://api.github.com/users/StormyHares/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/StormyHares/received_events",
+              "type": "Organization",
+              "site_admin": false
+            },
+            "private": false,
+            "html_url": "https://github.com/StormyHares/Bangazon_WebApp",
+            "description": "Bangazon MVC Web Application",
+            "fork": false,
+            "url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp",
+            "forks_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/forks",
+            "keys_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/teams",
+            "hooks_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/hooks",
+            "issue_events_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/events",
+            "assignees_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/tags",
+            "blobs_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/languages",
+            "stargazers_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/stargazers",
+            "contributors_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/contributors",
+            "subscribers_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/subscribers",
+            "subscription_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/subscription",
+            "commits_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/comments{/number}",
+            "contents_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/merges",
+            "archive_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/downloads",
+            "issues_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/labels{/name}",
+            "releases_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/releases{/id}",
+            "deployments_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/deployments",
+            "created_at": "2018-02-15T19:27:36Z",
+            "updated_at": "2018-02-15T20:30:02Z",
+            "pushed_at": "2018-02-21T16:06:51Z",
+            "git_url": "git://github.com/StormyHares/Bangazon_WebApp.git",
+            "ssh_url": "git@github.com:StormyHares/Bangazon_WebApp.git",
+            "clone_url": "https://github.com/StormyHares/Bangazon_WebApp.git",
+            "svn_url": "https://github.com/StormyHares/Bangazon_WebApp",
+            "homepage": null,
+            "size": 599,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": "C#",
+            "has_issues": true,
+            "has_projects": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": false,
+            "forks_count": 0,
+            "mirror_url": null,
+            "archived": false,
+            "open_issues_count": 23,
+            "license": null,
+            "forks": 0,
+            "open_issues": 23,
+            "watchers": 0,
+            "default_branch": "master"
+          }
+        },
+        "base": {
+          "label": "StormyHares:develop",
+          "ref": "develop",
+          "sha": "187aad1fcee3c137fd6ea2518c71519bc005d1b2",
+          "user": {
+            "login": "StormyHares",
+            "id": 35742655,
+            "avatar_url": "https://avatars3.githubusercontent.com/u/35742655?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/StormyHares",
+            "html_url": "https://github.com/StormyHares",
+            "followers_url": "https://api.github.com/users/StormyHares/followers",
+            "following_url": "https://api.github.com/users/StormyHares/following{/other_user}",
+            "gists_url": "https://api.github.com/users/StormyHares/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/StormyHares/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/StormyHares/subscriptions",
+            "organizations_url": "https://api.github.com/users/StormyHares/orgs",
+            "repos_url": "https://api.github.com/users/StormyHares/repos",
+            "events_url": "https://api.github.com/users/StormyHares/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/StormyHares/received_events",
+            "type": "Organization",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 121672190,
+            "name": "Bangazon_WebApp",
+            "full_name": "StormyHares/Bangazon_WebApp",
+            "owner": {
+              "login": "StormyHares",
+              "id": 35742655,
+              "avatar_url": "https://avatars3.githubusercontent.com/u/35742655?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/StormyHares",
+              "html_url": "https://github.com/StormyHares",
+              "followers_url": "https://api.github.com/users/StormyHares/followers",
+              "following_url": "https://api.github.com/users/StormyHares/following{/other_user}",
+              "gists_url": "https://api.github.com/users/StormyHares/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/StormyHares/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/StormyHares/subscriptions",
+              "organizations_url": "https://api.github.com/users/StormyHares/orgs",
+              "repos_url": "https://api.github.com/users/StormyHares/repos",
+              "events_url": "https://api.github.com/users/StormyHares/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/StormyHares/received_events",
+              "type": "Organization",
+              "site_admin": false
+            },
+            "private": false,
+            "html_url": "https://github.com/StormyHares/Bangazon_WebApp",
+            "description": "Bangazon MVC Web Application",
+            "fork": false,
+            "url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp",
+            "forks_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/forks",
+            "keys_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/teams",
+            "hooks_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/hooks",
+            "issue_events_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/events",
+            "assignees_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/tags",
+            "blobs_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/languages",
+            "stargazers_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/stargazers",
+            "contributors_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/contributors",
+            "subscribers_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/subscribers",
+            "subscription_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/subscription",
+            "commits_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/comments{/number}",
+            "contents_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/merges",
+            "archive_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/downloads",
+            "issues_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/labels{/name}",
+            "releases_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/releases{/id}",
+            "deployments_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/deployments",
+            "created_at": "2018-02-15T19:27:36Z",
+            "updated_at": "2018-02-15T20:30:02Z",
+            "pushed_at": "2018-02-21T16:06:51Z",
+            "git_url": "git://github.com/StormyHares/Bangazon_WebApp.git",
+            "ssh_url": "git@github.com:StormyHares/Bangazon_WebApp.git",
+            "clone_url": "https://github.com/StormyHares/Bangazon_WebApp.git",
+            "svn_url": "https://github.com/StormyHares/Bangazon_WebApp",
+            "homepage": null,
+            "size": 599,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": "C#",
+            "has_issues": true,
+            "has_projects": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": false,
+            "forks_count": 0,
+            "mirror_url": null,
+            "archived": false,
+            "open_issues_count": 23,
+            "license": null,
+            "forks": 0,
+            "open_issues": 23,
+            "watchers": 0,
+            "default_branch": "master"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls/29"
+          },
+          "html": {
+            "href": "https://github.com/StormyHares/Bangazon_WebApp/pull/29"
+          },
+          "issue": {
+            "href": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/29"
+          },
+          "comments": {
+            "href": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/29/comments"
+          },
+          "review_comments": {
+            "href": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls/29/comments"
+          },
+          "review_comment": {
+            "href": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls/comments{/number}"
+          },
+          "commits": {
+            "href": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls/29/commits"
+          },
+          "statuses": {
+            "href": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/statuses/66a8942766bbc038aafa0c5a8b50b2fde5c35951"
+          }
+        },
+        "author_association": "NONE",
+        "merged": false,
+        "mergeable": null,
+        "rebaseable": null,
+        "mergeable_state": "unknown",
+        "merged_by": null,
+        "comments": 0,
+        "review_comments": 0,
+        "maintainer_can_modify": false,
+        "commits": 2,
+        "additions": 681,
+        "deletions": 1,
+        "changed_files": 11
+      }
+    },
+    "public": true,
+    "created_at": "2018-02-21T16:26:18Z",
+    "org": {
+      "id": 35742655,
+      "login": "StormyHares",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/StormyHares",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35742655?"
+    }
+  },
+  {
+    "id": "7276338918",
+    "type": "PushEvent",
+    "actor": {
+      "id": 32465672,
+      "login": "dacamor",
+      "display_login": "dacamor",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dacamor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32465672?"
+    },
+    "repo": {
+      "id": 121672190,
+      "name": "StormyHares/Bangazon_WebApp",
+      "url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp"
+    },
+    "payload": {
+      "push_id": 2347694660,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/SW-07",
+      "head": "66a8942766bbc038aafa0c5a8b50b2fde5c35951",
+      "before": "d5c6eb7e958876845b7bf48384f706c8fed750ff",
+      "commits": [
+        {
+          "sha": "66a8942766bbc038aafa0c5a8b50b2fde5c35951",
+          "author": {
+            "email": "dacamor85@gmail.com",
+            "name": "Sean Williams"
+          },
+          "message": "fixed delete so that it doesn't delete Payments that are linked to a completed order",
+          "distinct": true,
+          "url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/commits/66a8942766bbc038aafa0c5a8b50b2fde5c35951"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2018-02-21T16:06:52Z",
+    "org": {
+      "id": 35742655,
+      "login": "StormyHares",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/StormyHares",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35742655?"
+    }
+  },
+  {
+    "id": "7276060298",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 32465672,
+      "login": "dacamor",
+      "display_login": "dacamor",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dacamor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32465672?"
+    },
+    "repo": {
+      "id": 121672190,
+      "name": "StormyHares/Bangazon_WebApp",
+      "url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp"
+    },
+    "payload": {
+      "ref": "SW-07",
+      "ref_type": "branch",
+      "master_branch": "master",
+      "description": "Bangazon MVC Web Application",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2018-02-21T15:22:43Z",
+    "org": {
+      "id": 35742655,
+      "login": "StormyHares",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/StormyHares",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35742655?"
+    }
+  },
+  {
+    "id": "7272065720",
+    "type": "IssueCommentEvent",
+    "actor": {
+      "id": 32465672,
+      "login": "dacamor",
+      "display_login": "dacamor",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dacamor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32465672?"
+    },
+    "repo": {
+      "id": 121672190,
+      "name": "StormyHares/Bangazon_WebApp",
+      "url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp"
+    },
+    "payload": {
+      "action": "created",
+      "issue": {
+        "url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/28",
+        "repository_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp",
+        "labels_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/28/labels{/name}",
+        "comments_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/28/comments",
+        "events_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/28/events",
+        "html_url": "https://github.com/StormyHares/Bangazon_WebApp/pull/28",
+        "id": 298746499,
+        "number": 28,
+        "title": "Added product type and produtc type detail view - added migration for…",
+        "user": {
+          "login": "camilleryr",
+          "id": 32465602,
+          "avatar_url": "https://avatars3.githubusercontent.com/u/32465602?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/camilleryr",
+          "html_url": "https://github.com/camilleryr",
+          "followers_url": "https://api.github.com/users/camilleryr/followers",
+          "following_url": "https://api.github.com/users/camilleryr/following{/other_user}",
+          "gists_url": "https://api.github.com/users/camilleryr/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/camilleryr/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/camilleryr/subscriptions",
+          "organizations_url": "https://api.github.com/users/camilleryr/orgs",
+          "repos_url": "https://api.github.com/users/camilleryr/repos",
+          "events_url": "https://api.github.com/users/camilleryr/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/camilleryr/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+          
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": null,
+        "assignees": [
+          
+        ],
+        "milestone": null,
+        "comments": 2,
+        "created_at": "2018-02-20T21:00:10Z",
+        "updated_at": "2018-02-20T21:46:05Z",
+        "closed_at": null,
+        "author_association": "CONTRIBUTOR",
+        "pull_request": {
+          "url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls/28",
+          "html_url": "https://github.com/StormyHares/Bangazon_WebApp/pull/28",
+          "diff_url": "https://github.com/StormyHares/Bangazon_WebApp/pull/28.diff",
+          "patch_url": "https://github.com/StormyHares/Bangazon_WebApp/pull/28.patch"
+        },
+        "body": "… nullable paymentid on order model\r\n\r\n* **The Name of this branch is**\r\nproductType-cm\r\n\r\n* **Please check if the PR fulfills these requirements**\r\n- [x] All files contain comments including Author, Purpose\r\n- [ ] All methods contain comments including Purpose, And Argument List and a short purpose for each argument\r\n- [ ] Tests for the changes have been added (for bug fixes / features)\r\n- [ ] Docs have been added / updated (for bug fixes / features)\r\n\r\n\r\n\r\n* **What kind of change does this PR introduce?** (Bug Fix, Feature, Document Update...)\r\n\r\nFEATURE - Product types will display with the number of the products for each product type and will show three products per product type from the product type view #11 \r\n\r\nFEATURE - Product Type Details will now display the product name, price and quantity of the selected Product Type #12 \r\n\r\nUPDATE - Made the paymentId nullable on the Orders table - this requires a database migration\r\n\r\nUPDATE - Database seeder now includes test products\r\n\r\n\r\n* **What Ticket is associated with this PR**\r\n#11 / #12\r\n\r\n\r\n* **What is the new behavior?**  (if this is a feature change)\r\nProduct Type View and Product Type Detail View\r\n\r\n* **List all core functionality** (Must include at least one Unit Test for Each)\r\n\r\n\r\n* **Other information / Steps to Test**:\r\ngit fetch\r\ngit checkout productType-cm\r\nupdate-database\r\nrun program\r\nselect Product Type from nav bar\r\n10 Product Types should be displayed with 3 test products per Product Type\r\nclick on a single product type\r\nthe Product Type detail view should be displayed with all of the test products seeded into the database"
+      },
+      "comment": {
+        "url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/comments/367131055",
+        "html_url": "https://github.com/StormyHares/Bangazon_WebApp/pull/28#issuecomment-367131055",
+        "issue_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/28",
+        "id": 367131055,
+        "user": {
+          "login": "dacamor",
+          "id": 32465672,
+          "avatar_url": "https://avatars3.githubusercontent.com/u/32465672?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/dacamor",
+          "html_url": "https://github.com/dacamor",
+          "followers_url": "https://api.github.com/users/dacamor/followers",
+          "following_url": "https://api.github.com/users/dacamor/following{/other_user}",
+          "gists_url": "https://api.github.com/users/dacamor/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/dacamor/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/dacamor/subscriptions",
+          "organizations_url": "https://api.github.com/users/dacamor/orgs",
+          "repos_url": "https://api.github.com/users/dacamor/repos",
+          "events_url": "https://api.github.com/users/dacamor/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/dacamor/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "created_at": "2018-02-20T21:46:05Z",
+        "updated_at": "2018-02-20T21:46:05Z",
+        "author_association": "NONE",
+        "body": ":+1: "
+      }
+    },
+    "public": true,
+    "created_at": "2018-02-20T21:46:05Z",
+    "org": {
+      "id": 35742655,
+      "login": "StormyHares",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/StormyHares",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35742655?"
+    }
+  },
+  {
+    "id": "7272064954",
+    "type": "IssueCommentEvent",
+    "actor": {
+      "id": 32465672,
+      "login": "dacamor",
+      "display_login": "dacamor",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dacamor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32465672?"
+    },
+    "repo": {
+      "id": 121672190,
+      "name": "StormyHares/Bangazon_WebApp",
+      "url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp"
+    },
+    "payload": {
+      "action": "created",
+      "issue": {
+        "url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/28",
+        "repository_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp",
+        "labels_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/28/labels{/name}",
+        "comments_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/28/comments",
+        "events_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/28/events",
+        "html_url": "https://github.com/StormyHares/Bangazon_WebApp/pull/28",
+        "id": 298746499,
+        "number": 28,
+        "title": "Added product type and produtc type detail view - added migration for…",
+        "user": {
+          "login": "camilleryr",
+          "id": 32465602,
+          "avatar_url": "https://avatars3.githubusercontent.com/u/32465602?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/camilleryr",
+          "html_url": "https://github.com/camilleryr",
+          "followers_url": "https://api.github.com/users/camilleryr/followers",
+          "following_url": "https://api.github.com/users/camilleryr/following{/other_user}",
+          "gists_url": "https://api.github.com/users/camilleryr/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/camilleryr/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/camilleryr/subscriptions",
+          "organizations_url": "https://api.github.com/users/camilleryr/orgs",
+          "repos_url": "https://api.github.com/users/camilleryr/repos",
+          "events_url": "https://api.github.com/users/camilleryr/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/camilleryr/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+          
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": null,
+        "assignees": [
+          
+        ],
+        "milestone": null,
+        "comments": 1,
+        "created_at": "2018-02-20T21:00:10Z",
+        "updated_at": "2018-02-20T21:45:56Z",
+        "closed_at": null,
+        "author_association": "CONTRIBUTOR",
+        "pull_request": {
+          "url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/pulls/28",
+          "html_url": "https://github.com/StormyHares/Bangazon_WebApp/pull/28",
+          "diff_url": "https://github.com/StormyHares/Bangazon_WebApp/pull/28.diff",
+          "patch_url": "https://github.com/StormyHares/Bangazon_WebApp/pull/28.patch"
+        },
+        "body": "… nullable paymentid on order model\r\n\r\n* **The Name of this branch is**\r\nproductType-cm\r\n\r\n* **Please check if the PR fulfills these requirements**\r\n- [x] All files contain comments including Author, Purpose\r\n- [ ] All methods contain comments including Purpose, And Argument List and a short purpose for each argument\r\n- [ ] Tests for the changes have been added (for bug fixes / features)\r\n- [ ] Docs have been added / updated (for bug fixes / features)\r\n\r\n\r\n\r\n* **What kind of change does this PR introduce?** (Bug Fix, Feature, Document Update...)\r\n\r\nFEATURE - Product types will display with the number of the products for each product type and will show three products per product type from the product type view #11 \r\n\r\nFEATURE - Product Type Details will now display the product name, price and quantity of the selected Product Type #12 \r\n\r\nUPDATE - Made the paymentId nullable on the Orders table - this requires a database migration\r\n\r\nUPDATE - Database seeder now includes test products\r\n\r\n\r\n* **What Ticket is associated with this PR**\r\n#11 / #12\r\n\r\n\r\n* **What is the new behavior?**  (if this is a feature change)\r\nProduct Type View and Product Type Detail View\r\n\r\n* **List all core functionality** (Must include at least one Unit Test for Each)\r\n\r\n\r\n* **Other information / Steps to Test**:\r\ngit fetch\r\ngit checkout productType-cm\r\nupdate-database\r\nrun program\r\nselect Product Type from nav bar\r\n10 Product Types should be displayed with 3 test products per Product Type\r\nclick on a single product type\r\nthe Product Type detail view should be displayed with all of the test products seeded into the database"
+      },
+      "comment": {
+        "url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/comments/367131004",
+        "html_url": "https://github.com/StormyHares/Bangazon_WebApp/pull/28#issuecomment-367131004",
+        "issue_url": "https://api.github.com/repos/StormyHares/Bangazon_WebApp/issues/28",
+        "id": 367131004,
+        "user": {
+          "login": "dacamor",
+          "id": 32465672,
+          "avatar_url": "https://avatars3.githubusercontent.com/u/32465672?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/dacamor",
+          "html_url": "https://github.com/dacamor",
+          "followers_url": "https://api.github.com/users/dacamor/followers",
+          "following_url": "https://api.github.com/users/dacamor/following{/other_user}",
+          "gists_url": "https://api.github.com/users/dacamor/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/dacamor/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/dacamor/subscriptions",
+          "organizations_url": "https://api.github.com/users/dacamor/orgs",
+          "repos_url": "https://api.github.com/users/dacamor/repos",
+          "events_url": "https://api.github.com/users/dacamor/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/dacamor/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "created_at": "2018-02-20T21:45:56Z",
+        "updated_at": "2018-02-20T21:45:56Z",
+        "author_association": "NONE",
+        "body": ":+1"
+      }
+    },
+    "public": true,
+    "created_at": "2018-02-20T21:45:56Z",
+    "org": {
+      "id": 35742655,
+      "login": "StormyHares",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/StormyHares",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35742655?"
+    }
+  },
+  {
+    "id": "7252080458",
+    "type": "PushEvent",
+    "actor": {
+      "id": 32465672,
+      "login": "dacamor",
+      "display_login": "dacamor",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dacamor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32465672?"
+    },
+    "repo": {
+      "id": 119563287,
+      "name": "dacamor/.zsh",
+      "url": "https://api.github.com/repos/dacamor/.zsh"
+    },
+    "payload": {
+      "push_id": 2334657856,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "ccc85dfde660ad6f7d893da699ea24a59b114ba1",
+      "before": "c4580cabe39b34d6135f290e0e4e43db84496e25",
+      "commits": [
+        {
+          "sha": "ccc85dfde660ad6f7d893da699ea24a59b114ba1",
+          "author": {
+            "email": "dacamor85@gmail.com",
+            "name": "Sean Williams"
+          },
+          "message": "Updated config file",
+          "distinct": true,
+          "url": "https://api.github.com/repos/dacamor/.zsh/commits/ccc85dfde660ad6f7d893da699ea24a59b114ba1"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2018-02-15T21:38:48Z"
+  },
+  {
+    "id": "7252070366",
+    "type": "PushEvent",
+    "actor": {
+      "id": 32465672,
+      "login": "dacamor",
+      "display_login": "dacamor",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dacamor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32465672?"
+    },
+    "repo": {
+      "id": 119563287,
+      "name": "dacamor/.zsh",
+      "url": "https://api.github.com/repos/dacamor/.zsh"
+    },
+    "payload": {
+      "push_id": 2334652629,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "c4580cabe39b34d6135f290e0e4e43db84496e25",
+      "before": "56ca39f7869ee3f6d633a5c68632d28e32daea9b",
+      "commits": [
+        {
+          "sha": "c4580cabe39b34d6135f290e0e4e43db84496e25",
+          "author": {
+            "email": "dacamor85@gmail.com",
+            "name": "Sean Williams"
+          },
+          "message": "Updated config file",
+          "distinct": true,
+          "url": "https://api.github.com/repos/dacamor/.zsh/commits/c4580cabe39b34d6135f290e0e4e43db84496e25"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2018-02-15T21:36:32Z"
+  },
+  {
+    "id": "7252043635",
+    "type": "PushEvent",
+    "actor": {
+      "id": 32465672,
+      "login": "dacamor",
+      "display_login": "dacamor",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dacamor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32465672?"
+    },
+    "repo": {
+      "id": 119563287,
+      "name": "dacamor/.zsh",
+      "url": "https://api.github.com/repos/dacamor/.zsh"
+    },
+    "payload": {
+      "push_id": 2334638882,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "56ca39f7869ee3f6d633a5c68632d28e32daea9b",
+      "before": "a36d55871678ed14ec25acd85db244e08df6999e",
+      "commits": [
+        {
+          "sha": "56ca39f7869ee3f6d633a5c68632d28e32daea9b",
+          "author": {
+            "email": "dacamor85@gmail.com",
+            "name": "Sean Williams"
+          },
+          "message": "Updated config file",
+          "distinct": true,
+          "url": "https://api.github.com/repos/dacamor/.zsh/commits/56ca39f7869ee3f6d633a5c68632d28e32daea9b"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2018-02-15T21:30:53Z"
+  },
+  {
+    "id": "7251897369",
+    "type": "PushEvent",
+    "actor": {
+      "id": 32465672,
+      "login": "dacamor",
+      "display_login": "dacamor",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dacamor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32465672?"
+    },
+    "repo": {
+      "id": 119563287,
+      "name": "dacamor/.zsh",
+      "url": "https://api.github.com/repos/dacamor/.zsh"
+    },
+    "payload": {
+      "push_id": 2334561857,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "a36d55871678ed14ec25acd85db244e08df6999e",
+      "before": "fa7e8ff4adff4f998abd05e6bb6120c12a542ae4",
+      "commits": [
+        {
+          "sha": "a36d55871678ed14ec25acd85db244e08df6999e",
+          "author": {
+            "email": "dacamor85@gmail.com",
+            "name": "Sean Williams"
+          },
+          "message": "Updated config file",
+          "distinct": true,
+          "url": "https://api.github.com/repos/dacamor/.zsh/commits/a36d55871678ed14ec25acd85db244e08df6999e"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2018-02-15T20:59:43Z"
+  },
+  {
+    "id": "7251866756",
+    "type": "PushEvent",
+    "actor": {
+      "id": 32465672,
+      "login": "dacamor",
+      "display_login": "dacamor",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dacamor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32465672?"
+    },
+    "repo": {
+      "id": 119563287,
+      "name": "dacamor/.zsh",
+      "url": "https://api.github.com/repos/dacamor/.zsh"
+    },
+    "payload": {
+      "push_id": 2334545799,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "fa7e8ff4adff4f998abd05e6bb6120c12a542ae4",
+      "before": "3293e311616671f8fa92deba646db63a846964eb",
+      "commits": [
+        {
+          "sha": "fa7e8ff4adff4f998abd05e6bb6120c12a542ae4",
+          "author": {
+            "email": "dacamor85@gmail.com",
+            "name": "Sean Williams"
+          },
+          "message": "Updated config file",
+          "distinct": true,
+          "url": "https://api.github.com/repos/dacamor/.zsh/commits/fa7e8ff4adff4f998abd05e6bb6120c12a542ae4"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2018-02-15T20:53:21Z"
+  },
+  {
+    "id": "7251862175",
+    "type": "PushEvent",
+    "actor": {
+      "id": 32465672,
+      "login": "dacamor",
+      "display_login": "dacamor",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dacamor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32465672?"
+    },
+    "repo": {
+      "id": 119563287,
+      "name": "dacamor/.zsh",
+      "url": "https://api.github.com/repos/dacamor/.zsh"
+    },
+    "payload": {
+      "push_id": 2334543451,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "3293e311616671f8fa92deba646db63a846964eb",
+      "before": "e1b453e39ea865466b3e5063bc43ca116fd5528e",
+      "commits": [
+        {
+          "sha": "3293e311616671f8fa92deba646db63a846964eb",
+          "author": {
+            "email": "dacamor85@gmail.com",
+            "name": "Sean Williams"
+          },
+          "message": "Updated config file",
+          "distinct": true,
+          "url": "https://api.github.com/repos/dacamor/.zsh/commits/3293e311616671f8fa92deba646db63a846964eb"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2018-02-15T20:52:24Z"
+  },
+  {
+    "id": "7251848060",
+    "type": "PushEvent",
+    "actor": {
+      "id": 32465672,
+      "login": "dacamor",
+      "display_login": "dacamor",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dacamor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32465672?"
+    },
+    "repo": {
+      "id": 119563287,
+      "name": "dacamor/.zsh",
+      "url": "https://api.github.com/repos/dacamor/.zsh"
+    },
+    "payload": {
+      "push_id": 2334536015,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "e1b453e39ea865466b3e5063bc43ca116fd5528e",
+      "before": "0580d4e9670439bdba01d83ef171a3ef4d67df04",
+      "commits": [
+        {
+          "sha": "e1b453e39ea865466b3e5063bc43ca116fd5528e",
+          "author": {
+            "email": "dacamor85@gmail.com",
+            "name": "Sean Williams"
+          },
+          "message": "Updated config file",
+          "distinct": true,
+          "url": "https://api.github.com/repos/dacamor/.zsh/commits/e1b453e39ea865466b3e5063bc43ca116fd5528e"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2018-02-15T20:49:24Z"
+  },
+  {
+    "id": "7251830132",
+    "type": "PushEvent",
+    "actor": {
+      "id": 32465672,
+      "login": "dacamor",
+      "display_login": "dacamor",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dacamor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32465672?"
+    },
+    "repo": {
+      "id": 119563287,
+      "name": "dacamor/.zsh",
+      "url": "https://api.github.com/repos/dacamor/.zsh"
+    },
+    "payload": {
+      "push_id": 2334526863,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "0580d4e9670439bdba01d83ef171a3ef4d67df04",
+      "before": "f99ec1eac66733c533deb319fc1e47086eaf0ed0",
+      "commits": [
+        {
+          "sha": "0580d4e9670439bdba01d83ef171a3ef4d67df04",
+          "author": {
+            "email": "dacamor85@gmail.com",
+            "name": "Sean Williams"
+          },
+          "message": "Updated config file",
+          "distinct": true,
+          "url": "https://api.github.com/repos/dacamor/.zsh/commits/0580d4e9670439bdba01d83ef171a3ef4d67df04"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2018-02-15T20:45:33Z"
+  },
+  {
+    "id": "7251814952",
+    "type": "PushEvent",
+    "actor": {
+      "id": 32465672,
+      "login": "dacamor",
+      "display_login": "dacamor",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dacamor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32465672?"
+    },
+    "repo": {
+      "id": 119563287,
+      "name": "dacamor/.zsh",
+      "url": "https://api.github.com/repos/dacamor/.zsh"
+    },
+    "payload": {
+      "push_id": 2334519028,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "f99ec1eac66733c533deb319fc1e47086eaf0ed0",
+      "before": "4d7417ec2b65ac195aeb9b0d9a4d21cc78d09b71",
+      "commits": [
+        {
+          "sha": "f99ec1eac66733c533deb319fc1e47086eaf0ed0",
+          "author": {
+            "email": "dacamor85@gmail.com",
+            "name": "Sean Williams"
+          },
+          "message": "Updated config file",
+          "distinct": true,
+          "url": "https://api.github.com/repos/dacamor/.zsh/commits/f99ec1eac66733c533deb319fc1e47086eaf0ed0"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2018-02-15T20:42:14Z"
+  },
+  {
+    "id": "7251768004",
+    "type": "PushEvent",
+    "actor": {
+      "id": 32465672,
+      "login": "dacamor",
+      "display_login": "dacamor",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dacamor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32465672?"
+    },
+    "repo": {
+      "id": 119563287,
+      "name": "dacamor/.zsh",
+      "url": "https://api.github.com/repos/dacamor/.zsh"
+    },
+    "payload": {
+      "push_id": 2334494283,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "4d7417ec2b65ac195aeb9b0d9a4d21cc78d09b71",
+      "before": "2be0959481d34bd4f952a565a7efb62af1358b70",
+      "commits": [
+        {
+          "sha": "4d7417ec2b65ac195aeb9b0d9a4d21cc78d09b71",
+          "author": {
+            "email": "dacamor85@gmail.com",
+            "name": "Sean Williams"
+          },
+          "message": "Updated config file",
+          "distinct": true,
+          "url": "https://api.github.com/repos/dacamor/.zsh/commits/4d7417ec2b65ac195aeb9b0d9a4d21cc78d09b71"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2018-02-15T20:32:08Z"
+  }
+]

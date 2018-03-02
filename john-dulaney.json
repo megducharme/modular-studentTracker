@@ -1,0 +1,3076 @@
+[
+    {
+      "id": "7317901785",
+      "type": "PushEvent",
+      "actor": {
+        "id": 20269235,
+        "login": "john-dulaney",
+        "display_login": "john-dulaney",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/john-dulaney",
+        "avatar_url": "https://avatars.githubusercontent.com/u/20269235?"
+      },
+      "repo": {
+        "id": 123462661,
+        "name": "john-dulaney/JibJob",
+        "url": "https://api.github.com/repos/john-dulaney/JibJob"
+      },
+      "payload": {
+        "push_id": 2369494542,
+        "size": 1,
+        "distinct_size": 1,
+        "ref": "refs/heads/master",
+        "head": "8c46c9fb651dd9ef5c57156de997be4766f6688f",
+        "before": "0fa0eeb295a51dddc7a37fe23a8745b5c9b4dc05",
+        "commits": [
+          {
+            "sha": "8c46c9fb651dd9ef5c57156de997be4766f6688f",
+            "author": {
+              "email": "john.s.dulaney1@gmail.com",
+              "name": "John"
+            },
+            "message": "I clicked the Wrong MVC application and I hate myself but not really life is ok. Had nachos.",
+            "distinct": true,
+            "url": "https://api.github.com/repos/john-dulaney/JibJob/commits/8c46c9fb651dd9ef5c57156de997be4766f6688f"
+          }
+        ]
+      },
+      "public": true,
+      "created_at": "2018-03-01T18:55:35Z"
+    },
+    {
+      "id": "7317639807",
+      "type": "PushEvent",
+      "actor": {
+        "id": 20269235,
+        "login": "john-dulaney",
+        "display_login": "john-dulaney",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/john-dulaney",
+        "avatar_url": "https://avatars.githubusercontent.com/u/20269235?"
+      },
+      "repo": {
+        "id": 123462661,
+        "name": "john-dulaney/JibJob",
+        "url": "https://api.github.com/repos/john-dulaney/JibJob"
+      },
+      "payload": {
+        "push_id": 2369355145,
+        "size": 1,
+        "distinct_size": 1,
+        "ref": "refs/heads/master",
+        "head": "0fa0eeb295a51dddc7a37fe23a8745b5c9b4dc05",
+        "before": "f65c714b7ee974ea653f8c8cd5421ac8d88870e4",
+        "commits": [
+          {
+            "sha": "0fa0eeb295a51dddc7a37fe23a8745b5c9b4dc05",
+            "author": {
+              "email": "john.s.dulaney1@gmail.com",
+              "name": "John Dulaney"
+            },
+            "message": "Added Models, are probably garbage",
+            "distinct": true,
+            "url": "https://api.github.com/repos/john-dulaney/JibJob/commits/0fa0eeb295a51dddc7a37fe23a8745b5c9b4dc05"
+          }
+        ]
+      },
+      "public": true,
+      "created_at": "2018-03-01T18:03:10Z"
+    },
+    {
+      "id": "7317574026",
+      "type": "IssuesEvent",
+      "actor": {
+        "id": 20269235,
+        "login": "john-dulaney",
+        "display_login": "john-dulaney",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/john-dulaney",
+        "avatar_url": "https://avatars.githubusercontent.com/u/20269235?"
+      },
+      "repo": {
+        "id": 123462661,
+        "name": "john-dulaney/JibJob",
+        "url": "https://api.github.com/repos/john-dulaney/JibJob"
+      },
+      "payload": {
+        "action": "opened",
+        "issue": {
+          "url": "https://api.github.com/repos/john-dulaney/JibJob/issues/3",
+          "repository_url": "https://api.github.com/repos/john-dulaney/JibJob",
+          "labels_url": "https://api.github.com/repos/john-dulaney/JibJob/issues/3/labels{/name}",
+          "comments_url": "https://api.github.com/repos/john-dulaney/JibJob/issues/3/comments",
+          "events_url": "https://api.github.com/repos/john-dulaney/JibJob/issues/3/events",
+          "html_url": "https://github.com/john-dulaney/JibJob/issues/3",
+          "id": 301499289,
+          "number": 3,
+          "title": "user can add a contact to the company",
+          "user": {
+            "login": "john-dulaney",
+            "id": 20269235,
+            "avatar_url": "https://avatars0.githubusercontent.com/u/20269235?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/john-dulaney",
+            "html_url": "https://github.com/john-dulaney",
+            "followers_url": "https://api.github.com/users/john-dulaney/followers",
+            "following_url": "https://api.github.com/users/john-dulaney/following{/other_user}",
+            "gists_url": "https://api.github.com/users/john-dulaney/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/john-dulaney/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/john-dulaney/subscriptions",
+            "organizations_url": "https://api.github.com/users/john-dulaney/orgs",
+            "repos_url": "https://api.github.com/users/john-dulaney/repos",
+            "events_url": "https://api.github.com/users/john-dulaney/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/john-dulaney/received_events",
+            "type": "User",
+            "site_admin": false
+          },
+          "labels": [
+            
+          ],
+          "state": "open",
+          "locked": false,
+          "assignee": null,
+          "assignees": [
+            
+          ],
+          "milestone": null,
+          "comments": 0,
+          "created_at": "2018-03-01T17:50:27Z",
+          "updated_at": "2018-03-01T17:50:27Z",
+          "closed_at": null,
+          "author_association": "OWNER",
+          "body": "Given the user wants to save a contact's information for a certain company\r\nWhen the user enters in the information on the information form and hits a button to save \r\nThen the user is now tracking a contacts info and is presented with the list of other contacts."
+        }
+      },
+      "public": true,
+      "created_at": "2018-03-01T17:50:27Z"
+    },
+    {
+      "id": "7317563732",
+      "type": "IssuesEvent",
+      "actor": {
+        "id": 20269235,
+        "login": "john-dulaney",
+        "display_login": "john-dulaney",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/john-dulaney",
+        "avatar_url": "https://avatars.githubusercontent.com/u/20269235?"
+      },
+      "repo": {
+        "id": 123462661,
+        "name": "john-dulaney/JibJob",
+        "url": "https://api.github.com/repos/john-dulaney/JibJob"
+      },
+      "payload": {
+        "action": "opened",
+        "issue": {
+          "url": "https://api.github.com/repos/john-dulaney/JibJob/issues/2",
+          "repository_url": "https://api.github.com/repos/john-dulaney/JibJob",
+          "labels_url": "https://api.github.com/repos/john-dulaney/JibJob/issues/2/labels{/name}",
+          "comments_url": "https://api.github.com/repos/john-dulaney/JibJob/issues/2/comments",
+          "events_url": "https://api.github.com/repos/john-dulaney/JibJob/issues/2/events",
+          "html_url": "https://github.com/john-dulaney/JibJob/issues/2",
+          "id": 301498658,
+          "number": 2,
+          "title": "User Can Track a company",
+          "user": {
+            "login": "john-dulaney",
+            "id": 20269235,
+            "avatar_url": "https://avatars0.githubusercontent.com/u/20269235?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/john-dulaney",
+            "html_url": "https://github.com/john-dulaney",
+            "followers_url": "https://api.github.com/users/john-dulaney/followers",
+            "following_url": "https://api.github.com/users/john-dulaney/following{/other_user}",
+            "gists_url": "https://api.github.com/users/john-dulaney/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/john-dulaney/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/john-dulaney/subscriptions",
+            "organizations_url": "https://api.github.com/users/john-dulaney/orgs",
+            "repos_url": "https://api.github.com/users/john-dulaney/repos",
+            "events_url": "https://api.github.com/users/john-dulaney/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/john-dulaney/received_events",
+            "type": "User",
+            "site_admin": false
+          },
+          "labels": [
+            
+          ],
+          "state": "open",
+          "locked": false,
+          "assignee": null,
+          "assignees": [
+            
+          ],
+          "milestone": null,
+          "comments": 0,
+          "created_at": "2018-03-01T17:48:32Z",
+          "updated_at": "2018-03-01T17:48:32Z",
+          "closed_at": null,
+          "author_association": "OWNER",
+          "body": "given the user wants to add a company to their tracked company lsit\r\nwhen the user hits a button \r\nthen the user is now tracking the company, and will be shown the list of companies tracked"
+        }
+      },
+      "public": true,
+      "created_at": "2018-03-01T17:48:33Z"
+    },
+    {
+      "id": "7317556764",
+      "type": "IssuesEvent",
+      "actor": {
+        "id": 20269235,
+        "login": "john-dulaney",
+        "display_login": "john-dulaney",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/john-dulaney",
+        "avatar_url": "https://avatars.githubusercontent.com/u/20269235?"
+      },
+      "repo": {
+        "id": 123462661,
+        "name": "john-dulaney/JibJob",
+        "url": "https://api.github.com/repos/john-dulaney/JibJob"
+      },
+      "payload": {
+        "action": "opened",
+        "issue": {
+          "url": "https://api.github.com/repos/john-dulaney/JibJob/issues/1",
+          "repository_url": "https://api.github.com/repos/john-dulaney/JibJob",
+          "labels_url": "https://api.github.com/repos/john-dulaney/JibJob/issues/1/labels{/name}",
+          "comments_url": "https://api.github.com/repos/john-dulaney/JibJob/issues/1/comments",
+          "events_url": "https://api.github.com/repos/john-dulaney/JibJob/issues/1/events",
+          "html_url": "https://github.com/john-dulaney/JibJob/issues/1",
+          "id": 301498240,
+          "number": 1,
+          "title": "User Can Track a job in a list",
+          "user": {
+            "login": "john-dulaney",
+            "id": 20269235,
+            "avatar_url": "https://avatars0.githubusercontent.com/u/20269235?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/john-dulaney",
+            "html_url": "https://github.com/john-dulaney",
+            "followers_url": "https://api.github.com/users/john-dulaney/followers",
+            "following_url": "https://api.github.com/users/john-dulaney/following{/other_user}",
+            "gists_url": "https://api.github.com/users/john-dulaney/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/john-dulaney/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/john-dulaney/subscriptions",
+            "organizations_url": "https://api.github.com/users/john-dulaney/orgs",
+            "repos_url": "https://api.github.com/users/john-dulaney/repos",
+            "events_url": "https://api.github.com/users/john-dulaney/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/john-dulaney/received_events",
+            "type": "User",
+            "site_admin": false
+          },
+          "labels": [
+            
+          ],
+          "state": "open",
+          "locked": false,
+          "assignee": null,
+          "assignees": [
+            
+          ],
+          "milestone": null,
+          "comments": 0,
+          "created_at": "2018-03-01T17:47:14Z",
+          "updated_at": "2018-03-01T17:47:14Z",
+          "closed_at": null,
+          "author_association": "OWNER",
+          "body": "Given a User wants to track a job. \r\nWhen the user hits a button under desired job\r\nThen the user now has that job on their tracked list, and is presented with that list"
+        }
+      },
+      "public": true,
+      "created_at": "2018-03-01T17:47:14Z"
+    },
+    {
+      "id": "7317225618",
+      "type": "CreateEvent",
+      "actor": {
+        "id": 20269235,
+        "login": "john-dulaney",
+        "display_login": "john-dulaney",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/john-dulaney",
+        "avatar_url": "https://avatars.githubusercontent.com/u/20269235?"
+      },
+      "repo": {
+        "id": 123462661,
+        "name": "john-dulaney/JibJob",
+        "url": "https://api.github.com/repos/john-dulaney/JibJob"
+      },
+      "payload": {
+        "ref": "master",
+        "ref_type": "branch",
+        "master_branch": "master",
+        "description": "Job Tracking MVC application. Day sprint meant to be completed solo",
+        "pusher_type": "user"
+      },
+      "public": true,
+      "created_at": "2018-03-01T16:45:30Z"
+    },
+    {
+      "id": "7317187814",
+      "type": "CreateEvent",
+      "actor": {
+        "id": 20269235,
+        "login": "john-dulaney",
+        "display_login": "john-dulaney",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/john-dulaney",
+        "avatar_url": "https://avatars.githubusercontent.com/u/20269235?"
+      },
+      "repo": {
+        "id": 123462661,
+        "name": "john-dulaney/JibJob",
+        "url": "https://api.github.com/repos/john-dulaney/JibJob"
+      },
+      "payload": {
+        "ref": null,
+        "ref_type": "repository",
+        "master_branch": "master",
+        "description": "Job Tracking MVC application. Day sprint meant to be completed solo",
+        "pusher_type": "user"
+      },
+      "public": true,
+      "created_at": "2018-03-01T16:39:12Z"
+    },
+    {
+      "id": "7313873009",
+      "type": "IssuesEvent",
+      "actor": {
+        "id": 20269235,
+        "login": "john-dulaney",
+        "display_login": "john-dulaney",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/john-dulaney",
+        "avatar_url": "https://avatars.githubusercontent.com/u/20269235?"
+      },
+      "repo": {
+        "id": 114689454,
+        "name": "megducharme/studentCommitTracker",
+        "url": "https://api.github.com/repos/megducharme/studentCommitTracker"
+      },
+      "payload": {
+        "action": "opened",
+        "issue": {
+          "url": "https://api.github.com/repos/megducharme/studentCommitTracker/issues/2",
+          "repository_url": "https://api.github.com/repos/megducharme/studentCommitTracker",
+          "labels_url": "https://api.github.com/repos/megducharme/studentCommitTracker/issues/2/labels{/name}",
+          "comments_url": "https://api.github.com/repos/megducharme/studentCommitTracker/issues/2/comments",
+          "events_url": "https://api.github.com/repos/megducharme/studentCommitTracker/issues/2/events",
+          "html_url": "https://github.com/megducharme/studentCommitTracker/issues/2",
+          "id": 301266795,
+          "number": 2,
+          "title": "White Space around buttons allows invalid api calls.",
+          "user": {
+            "login": "john-dulaney",
+            "id": 20269235,
+            "avatar_url": "https://avatars0.githubusercontent.com/u/20269235?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/john-dulaney",
+            "html_url": "https://github.com/john-dulaney",
+            "followers_url": "https://api.github.com/users/john-dulaney/followers",
+            "following_url": "https://api.github.com/users/john-dulaney/following{/other_user}",
+            "gists_url": "https://api.github.com/users/john-dulaney/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/john-dulaney/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/john-dulaney/subscriptions",
+            "organizations_url": "https://api.github.com/users/john-dulaney/orgs",
+            "repos_url": "https://api.github.com/users/john-dulaney/repos",
+            "events_url": "https://api.github.com/users/john-dulaney/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/john-dulaney/received_events",
+            "type": "User",
+            "site_admin": false
+          },
+          "labels": [
+            
+          ],
+          "state": "open",
+          "locked": false,
+          "assignee": null,
+          "assignees": [
+            
+          ],
+          "milestone": null,
+          "comments": 0,
+          "created_at": "2018-03-01T03:35:51Z",
+          "updated_at": "2018-03-01T03:35:51Z",
+          "closed_at": null,
+          "author_association": "NONE",
+          "body": "Click in between the buttons. 👯‍♂️ \r\n\r\npls fix, app unusable."
+        }
+      },
+      "public": true,
+      "created_at": "2018-03-01T03:35:51Z"
+    },
+    {
+      "id": "7313844447",
+      "type": "PushEvent",
+      "actor": {
+        "id": 20269235,
+        "login": "john-dulaney",
+        "display_login": "john-dulaney",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/john-dulaney",
+        "avatar_url": "https://avatars.githubusercontent.com/u/20269235?"
+      },
+      "repo": {
+        "id": 118931376,
+        "name": "nss-day-cohort-22/Class-Website",
+        "url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website"
+      },
+      "payload": {
+        "push_id": 2367366187,
+        "size": 2,
+        "distinct_size": 1,
+        "ref": "refs/heads/master",
+        "head": "1abeb730e9db484627990ef6bcc05cd99c679230",
+        "before": "3aabc358e4b110e1d9fa5c2bab5176705d3f3749",
+        "commits": [
+          {
+            "sha": "e3fc81d9787126a676073a5cd3d73c2ccca08633",
+            "author": {
+              "email": "john.s.dulaney1@gmail.com",
+              "name": "John Dulaney"
+            },
+            "message": "typo fix to my slice of j'sawn.",
+            "distinct": false,
+            "url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/commits/e3fc81d9787126a676073a5cd3d73c2ccca08633"
+          },
+          {
+            "sha": "1abeb730e9db484627990ef6bcc05cd99c679230",
+            "author": {
+              "email": "john.s.dulaney1@gmail.com",
+              "name": "John Dulaney"
+            },
+            "message": "Blame garrett\n\ntypo fix to my slice of j'sawn.",
+            "distinct": true,
+            "url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/commits/1abeb730e9db484627990ef6bcc05cd99c679230"
+          }
+        ]
+      },
+      "public": true,
+      "created_at": "2018-03-01T03:25:17Z",
+      "org": {
+        "id": 29761257,
+        "login": "nss-day-cohort-22",
+        "gravatar_id": "",
+        "url": "https://api.github.com/orgs/nss-day-cohort-22",
+        "avatar_url": "https://avatars.githubusercontent.com/u/29761257?"
+      }
+    },
+    {
+      "id": "7313844425",
+      "type": "PullRequestEvent",
+      "actor": {
+        "id": 20269235,
+        "login": "john-dulaney",
+        "display_login": "john-dulaney",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/john-dulaney",
+        "avatar_url": "https://avatars.githubusercontent.com/u/20269235?"
+      },
+      "repo": {
+        "id": 118931376,
+        "name": "nss-day-cohort-22/Class-Website",
+        "url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website"
+      },
+      "payload": {
+        "action": "closed",
+        "number": 23,
+        "pull_request": {
+          "url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/pulls/23",
+          "id": 172127910,
+          "html_url": "https://github.com/nss-day-cohort-22/Class-Website/pull/23",
+          "diff_url": "https://github.com/nss-day-cohort-22/Class-Website/pull/23.diff",
+          "patch_url": "https://github.com/nss-day-cohort-22/Class-Website/pull/23.patch",
+          "issue_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues/23",
+          "number": 23,
+          "state": "closed",
+          "locked": false,
+          "title": "typo fix to my slice of j'sawn.",
+          "user": {
+            "login": "john-dulaney",
+            "id": 20269235,
+            "avatar_url": "https://avatars0.githubusercontent.com/u/20269235?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/john-dulaney",
+            "html_url": "https://github.com/john-dulaney",
+            "followers_url": "https://api.github.com/users/john-dulaney/followers",
+            "following_url": "https://api.github.com/users/john-dulaney/following{/other_user}",
+            "gists_url": "https://api.github.com/users/john-dulaney/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/john-dulaney/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/john-dulaney/subscriptions",
+            "organizations_url": "https://api.github.com/users/john-dulaney/orgs",
+            "repos_url": "https://api.github.com/users/john-dulaney/repos",
+            "events_url": "https://api.github.com/users/john-dulaney/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/john-dulaney/received_events",
+            "type": "User",
+            "site_admin": false
+          },
+          "body": "typo fix in my profile thingy. Need to proofread next time....\r\n\r\n\r\n\r\n",
+          "created_at": "2018-03-01T02:28:02Z",
+          "updated_at": "2018-03-01T03:25:16Z",
+          "closed_at": "2018-03-01T03:25:16Z",
+          "merged_at": "2018-03-01T03:25:16Z",
+          "merge_commit_sha": "1abeb730e9db484627990ef6bcc05cd99c679230",
+          "assignee": null,
+          "assignees": [
+            
+          ],
+          "requested_reviewers": [
+            
+          ],
+          "requested_teams": [
+            
+          ],
+          "labels": [
+            
+          ],
+          "milestone": null,
+          "commits_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/pulls/23/commits",
+          "review_comments_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/pulls/23/comments",
+          "review_comment_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/pulls/comments{/number}",
+          "comments_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues/23/comments",
+          "statuses_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/statuses/e3fc81d9787126a676073a5cd3d73c2ccca08633",
+          "head": {
+            "label": "nss-day-cohort-22:JD-omg-windows",
+            "ref": "JD-omg-windows",
+            "sha": "e3fc81d9787126a676073a5cd3d73c2ccca08633",
+            "user": {
+              "login": "nss-day-cohort-22",
+              "id": 29761257,
+              "avatar_url": "https://avatars1.githubusercontent.com/u/29761257?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/nss-day-cohort-22",
+              "html_url": "https://github.com/nss-day-cohort-22",
+              "followers_url": "https://api.github.com/users/nss-day-cohort-22/followers",
+              "following_url": "https://api.github.com/users/nss-day-cohort-22/following{/other_user}",
+              "gists_url": "https://api.github.com/users/nss-day-cohort-22/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/nss-day-cohort-22/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/nss-day-cohort-22/subscriptions",
+              "organizations_url": "https://api.github.com/users/nss-day-cohort-22/orgs",
+              "repos_url": "https://api.github.com/users/nss-day-cohort-22/repos",
+              "events_url": "https://api.github.com/users/nss-day-cohort-22/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/nss-day-cohort-22/received_events",
+              "type": "Organization",
+              "site_admin": false
+            },
+            "repo": {
+              "id": 118931376,
+              "name": "Class-Website",
+              "full_name": "nss-day-cohort-22/Class-Website",
+              "owner": {
+                "login": "nss-day-cohort-22",
+                "id": 29761257,
+                "avatar_url": "https://avatars1.githubusercontent.com/u/29761257?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/nss-day-cohort-22",
+                "html_url": "https://github.com/nss-day-cohort-22",
+                "followers_url": "https://api.github.com/users/nss-day-cohort-22/followers",
+                "following_url": "https://api.github.com/users/nss-day-cohort-22/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nss-day-cohort-22/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/nss-day-cohort-22/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nss-day-cohort-22/subscriptions",
+                "organizations_url": "https://api.github.com/users/nss-day-cohort-22/orgs",
+                "repos_url": "https://api.github.com/users/nss-day-cohort-22/repos",
+                "events_url": "https://api.github.com/users/nss-day-cohort-22/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/nss-day-cohort-22/received_events",
+                "type": "Organization",
+                "site_admin": false
+              },
+              "private": false,
+              "html_url": "https://github.com/nss-day-cohort-22/Class-Website",
+              "description": "NSS Day Cohort 22's Class Website",
+              "fork": false,
+              "url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website",
+              "forks_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/forks",
+              "keys_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/keys{/key_id}",
+              "collaborators_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/collaborators{/collaborator}",
+              "teams_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/teams",
+              "hooks_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/hooks",
+              "issue_events_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues/events{/number}",
+              "events_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/events",
+              "assignees_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/assignees{/user}",
+              "branches_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/branches{/branch}",
+              "tags_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/tags",
+              "blobs_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/git/blobs{/sha}",
+              "git_tags_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/git/tags{/sha}",
+              "git_refs_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/git/refs{/sha}",
+              "trees_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/git/trees{/sha}",
+              "statuses_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/statuses/{sha}",
+              "languages_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/languages",
+              "stargazers_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/stargazers",
+              "contributors_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/contributors",
+              "subscribers_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/subscribers",
+              "subscription_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/subscription",
+              "commits_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/commits{/sha}",
+              "git_commits_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/git/commits{/sha}",
+              "comments_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/comments{/number}",
+              "issue_comment_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues/comments{/number}",
+              "contents_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/contents/{+path}",
+              "compare_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/compare/{base}...{head}",
+              "merges_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/merges",
+              "archive_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/{archive_format}{/ref}",
+              "downloads_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/downloads",
+              "issues_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues{/number}",
+              "pulls_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/pulls{/number}",
+              "milestones_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/milestones{/number}",
+              "notifications_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/notifications{?since,all,participating}",
+              "labels_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/labels{/name}",
+              "releases_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/releases{/id}",
+              "deployments_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/deployments",
+              "created_at": "2018-01-25T15:33:41Z",
+              "updated_at": "2018-02-28T21:27:09Z",
+              "pushed_at": "2018-03-01T03:25:16Z",
+              "git_url": "git://github.com/nss-day-cohort-22/Class-Website.git",
+              "ssh_url": "git@github.com:nss-day-cohort-22/Class-Website.git",
+              "clone_url": "https://github.com/nss-day-cohort-22/Class-Website.git",
+              "svn_url": "https://github.com/nss-day-cohort-22/Class-Website",
+              "homepage": "https://nss-day-cohort-22.github.io/Class-Website/",
+              "size": 15718,
+              "stargazers_count": 0,
+              "watchers_count": 0,
+              "language": "HTML",
+              "has_issues": true,
+              "has_projects": true,
+              "has_downloads": true,
+              "has_wiki": true,
+              "has_pages": true,
+              "forks_count": 0,
+              "mirror_url": null,
+              "archived": false,
+              "open_issues_count": 7,
+              "license": {
+                "key": "mit",
+                "name": "MIT License",
+                "spdx_id": "MIT",
+                "url": "https://api.github.com/licenses/mit"
+              },
+              "forks": 0,
+              "open_issues": 7,
+              "watchers": 0,
+              "default_branch": "master"
+            }
+          },
+          "base": {
+            "label": "nss-day-cohort-22:master",
+            "ref": "master",
+            "sha": "3aabc358e4b110e1d9fa5c2bab5176705d3f3749",
+            "user": {
+              "login": "nss-day-cohort-22",
+              "id": 29761257,
+              "avatar_url": "https://avatars1.githubusercontent.com/u/29761257?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/nss-day-cohort-22",
+              "html_url": "https://github.com/nss-day-cohort-22",
+              "followers_url": "https://api.github.com/users/nss-day-cohort-22/followers",
+              "following_url": "https://api.github.com/users/nss-day-cohort-22/following{/other_user}",
+              "gists_url": "https://api.github.com/users/nss-day-cohort-22/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/nss-day-cohort-22/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/nss-day-cohort-22/subscriptions",
+              "organizations_url": "https://api.github.com/users/nss-day-cohort-22/orgs",
+              "repos_url": "https://api.github.com/users/nss-day-cohort-22/repos",
+              "events_url": "https://api.github.com/users/nss-day-cohort-22/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/nss-day-cohort-22/received_events",
+              "type": "Organization",
+              "site_admin": false
+            },
+            "repo": {
+              "id": 118931376,
+              "name": "Class-Website",
+              "full_name": "nss-day-cohort-22/Class-Website",
+              "owner": {
+                "login": "nss-day-cohort-22",
+                "id": 29761257,
+                "avatar_url": "https://avatars1.githubusercontent.com/u/29761257?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/nss-day-cohort-22",
+                "html_url": "https://github.com/nss-day-cohort-22",
+                "followers_url": "https://api.github.com/users/nss-day-cohort-22/followers",
+                "following_url": "https://api.github.com/users/nss-day-cohort-22/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nss-day-cohort-22/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/nss-day-cohort-22/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nss-day-cohort-22/subscriptions",
+                "organizations_url": "https://api.github.com/users/nss-day-cohort-22/orgs",
+                "repos_url": "https://api.github.com/users/nss-day-cohort-22/repos",
+                "events_url": "https://api.github.com/users/nss-day-cohort-22/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/nss-day-cohort-22/received_events",
+                "type": "Organization",
+                "site_admin": false
+              },
+              "private": false,
+              "html_url": "https://github.com/nss-day-cohort-22/Class-Website",
+              "description": "NSS Day Cohort 22's Class Website",
+              "fork": false,
+              "url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website",
+              "forks_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/forks",
+              "keys_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/keys{/key_id}",
+              "collaborators_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/collaborators{/collaborator}",
+              "teams_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/teams",
+              "hooks_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/hooks",
+              "issue_events_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues/events{/number}",
+              "events_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/events",
+              "assignees_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/assignees{/user}",
+              "branches_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/branches{/branch}",
+              "tags_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/tags",
+              "blobs_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/git/blobs{/sha}",
+              "git_tags_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/git/tags{/sha}",
+              "git_refs_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/git/refs{/sha}",
+              "trees_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/git/trees{/sha}",
+              "statuses_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/statuses/{sha}",
+              "languages_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/languages",
+              "stargazers_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/stargazers",
+              "contributors_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/contributors",
+              "subscribers_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/subscribers",
+              "subscription_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/subscription",
+              "commits_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/commits{/sha}",
+              "git_commits_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/git/commits{/sha}",
+              "comments_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/comments{/number}",
+              "issue_comment_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues/comments{/number}",
+              "contents_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/contents/{+path}",
+              "compare_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/compare/{base}...{head}",
+              "merges_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/merges",
+              "archive_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/{archive_format}{/ref}",
+              "downloads_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/downloads",
+              "issues_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues{/number}",
+              "pulls_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/pulls{/number}",
+              "milestones_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/milestones{/number}",
+              "notifications_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/notifications{?since,all,participating}",
+              "labels_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/labels{/name}",
+              "releases_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/releases{/id}",
+              "deployments_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/deployments",
+              "created_at": "2018-01-25T15:33:41Z",
+              "updated_at": "2018-02-28T21:27:09Z",
+              "pushed_at": "2018-03-01T03:25:16Z",
+              "git_url": "git://github.com/nss-day-cohort-22/Class-Website.git",
+              "ssh_url": "git@github.com:nss-day-cohort-22/Class-Website.git",
+              "clone_url": "https://github.com/nss-day-cohort-22/Class-Website.git",
+              "svn_url": "https://github.com/nss-day-cohort-22/Class-Website",
+              "homepage": "https://nss-day-cohort-22.github.io/Class-Website/",
+              "size": 15718,
+              "stargazers_count": 0,
+              "watchers_count": 0,
+              "language": "HTML",
+              "has_issues": true,
+              "has_projects": true,
+              "has_downloads": true,
+              "has_wiki": true,
+              "has_pages": true,
+              "forks_count": 0,
+              "mirror_url": null,
+              "archived": false,
+              "open_issues_count": 7,
+              "license": {
+                "key": "mit",
+                "name": "MIT License",
+                "spdx_id": "MIT",
+                "url": "https://api.github.com/licenses/mit"
+              },
+              "forks": 0,
+              "open_issues": 7,
+              "watchers": 0,
+              "default_branch": "master"
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/pulls/23"
+            },
+            "html": {
+              "href": "https://github.com/nss-day-cohort-22/Class-Website/pull/23"
+            },
+            "issue": {
+              "href": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues/23"
+            },
+            "comments": {
+              "href": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues/23/comments"
+            },
+            "review_comments": {
+              "href": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/pulls/23/comments"
+            },
+            "review_comment": {
+              "href": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/pulls/comments{/number}"
+            },
+            "commits": {
+              "href": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/pulls/23/commits"
+            },
+            "statuses": {
+              "href": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/statuses/e3fc81d9787126a676073a5cd3d73c2ccca08633"
+            }
+          },
+          "author_association": "COLLABORATOR",
+          "merged": true,
+          "mergeable": null,
+          "rebaseable": null,
+          "mergeable_state": "unknown",
+          "merged_by": {
+            "login": "john-dulaney",
+            "id": 20269235,
+            "avatar_url": "https://avatars0.githubusercontent.com/u/20269235?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/john-dulaney",
+            "html_url": "https://github.com/john-dulaney",
+            "followers_url": "https://api.github.com/users/john-dulaney/followers",
+            "following_url": "https://api.github.com/users/john-dulaney/following{/other_user}",
+            "gists_url": "https://api.github.com/users/john-dulaney/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/john-dulaney/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/john-dulaney/subscriptions",
+            "organizations_url": "https://api.github.com/users/john-dulaney/orgs",
+            "repos_url": "https://api.github.com/users/john-dulaney/repos",
+            "events_url": "https://api.github.com/users/john-dulaney/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/john-dulaney/received_events",
+            "type": "User",
+            "site_admin": false
+          },
+          "comments": 1,
+          "review_comments": 0,
+          "maintainer_can_modify": false,
+          "commits": 1,
+          "additions": 1,
+          "deletions": 1,
+          "changed_files": 1
+        }
+      },
+      "public": true,
+      "created_at": "2018-03-01T03:25:17Z",
+      "org": {
+        "id": 29761257,
+        "login": "nss-day-cohort-22",
+        "gravatar_id": "",
+        "url": "https://api.github.com/orgs/nss-day-cohort-22",
+        "avatar_url": "https://avatars.githubusercontent.com/u/29761257?"
+      }
+    },
+    {
+      "id": "7313681352",
+      "type": "PullRequestEvent",
+      "actor": {
+        "id": 20269235,
+        "login": "john-dulaney",
+        "display_login": "john-dulaney",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/john-dulaney",
+        "avatar_url": "https://avatars.githubusercontent.com/u/20269235?"
+      },
+      "repo": {
+        "id": 118931376,
+        "name": "nss-day-cohort-22/Class-Website",
+        "url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website"
+      },
+      "payload": {
+        "action": "opened",
+        "number": 23,
+        "pull_request": {
+          "url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/pulls/23",
+          "id": 172127910,
+          "html_url": "https://github.com/nss-day-cohort-22/Class-Website/pull/23",
+          "diff_url": "https://github.com/nss-day-cohort-22/Class-Website/pull/23.diff",
+          "patch_url": "https://github.com/nss-day-cohort-22/Class-Website/pull/23.patch",
+          "issue_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues/23",
+          "number": 23,
+          "state": "open",
+          "locked": false,
+          "title": "typo fix to my slice of j'sawn.",
+          "user": {
+            "login": "john-dulaney",
+            "id": 20269235,
+            "avatar_url": "https://avatars0.githubusercontent.com/u/20269235?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/john-dulaney",
+            "html_url": "https://github.com/john-dulaney",
+            "followers_url": "https://api.github.com/users/john-dulaney/followers",
+            "following_url": "https://api.github.com/users/john-dulaney/following{/other_user}",
+            "gists_url": "https://api.github.com/users/john-dulaney/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/john-dulaney/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/john-dulaney/subscriptions",
+            "organizations_url": "https://api.github.com/users/john-dulaney/orgs",
+            "repos_url": "https://api.github.com/users/john-dulaney/repos",
+            "events_url": "https://api.github.com/users/john-dulaney/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/john-dulaney/received_events",
+            "type": "User",
+            "site_admin": false
+          },
+          "body": "typo fix in my profile thingy. Need to proofread next time....\r\n\r\n\r\n\r\n",
+          "created_at": "2018-03-01T02:28:02Z",
+          "updated_at": "2018-03-01T02:28:02Z",
+          "closed_at": null,
+          "merged_at": null,
+          "merge_commit_sha": null,
+          "assignee": null,
+          "assignees": [
+            
+          ],
+          "requested_reviewers": [
+            
+          ],
+          "requested_teams": [
+            
+          ],
+          "labels": [
+            
+          ],
+          "milestone": null,
+          "commits_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/pulls/23/commits",
+          "review_comments_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/pulls/23/comments",
+          "review_comment_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/pulls/comments{/number}",
+          "comments_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues/23/comments",
+          "statuses_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/statuses/e3fc81d9787126a676073a5cd3d73c2ccca08633",
+          "head": {
+            "label": "nss-day-cohort-22:JD-omg-windows",
+            "ref": "JD-omg-windows",
+            "sha": "e3fc81d9787126a676073a5cd3d73c2ccca08633",
+            "user": {
+              "login": "nss-day-cohort-22",
+              "id": 29761257,
+              "avatar_url": "https://avatars1.githubusercontent.com/u/29761257?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/nss-day-cohort-22",
+              "html_url": "https://github.com/nss-day-cohort-22",
+              "followers_url": "https://api.github.com/users/nss-day-cohort-22/followers",
+              "following_url": "https://api.github.com/users/nss-day-cohort-22/following{/other_user}",
+              "gists_url": "https://api.github.com/users/nss-day-cohort-22/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/nss-day-cohort-22/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/nss-day-cohort-22/subscriptions",
+              "organizations_url": "https://api.github.com/users/nss-day-cohort-22/orgs",
+              "repos_url": "https://api.github.com/users/nss-day-cohort-22/repos",
+              "events_url": "https://api.github.com/users/nss-day-cohort-22/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/nss-day-cohort-22/received_events",
+              "type": "Organization",
+              "site_admin": false
+            },
+            "repo": {
+              "id": 118931376,
+              "name": "Class-Website",
+              "full_name": "nss-day-cohort-22/Class-Website",
+              "owner": {
+                "login": "nss-day-cohort-22",
+                "id": 29761257,
+                "avatar_url": "https://avatars1.githubusercontent.com/u/29761257?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/nss-day-cohort-22",
+                "html_url": "https://github.com/nss-day-cohort-22",
+                "followers_url": "https://api.github.com/users/nss-day-cohort-22/followers",
+                "following_url": "https://api.github.com/users/nss-day-cohort-22/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nss-day-cohort-22/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/nss-day-cohort-22/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nss-day-cohort-22/subscriptions",
+                "organizations_url": "https://api.github.com/users/nss-day-cohort-22/orgs",
+                "repos_url": "https://api.github.com/users/nss-day-cohort-22/repos",
+                "events_url": "https://api.github.com/users/nss-day-cohort-22/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/nss-day-cohort-22/received_events",
+                "type": "Organization",
+                "site_admin": false
+              },
+              "private": false,
+              "html_url": "https://github.com/nss-day-cohort-22/Class-Website",
+              "description": "NSS Day Cohort 22's Class Website",
+              "fork": false,
+              "url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website",
+              "forks_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/forks",
+              "keys_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/keys{/key_id}",
+              "collaborators_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/collaborators{/collaborator}",
+              "teams_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/teams",
+              "hooks_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/hooks",
+              "issue_events_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues/events{/number}",
+              "events_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/events",
+              "assignees_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/assignees{/user}",
+              "branches_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/branches{/branch}",
+              "tags_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/tags",
+              "blobs_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/git/blobs{/sha}",
+              "git_tags_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/git/tags{/sha}",
+              "git_refs_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/git/refs{/sha}",
+              "trees_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/git/trees{/sha}",
+              "statuses_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/statuses/{sha}",
+              "languages_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/languages",
+              "stargazers_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/stargazers",
+              "contributors_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/contributors",
+              "subscribers_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/subscribers",
+              "subscription_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/subscription",
+              "commits_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/commits{/sha}",
+              "git_commits_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/git/commits{/sha}",
+              "comments_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/comments{/number}",
+              "issue_comment_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues/comments{/number}",
+              "contents_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/contents/{+path}",
+              "compare_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/compare/{base}...{head}",
+              "merges_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/merges",
+              "archive_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/{archive_format}{/ref}",
+              "downloads_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/downloads",
+              "issues_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues{/number}",
+              "pulls_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/pulls{/number}",
+              "milestones_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/milestones{/number}",
+              "notifications_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/notifications{?since,all,participating}",
+              "labels_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/labels{/name}",
+              "releases_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/releases{/id}",
+              "deployments_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/deployments",
+              "created_at": "2018-01-25T15:33:41Z",
+              "updated_at": "2018-02-28T21:27:09Z",
+              "pushed_at": "2018-03-01T02:27:09Z",
+              "git_url": "git://github.com/nss-day-cohort-22/Class-Website.git",
+              "ssh_url": "git@github.com:nss-day-cohort-22/Class-Website.git",
+              "clone_url": "https://github.com/nss-day-cohort-22/Class-Website.git",
+              "svn_url": "https://github.com/nss-day-cohort-22/Class-Website",
+              "homepage": "https://nss-day-cohort-22.github.io/Class-Website/",
+              "size": 15718,
+              "stargazers_count": 0,
+              "watchers_count": 0,
+              "language": "HTML",
+              "has_issues": true,
+              "has_projects": true,
+              "has_downloads": true,
+              "has_wiki": true,
+              "has_pages": true,
+              "forks_count": 0,
+              "mirror_url": null,
+              "archived": false,
+              "open_issues_count": 8,
+              "license": {
+                "key": "mit",
+                "name": "MIT License",
+                "spdx_id": "MIT",
+                "url": "https://api.github.com/licenses/mit"
+              },
+              "forks": 0,
+              "open_issues": 8,
+              "watchers": 0,
+              "default_branch": "master"
+            }
+          },
+          "base": {
+            "label": "nss-day-cohort-22:master",
+            "ref": "master",
+            "sha": "3aabc358e4b110e1d9fa5c2bab5176705d3f3749",
+            "user": {
+              "login": "nss-day-cohort-22",
+              "id": 29761257,
+              "avatar_url": "https://avatars1.githubusercontent.com/u/29761257?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/nss-day-cohort-22",
+              "html_url": "https://github.com/nss-day-cohort-22",
+              "followers_url": "https://api.github.com/users/nss-day-cohort-22/followers",
+              "following_url": "https://api.github.com/users/nss-day-cohort-22/following{/other_user}",
+              "gists_url": "https://api.github.com/users/nss-day-cohort-22/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/nss-day-cohort-22/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/nss-day-cohort-22/subscriptions",
+              "organizations_url": "https://api.github.com/users/nss-day-cohort-22/orgs",
+              "repos_url": "https://api.github.com/users/nss-day-cohort-22/repos",
+              "events_url": "https://api.github.com/users/nss-day-cohort-22/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/nss-day-cohort-22/received_events",
+              "type": "Organization",
+              "site_admin": false
+            },
+            "repo": {
+              "id": 118931376,
+              "name": "Class-Website",
+              "full_name": "nss-day-cohort-22/Class-Website",
+              "owner": {
+                "login": "nss-day-cohort-22",
+                "id": 29761257,
+                "avatar_url": "https://avatars1.githubusercontent.com/u/29761257?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/nss-day-cohort-22",
+                "html_url": "https://github.com/nss-day-cohort-22",
+                "followers_url": "https://api.github.com/users/nss-day-cohort-22/followers",
+                "following_url": "https://api.github.com/users/nss-day-cohort-22/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nss-day-cohort-22/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/nss-day-cohort-22/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nss-day-cohort-22/subscriptions",
+                "organizations_url": "https://api.github.com/users/nss-day-cohort-22/orgs",
+                "repos_url": "https://api.github.com/users/nss-day-cohort-22/repos",
+                "events_url": "https://api.github.com/users/nss-day-cohort-22/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/nss-day-cohort-22/received_events",
+                "type": "Organization",
+                "site_admin": false
+              },
+              "private": false,
+              "html_url": "https://github.com/nss-day-cohort-22/Class-Website",
+              "description": "NSS Day Cohort 22's Class Website",
+              "fork": false,
+              "url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website",
+              "forks_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/forks",
+              "keys_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/keys{/key_id}",
+              "collaborators_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/collaborators{/collaborator}",
+              "teams_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/teams",
+              "hooks_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/hooks",
+              "issue_events_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues/events{/number}",
+              "events_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/events",
+              "assignees_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/assignees{/user}",
+              "branches_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/branches{/branch}",
+              "tags_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/tags",
+              "blobs_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/git/blobs{/sha}",
+              "git_tags_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/git/tags{/sha}",
+              "git_refs_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/git/refs{/sha}",
+              "trees_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/git/trees{/sha}",
+              "statuses_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/statuses/{sha}",
+              "languages_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/languages",
+              "stargazers_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/stargazers",
+              "contributors_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/contributors",
+              "subscribers_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/subscribers",
+              "subscription_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/subscription",
+              "commits_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/commits{/sha}",
+              "git_commits_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/git/commits{/sha}",
+              "comments_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/comments{/number}",
+              "issue_comment_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues/comments{/number}",
+              "contents_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/contents/{+path}",
+              "compare_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/compare/{base}...{head}",
+              "merges_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/merges",
+              "archive_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/{archive_format}{/ref}",
+              "downloads_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/downloads",
+              "issues_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues{/number}",
+              "pulls_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/pulls{/number}",
+              "milestones_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/milestones{/number}",
+              "notifications_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/notifications{?since,all,participating}",
+              "labels_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/labels{/name}",
+              "releases_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/releases{/id}",
+              "deployments_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/deployments",
+              "created_at": "2018-01-25T15:33:41Z",
+              "updated_at": "2018-02-28T21:27:09Z",
+              "pushed_at": "2018-03-01T02:27:09Z",
+              "git_url": "git://github.com/nss-day-cohort-22/Class-Website.git",
+              "ssh_url": "git@github.com:nss-day-cohort-22/Class-Website.git",
+              "clone_url": "https://github.com/nss-day-cohort-22/Class-Website.git",
+              "svn_url": "https://github.com/nss-day-cohort-22/Class-Website",
+              "homepage": "https://nss-day-cohort-22.github.io/Class-Website/",
+              "size": 15718,
+              "stargazers_count": 0,
+              "watchers_count": 0,
+              "language": "HTML",
+              "has_issues": true,
+              "has_projects": true,
+              "has_downloads": true,
+              "has_wiki": true,
+              "has_pages": true,
+              "forks_count": 0,
+              "mirror_url": null,
+              "archived": false,
+              "open_issues_count": 8,
+              "license": {
+                "key": "mit",
+                "name": "MIT License",
+                "spdx_id": "MIT",
+                "url": "https://api.github.com/licenses/mit"
+              },
+              "forks": 0,
+              "open_issues": 8,
+              "watchers": 0,
+              "default_branch": "master"
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/pulls/23"
+            },
+            "html": {
+              "href": "https://github.com/nss-day-cohort-22/Class-Website/pull/23"
+            },
+            "issue": {
+              "href": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues/23"
+            },
+            "comments": {
+              "href": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues/23/comments"
+            },
+            "review_comments": {
+              "href": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/pulls/23/comments"
+            },
+            "review_comment": {
+              "href": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/pulls/comments{/number}"
+            },
+            "commits": {
+              "href": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/pulls/23/commits"
+            },
+            "statuses": {
+              "href": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/statuses/e3fc81d9787126a676073a5cd3d73c2ccca08633"
+            }
+          },
+          "author_association": "COLLABORATOR",
+          "merged": false,
+          "mergeable": null,
+          "rebaseable": null,
+          "mergeable_state": "unknown",
+          "merged_by": null,
+          "comments": 0,
+          "review_comments": 0,
+          "maintainer_can_modify": false,
+          "commits": 1,
+          "additions": 1,
+          "deletions": 1,
+          "changed_files": 1
+        }
+      },
+      "public": true,
+      "created_at": "2018-03-01T02:28:02Z",
+      "org": {
+        "id": 29761257,
+        "login": "nss-day-cohort-22",
+        "gravatar_id": "",
+        "url": "https://api.github.com/orgs/nss-day-cohort-22",
+        "avatar_url": "https://avatars.githubusercontent.com/u/29761257?"
+      }
+    },
+    {
+      "id": "7313678874",
+      "type": "CreateEvent",
+      "actor": {
+        "id": 20269235,
+        "login": "john-dulaney",
+        "display_login": "john-dulaney",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/john-dulaney",
+        "avatar_url": "https://avatars.githubusercontent.com/u/20269235?"
+      },
+      "repo": {
+        "id": 118931376,
+        "name": "nss-day-cohort-22/Class-Website",
+        "url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website"
+      },
+      "payload": {
+        "ref": "JD-omg-windows",
+        "ref_type": "branch",
+        "master_branch": "master",
+        "description": "NSS Day Cohort 22's Class Website",
+        "pusher_type": "user"
+      },
+      "public": true,
+      "created_at": "2018-03-01T02:27:09Z",
+      "org": {
+        "id": 29761257,
+        "login": "nss-day-cohort-22",
+        "gravatar_id": "",
+        "url": "https://api.github.com/orgs/nss-day-cohort-22",
+        "avatar_url": "https://avatars.githubusercontent.com/u/29761257?"
+      }
+    },
+    {
+      "id": "7312116057",
+      "type": "PushEvent",
+      "actor": {
+        "id": 20269235,
+        "login": "john-dulaney",
+        "display_login": "john-dulaney",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/john-dulaney",
+        "avatar_url": "https://avatars.githubusercontent.com/u/20269235?"
+      },
+      "repo": {
+        "id": 120027360,
+        "name": "john-dulaney/john-dulaney.github.io",
+        "url": "https://api.github.com/repos/john-dulaney/john-dulaney.github.io"
+      },
+      "payload": {
+        "push_id": 2366458233,
+        "size": 1,
+        "distinct_size": 1,
+        "ref": "refs/heads/master",
+        "head": "540567a64b05006cf4d6f94c5c511e2aade58cd9",
+        "before": "1efe0475dbfd0d77031cc486a81de4ca3ccbd23e",
+        "commits": [
+          {
+            "sha": "540567a64b05006cf4d6f94c5c511e2aade58cd9",
+            "author": {
+              "email": "john.s.dulaney1@gmail.com",
+              "name": "John Dulaney"
+            },
+            "message": "Meg, like the styling changes. Good exercise is to make the columns 5 wide. *<|:-)",
+            "distinct": true,
+            "url": "https://api.github.com/repos/john-dulaney/john-dulaney.github.io/commits/540567a64b05006cf4d6f94c5c511e2aade58cd9"
+          }
+        ]
+      },
+      "public": true,
+      "created_at": "2018-02-28T19:54:51Z"
+    },
+    {
+      "id": "7311922216",
+      "type": "PushEvent",
+      "actor": {
+        "id": 20269235,
+        "login": "john-dulaney",
+        "display_login": "john-dulaney",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/john-dulaney",
+        "avatar_url": "https://avatars.githubusercontent.com/u/20269235?"
+      },
+      "repo": {
+        "id": 122990282,
+        "name": "john-dulaney/bob-ross-movie-history",
+        "url": "https://api.github.com/repos/john-dulaney/bob-ross-movie-history"
+      },
+      "payload": {
+        "push_id": 2366360789,
+        "size": 4,
+        "distinct_size": 4,
+        "ref": "refs/heads/master",
+        "head": "e2c33c656b58a702919b8617a015e1ca6daae1af",
+        "before": "91b3ffe017feaafc39aabc603f06a247e78f7290",
+        "commits": [
+          {
+            "sha": "5e138c1c5984906d66fae1a6c7b68651ff13dd4a",
+            "author": {
+              "email": "chortlehoort@gmail.com",
+              "name": "Steve Brownlee"
+            },
+            "message": "Movie now tracked and displayed immediately in watch list",
+            "distinct": true,
+            "url": "https://api.github.com/repos/john-dulaney/bob-ross-movie-history/commits/5e138c1c5984906d66fae1a6c7b68651ff13dd4a"
+          },
+          {
+            "sha": "61a350dc8d906b0e6f40dcc222698d082211bb50",
+            "author": {
+              "email": "chortlehoort@gmail.com",
+              "name": "Steve Brownlee"
+            },
+            "message": "Split tracking a movie and showing tracked movies into separate methods",
+            "distinct": true,
+            "url": "https://api.github.com/repos/john-dulaney/bob-ross-movie-history/commits/61a350dc8d906b0e6f40dcc222698d082211bb50"
+          },
+          {
+            "sha": "21e08e01267c88c6bf2db286dbe5fee0b1b92567",
+            "author": {
+              "email": "chortlehoort@gmail.com",
+              "name": "Steve Brownlee"
+            },
+            "message": "Not allowing user to track same movie twice",
+            "distinct": true,
+            "url": "https://api.github.com/repos/john-dulaney/bob-ross-movie-history/commits/21e08e01267c88c6bf2db286dbe5fee0b1b92567"
+          },
+          {
+            "sha": "e2c33c656b58a702919b8617a015e1ca6daae1af",
+            "author": {
+              "email": "john.s.dulaney1@gmail.com",
+              "name": "John"
+            },
+            "message": "Merge branch 'master' of github.com:nss-day-cohort-22/bob-ross-movie-history",
+            "distinct": true,
+            "url": "https://api.github.com/repos/john-dulaney/bob-ross-movie-history/commits/e2c33c656b58a702919b8617a015e1ca6daae1af"
+          }
+        ]
+      },
+      "public": true,
+      "created_at": "2018-02-28T19:18:35Z"
+    },
+    {
+      "id": "7310516522",
+      "type": "DeleteEvent",
+      "actor": {
+        "id": 20269235,
+        "login": "john-dulaney",
+        "display_login": "john-dulaney",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/john-dulaney",
+        "avatar_url": "https://avatars.githubusercontent.com/u/20269235?"
+      },
+      "repo": {
+        "id": 118931376,
+        "name": "nss-day-cohort-22/Class-Website",
+        "url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website"
+      },
+      "payload": {
+        "ref": "JD-omg-windows",
+        "ref_type": "branch",
+        "pusher_type": "user"
+      },
+      "public": true,
+      "created_at": "2018-02-28T15:13:18Z",
+      "org": {
+        "id": 29761257,
+        "login": "nss-day-cohort-22",
+        "gravatar_id": "",
+        "url": "https://api.github.com/orgs/nss-day-cohort-22",
+        "avatar_url": "https://avatars.githubusercontent.com/u/29761257?"
+      }
+    },
+    {
+      "id": "7310515933",
+      "type": "PushEvent",
+      "actor": {
+        "id": 20269235,
+        "login": "john-dulaney",
+        "display_login": "john-dulaney",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/john-dulaney",
+        "avatar_url": "https://avatars.githubusercontent.com/u/20269235?"
+      },
+      "repo": {
+        "id": 118931376,
+        "name": "nss-day-cohort-22/Class-Website",
+        "url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website"
+      },
+      "payload": {
+        "push_id": 2365647832,
+        "size": 4,
+        "distinct_size": 1,
+        "ref": "refs/heads/master",
+        "head": "5a625476650fef480910d2e7138fdac88afccfc3",
+        "before": "91d9b9e2f4e9055df43d549169f1b47679d25755",
+        "commits": [
+          {
+            "sha": "a603590e235fb1e8ca69c5ee5a713b621dd6c902",
+            "author": {
+              "email": "john.s.dulaney1@gmail.com",
+              "name": "John Dulaney"
+            },
+            "message": "changed tech to have links, added the urls to json",
+            "distinct": false,
+            "url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/commits/a603590e235fb1e8ca69c5ee5a713b621dd6c902"
+          },
+          {
+            "sha": "4d63bde017f35af01f1c0b33f325ade762cb65c6",
+            "author": {
+              "email": "john.s.dulaney1@gmail.com",
+              "name": "John Dulaney"
+            },
+            "message": "added some specification on names in the thank you section",
+            "distinct": false,
+            "url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/commits/4d63bde017f35af01f1c0b33f325ade762cb65c6"
+          },
+          {
+            "sha": "1eb965fdf43ee30adf520f049c0a92d3b4c49fb9",
+            "author": {
+              "email": "john.s.dulaney1@gmail.com",
+              "name": "John Dulaney"
+            },
+            "message": "added the thing greg said to do. you know, that thing. right? like that one thing that opens tabs up on click. man greg is smart. no jk.",
+            "distinct": false,
+            "url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/commits/1eb965fdf43ee30adf520f049c0a92d3b4c49fb9"
+          },
+          {
+            "sha": "5a625476650fef480910d2e7138fdac88afccfc3",
+            "author": {
+              "email": "john.s.dulaney1@gmail.com",
+              "name": "John Dulaney"
+            },
+            "message": "Merge pull request #19 from nss-day-cohort-22/JD-omg-windows\n\nAdded links to tech. Changed names in ty section.",
+            "distinct": true,
+            "url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/commits/5a625476650fef480910d2e7138fdac88afccfc3"
+          }
+        ]
+      },
+      "public": true,
+      "created_at": "2018-02-28T15:13:13Z",
+      "org": {
+        "id": 29761257,
+        "login": "nss-day-cohort-22",
+        "gravatar_id": "",
+        "url": "https://api.github.com/orgs/nss-day-cohort-22",
+        "avatar_url": "https://avatars.githubusercontent.com/u/29761257?"
+      }
+    },
+    {
+      "id": "7310515863",
+      "type": "PullRequestEvent",
+      "actor": {
+        "id": 20269235,
+        "login": "john-dulaney",
+        "display_login": "john-dulaney",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/john-dulaney",
+        "avatar_url": "https://avatars.githubusercontent.com/u/20269235?"
+      },
+      "repo": {
+        "id": 118931376,
+        "name": "nss-day-cohort-22/Class-Website",
+        "url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website"
+      },
+      "payload": {
+        "action": "closed",
+        "number": 19,
+        "pull_request": {
+          "url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/pulls/19",
+          "id": 171827113,
+          "html_url": "https://github.com/nss-day-cohort-22/Class-Website/pull/19",
+          "diff_url": "https://github.com/nss-day-cohort-22/Class-Website/pull/19.diff",
+          "patch_url": "https://github.com/nss-day-cohort-22/Class-Website/pull/19.patch",
+          "issue_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues/19",
+          "number": 19,
+          "state": "closed",
+          "locked": false,
+          "title": "Added links to tech. Changed names in ty section.",
+          "user": {
+            "login": "john-dulaney",
+            "id": 20269235,
+            "avatar_url": "https://avatars0.githubusercontent.com/u/20269235?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/john-dulaney",
+            "html_url": "https://github.com/john-dulaney",
+            "followers_url": "https://api.github.com/users/john-dulaney/followers",
+            "following_url": "https://api.github.com/users/john-dulaney/following{/other_user}",
+            "gists_url": "https://api.github.com/users/john-dulaney/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/john-dulaney/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/john-dulaney/subscriptions",
+            "organizations_url": "https://api.github.com/users/john-dulaney/orgs",
+            "repos_url": "https://api.github.com/users/john-dulaney/repos",
+            "events_url": "https://api.github.com/users/john-dulaney/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/john-dulaney/received_events",
+            "type": "User",
+            "site_admin": false
+          },
+          "body": "## Link to Ticket\r\nJanitor\r\n\r\n## Description of Proposed Changes\r\n\r\n-  Added links to tech. Changed names in ty section.\r\n\r\n## Steps to Test\r\n\r\nOutline the steps to test\r\n\r\n```sh\r\ngit fetch --all\r\ngit checkout JD-omg-windows\r\n\r\n```\r\n1. http server open the site\r\n1. ensure the links work for each tech icon\r\n1. das it man\r\n\r\n## Impacted Areas in Application\r\n\r\nList general components of the application that this PR will affect:\r\n\r\n* tech.json, small change to main.js, small change to index.html\r\n\r\n## Mentions @krnorris65 @Chewieez \r\n\r\nTag users that need to review this code\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+          "created_at": "2018-02-28T00:47:46Z",
+          "updated_at": "2018-02-28T15:13:12Z",
+          "closed_at": "2018-02-28T15:13:12Z",
+          "merged_at": "2018-02-28T15:13:12Z",
+          "merge_commit_sha": "5a625476650fef480910d2e7138fdac88afccfc3",
+          "assignee": null,
+          "assignees": [
+            
+          ],
+          "requested_reviewers": [
+            
+          ],
+          "requested_teams": [
+            
+          ],
+          "labels": [
+            
+          ],
+          "milestone": null,
+          "commits_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/pulls/19/commits",
+          "review_comments_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/pulls/19/comments",
+          "review_comment_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/pulls/comments{/number}",
+          "comments_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues/19/comments",
+          "statuses_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/statuses/1eb965fdf43ee30adf520f049c0a92d3b4c49fb9",
+          "head": {
+            "label": "nss-day-cohort-22:JD-omg-windows",
+            "ref": "JD-omg-windows",
+            "sha": "1eb965fdf43ee30adf520f049c0a92d3b4c49fb9",
+            "user": {
+              "login": "nss-day-cohort-22",
+              "id": 29761257,
+              "avatar_url": "https://avatars1.githubusercontent.com/u/29761257?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/nss-day-cohort-22",
+              "html_url": "https://github.com/nss-day-cohort-22",
+              "followers_url": "https://api.github.com/users/nss-day-cohort-22/followers",
+              "following_url": "https://api.github.com/users/nss-day-cohort-22/following{/other_user}",
+              "gists_url": "https://api.github.com/users/nss-day-cohort-22/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/nss-day-cohort-22/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/nss-day-cohort-22/subscriptions",
+              "organizations_url": "https://api.github.com/users/nss-day-cohort-22/orgs",
+              "repos_url": "https://api.github.com/users/nss-day-cohort-22/repos",
+              "events_url": "https://api.github.com/users/nss-day-cohort-22/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/nss-day-cohort-22/received_events",
+              "type": "Organization",
+              "site_admin": false
+            },
+            "repo": {
+              "id": 118931376,
+              "name": "Class-Website",
+              "full_name": "nss-day-cohort-22/Class-Website",
+              "owner": {
+                "login": "nss-day-cohort-22",
+                "id": 29761257,
+                "avatar_url": "https://avatars1.githubusercontent.com/u/29761257?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/nss-day-cohort-22",
+                "html_url": "https://github.com/nss-day-cohort-22",
+                "followers_url": "https://api.github.com/users/nss-day-cohort-22/followers",
+                "following_url": "https://api.github.com/users/nss-day-cohort-22/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nss-day-cohort-22/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/nss-day-cohort-22/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nss-day-cohort-22/subscriptions",
+                "organizations_url": "https://api.github.com/users/nss-day-cohort-22/orgs",
+                "repos_url": "https://api.github.com/users/nss-day-cohort-22/repos",
+                "events_url": "https://api.github.com/users/nss-day-cohort-22/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/nss-day-cohort-22/received_events",
+                "type": "Organization",
+                "site_admin": false
+              },
+              "private": false,
+              "html_url": "https://github.com/nss-day-cohort-22/Class-Website",
+              "description": "NSS Day Cohort 22's Class Website",
+              "fork": false,
+              "url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website",
+              "forks_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/forks",
+              "keys_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/keys{/key_id}",
+              "collaborators_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/collaborators{/collaborator}",
+              "teams_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/teams",
+              "hooks_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/hooks",
+              "issue_events_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues/events{/number}",
+              "events_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/events",
+              "assignees_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/assignees{/user}",
+              "branches_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/branches{/branch}",
+              "tags_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/tags",
+              "blobs_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/git/blobs{/sha}",
+              "git_tags_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/git/tags{/sha}",
+              "git_refs_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/git/refs{/sha}",
+              "trees_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/git/trees{/sha}",
+              "statuses_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/statuses/{sha}",
+              "languages_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/languages",
+              "stargazers_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/stargazers",
+              "contributors_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/contributors",
+              "subscribers_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/subscribers",
+              "subscription_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/subscription",
+              "commits_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/commits{/sha}",
+              "git_commits_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/git/commits{/sha}",
+              "comments_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/comments{/number}",
+              "issue_comment_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues/comments{/number}",
+              "contents_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/contents/{+path}",
+              "compare_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/compare/{base}...{head}",
+              "merges_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/merges",
+              "archive_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/{archive_format}{/ref}",
+              "downloads_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/downloads",
+              "issues_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues{/number}",
+              "pulls_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/pulls{/number}",
+              "milestones_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/milestones{/number}",
+              "notifications_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/notifications{?since,all,participating}",
+              "labels_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/labels{/name}",
+              "releases_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/releases{/id}",
+              "deployments_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/deployments",
+              "created_at": "2018-01-25T15:33:41Z",
+              "updated_at": "2018-02-05T17:48:09Z",
+              "pushed_at": "2018-02-28T15:13:12Z",
+              "git_url": "git://github.com/nss-day-cohort-22/Class-Website.git",
+              "ssh_url": "git@github.com:nss-day-cohort-22/Class-Website.git",
+              "clone_url": "https://github.com/nss-day-cohort-22/Class-Website.git",
+              "svn_url": "https://github.com/nss-day-cohort-22/Class-Website",
+              "homepage": null,
+              "size": 15692,
+              "stargazers_count": 0,
+              "watchers_count": 0,
+              "language": "HTML",
+              "has_issues": true,
+              "has_projects": true,
+              "has_downloads": true,
+              "has_wiki": true,
+              "has_pages": true,
+              "forks_count": 0,
+              "mirror_url": null,
+              "archived": false,
+              "open_issues_count": 6,
+              "license": {
+                "key": "mit",
+                "name": "MIT License",
+                "spdx_id": "MIT",
+                "url": "https://api.github.com/licenses/mit"
+              },
+              "forks": 0,
+              "open_issues": 6,
+              "watchers": 0,
+              "default_branch": "master"
+            }
+          },
+          "base": {
+            "label": "nss-day-cohort-22:master",
+            "ref": "master",
+            "sha": "91d9b9e2f4e9055df43d549169f1b47679d25755",
+            "user": {
+              "login": "nss-day-cohort-22",
+              "id": 29761257,
+              "avatar_url": "https://avatars1.githubusercontent.com/u/29761257?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/nss-day-cohort-22",
+              "html_url": "https://github.com/nss-day-cohort-22",
+              "followers_url": "https://api.github.com/users/nss-day-cohort-22/followers",
+              "following_url": "https://api.github.com/users/nss-day-cohort-22/following{/other_user}",
+              "gists_url": "https://api.github.com/users/nss-day-cohort-22/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/nss-day-cohort-22/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/nss-day-cohort-22/subscriptions",
+              "organizations_url": "https://api.github.com/users/nss-day-cohort-22/orgs",
+              "repos_url": "https://api.github.com/users/nss-day-cohort-22/repos",
+              "events_url": "https://api.github.com/users/nss-day-cohort-22/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/nss-day-cohort-22/received_events",
+              "type": "Organization",
+              "site_admin": false
+            },
+            "repo": {
+              "id": 118931376,
+              "name": "Class-Website",
+              "full_name": "nss-day-cohort-22/Class-Website",
+              "owner": {
+                "login": "nss-day-cohort-22",
+                "id": 29761257,
+                "avatar_url": "https://avatars1.githubusercontent.com/u/29761257?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/nss-day-cohort-22",
+                "html_url": "https://github.com/nss-day-cohort-22",
+                "followers_url": "https://api.github.com/users/nss-day-cohort-22/followers",
+                "following_url": "https://api.github.com/users/nss-day-cohort-22/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nss-day-cohort-22/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/nss-day-cohort-22/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nss-day-cohort-22/subscriptions",
+                "organizations_url": "https://api.github.com/users/nss-day-cohort-22/orgs",
+                "repos_url": "https://api.github.com/users/nss-day-cohort-22/repos",
+                "events_url": "https://api.github.com/users/nss-day-cohort-22/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/nss-day-cohort-22/received_events",
+                "type": "Organization",
+                "site_admin": false
+              },
+              "private": false,
+              "html_url": "https://github.com/nss-day-cohort-22/Class-Website",
+              "description": "NSS Day Cohort 22's Class Website",
+              "fork": false,
+              "url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website",
+              "forks_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/forks",
+              "keys_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/keys{/key_id}",
+              "collaborators_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/collaborators{/collaborator}",
+              "teams_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/teams",
+              "hooks_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/hooks",
+              "issue_events_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues/events{/number}",
+              "events_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/events",
+              "assignees_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/assignees{/user}",
+              "branches_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/branches{/branch}",
+              "tags_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/tags",
+              "blobs_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/git/blobs{/sha}",
+              "git_tags_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/git/tags{/sha}",
+              "git_refs_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/git/refs{/sha}",
+              "trees_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/git/trees{/sha}",
+              "statuses_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/statuses/{sha}",
+              "languages_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/languages",
+              "stargazers_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/stargazers",
+              "contributors_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/contributors",
+              "subscribers_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/subscribers",
+              "subscription_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/subscription",
+              "commits_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/commits{/sha}",
+              "git_commits_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/git/commits{/sha}",
+              "comments_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/comments{/number}",
+              "issue_comment_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues/comments{/number}",
+              "contents_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/contents/{+path}",
+              "compare_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/compare/{base}...{head}",
+              "merges_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/merges",
+              "archive_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/{archive_format}{/ref}",
+              "downloads_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/downloads",
+              "issues_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues{/number}",
+              "pulls_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/pulls{/number}",
+              "milestones_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/milestones{/number}",
+              "notifications_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/notifications{?since,all,participating}",
+              "labels_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/labels{/name}",
+              "releases_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/releases{/id}",
+              "deployments_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/deployments",
+              "created_at": "2018-01-25T15:33:41Z",
+              "updated_at": "2018-02-05T17:48:09Z",
+              "pushed_at": "2018-02-28T15:13:12Z",
+              "git_url": "git://github.com/nss-day-cohort-22/Class-Website.git",
+              "ssh_url": "git@github.com:nss-day-cohort-22/Class-Website.git",
+              "clone_url": "https://github.com/nss-day-cohort-22/Class-Website.git",
+              "svn_url": "https://github.com/nss-day-cohort-22/Class-Website",
+              "homepage": null,
+              "size": 15692,
+              "stargazers_count": 0,
+              "watchers_count": 0,
+              "language": "HTML",
+              "has_issues": true,
+              "has_projects": true,
+              "has_downloads": true,
+              "has_wiki": true,
+              "has_pages": true,
+              "forks_count": 0,
+              "mirror_url": null,
+              "archived": false,
+              "open_issues_count": 6,
+              "license": {
+                "key": "mit",
+                "name": "MIT License",
+                "spdx_id": "MIT",
+                "url": "https://api.github.com/licenses/mit"
+              },
+              "forks": 0,
+              "open_issues": 6,
+              "watchers": 0,
+              "default_branch": "master"
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/pulls/19"
+            },
+            "html": {
+              "href": "https://github.com/nss-day-cohort-22/Class-Website/pull/19"
+            },
+            "issue": {
+              "href": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues/19"
+            },
+            "comments": {
+              "href": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues/19/comments"
+            },
+            "review_comments": {
+              "href": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/pulls/19/comments"
+            },
+            "review_comment": {
+              "href": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/pulls/comments{/number}"
+            },
+            "commits": {
+              "href": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/pulls/19/commits"
+            },
+            "statuses": {
+              "href": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/statuses/1eb965fdf43ee30adf520f049c0a92d3b4c49fb9"
+            }
+          },
+          "author_association": "COLLABORATOR",
+          "merged": true,
+          "mergeable": null,
+          "rebaseable": null,
+          "mergeable_state": "unknown",
+          "merged_by": {
+            "login": "john-dulaney",
+            "id": 20269235,
+            "avatar_url": "https://avatars0.githubusercontent.com/u/20269235?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/john-dulaney",
+            "html_url": "https://github.com/john-dulaney",
+            "followers_url": "https://api.github.com/users/john-dulaney/followers",
+            "following_url": "https://api.github.com/users/john-dulaney/following{/other_user}",
+            "gists_url": "https://api.github.com/users/john-dulaney/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/john-dulaney/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/john-dulaney/subscriptions",
+            "organizations_url": "https://api.github.com/users/john-dulaney/orgs",
+            "repos_url": "https://api.github.com/users/john-dulaney/repos",
+            "events_url": "https://api.github.com/users/john-dulaney/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/john-dulaney/received_events",
+            "type": "User",
+            "site_admin": false
+          },
+          "comments": 5,
+          "review_comments": 0,
+          "maintainer_can_modify": false,
+          "commits": 3,
+          "additions": 57,
+          "deletions": 34,
+          "changed_files": 4
+        }
+      },
+      "public": true,
+      "created_at": "2018-02-28T15:13:12Z",
+      "org": {
+        "id": 29761257,
+        "login": "nss-day-cohort-22",
+        "gravatar_id": "",
+        "url": "https://api.github.com/orgs/nss-day-cohort-22",
+        "avatar_url": "https://avatars.githubusercontent.com/u/29761257?"
+      }
+    },
+    {
+      "id": "7307402104",
+      "type": "IssueCommentEvent",
+      "actor": {
+        "id": 20269235,
+        "login": "john-dulaney",
+        "display_login": "john-dulaney",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/john-dulaney",
+        "avatar_url": "https://avatars.githubusercontent.com/u/20269235?"
+      },
+      "repo": {
+        "id": 118931376,
+        "name": "nss-day-cohort-22/Class-Website",
+        "url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website"
+      },
+      "payload": {
+        "action": "created",
+        "issue": {
+          "url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues/19",
+          "repository_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website",
+          "labels_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues/19/labels{/name}",
+          "comments_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues/19/comments",
+          "events_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues/19/events",
+          "html_url": "https://github.com/nss-day-cohort-22/Class-Website/pull/19",
+          "id": 300849401,
+          "number": 19,
+          "title": "Added links to tech. Changed names in ty section.",
+          "user": {
+            "login": "john-dulaney",
+            "id": 20269235,
+            "avatar_url": "https://avatars0.githubusercontent.com/u/20269235?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/john-dulaney",
+            "html_url": "https://github.com/john-dulaney",
+            "followers_url": "https://api.github.com/users/john-dulaney/followers",
+            "following_url": "https://api.github.com/users/john-dulaney/following{/other_user}",
+            "gists_url": "https://api.github.com/users/john-dulaney/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/john-dulaney/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/john-dulaney/subscriptions",
+            "organizations_url": "https://api.github.com/users/john-dulaney/orgs",
+            "repos_url": "https://api.github.com/users/john-dulaney/repos",
+            "events_url": "https://api.github.com/users/john-dulaney/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/john-dulaney/received_events",
+            "type": "User",
+            "site_admin": false
+          },
+          "labels": [
+            
+          ],
+          "state": "open",
+          "locked": false,
+          "assignee": null,
+          "assignees": [
+            
+          ],
+          "milestone": null,
+          "comments": 5,
+          "created_at": "2018-02-28T00:47:46Z",
+          "updated_at": "2018-02-28T02:34:30Z",
+          "closed_at": null,
+          "author_association": "COLLABORATOR",
+          "pull_request": {
+            "url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/pulls/19",
+            "html_url": "https://github.com/nss-day-cohort-22/Class-Website/pull/19",
+            "diff_url": "https://github.com/nss-day-cohort-22/Class-Website/pull/19.diff",
+            "patch_url": "https://github.com/nss-day-cohort-22/Class-Website/pull/19.patch"
+          },
+          "body": "## Link to Ticket\r\nJanitor\r\n\r\n## Description of Proposed Changes\r\n\r\n-  Added links to tech. Changed names in ty section.\r\n\r\n## Steps to Test\r\n\r\nOutline the steps to test\r\n\r\n```sh\r\ngit fetch --all\r\ngit checkout JD-omg-windows\r\n\r\n```\r\n1. http server open the site\r\n1. ensure the links work for each tech icon\r\n1. das it man\r\n\r\n## Impacted Areas in Application\r\n\r\nList general components of the application that this PR will affect:\r\n\r\n* tech.json, small change to main.js, small change to index.html\r\n\r\n## Mentions @krnorris65 @Chewieez \r\n\r\nTag users that need to review this code\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+        },
+        "comment": {
+          "url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues/comments/369100819",
+          "html_url": "https://github.com/nss-day-cohort-22/Class-Website/pull/19#issuecomment-369100819",
+          "issue_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues/19",
+          "id": 369100819,
+          "user": {
+            "login": "john-dulaney",
+            "id": 20269235,
+            "avatar_url": "https://avatars0.githubusercontent.com/u/20269235?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/john-dulaney",
+            "html_url": "https://github.com/john-dulaney",
+            "followers_url": "https://api.github.com/users/john-dulaney/followers",
+            "following_url": "https://api.github.com/users/john-dulaney/following{/other_user}",
+            "gists_url": "https://api.github.com/users/john-dulaney/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/john-dulaney/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/john-dulaney/subscriptions",
+            "organizations_url": "https://api.github.com/users/john-dulaney/orgs",
+            "repos_url": "https://api.github.com/users/john-dulaney/repos",
+            "events_url": "https://api.github.com/users/john-dulaney/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/john-dulaney/received_events",
+            "type": "User",
+            "site_admin": false
+          },
+          "created_at": "2018-02-28T02:34:30Z",
+          "updated_at": "2018-02-28T02:34:30Z",
+          "author_association": "COLLABORATOR",
+          "body": "yea i'll hit it tomorrow when im in a better state of mind\r\n"
+        }
+      },
+      "public": true,
+      "created_at": "2018-02-28T02:34:30Z",
+      "org": {
+        "id": 29761257,
+        "login": "nss-day-cohort-22",
+        "gravatar_id": "",
+        "url": "https://api.github.com/orgs/nss-day-cohort-22",
+        "avatar_url": "https://avatars.githubusercontent.com/u/29761257?"
+      }
+    },
+    {
+      "id": "7307361445",
+      "type": "IssueCommentEvent",
+      "actor": {
+        "id": 20269235,
+        "login": "john-dulaney",
+        "display_login": "john-dulaney",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/john-dulaney",
+        "avatar_url": "https://avatars.githubusercontent.com/u/20269235?"
+      },
+      "repo": {
+        "id": 118931376,
+        "name": "nss-day-cohort-22/Class-Website",
+        "url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website"
+      },
+      "payload": {
+        "action": "created",
+        "issue": {
+          "url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues/19",
+          "repository_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website",
+          "labels_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues/19/labels{/name}",
+          "comments_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues/19/comments",
+          "events_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues/19/events",
+          "html_url": "https://github.com/nss-day-cohort-22/Class-Website/pull/19",
+          "id": 300849401,
+          "number": 19,
+          "title": "Added links to tech. Changed names in ty section.",
+          "user": {
+            "login": "john-dulaney",
+            "id": 20269235,
+            "avatar_url": "https://avatars0.githubusercontent.com/u/20269235?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/john-dulaney",
+            "html_url": "https://github.com/john-dulaney",
+            "followers_url": "https://api.github.com/users/john-dulaney/followers",
+            "following_url": "https://api.github.com/users/john-dulaney/following{/other_user}",
+            "gists_url": "https://api.github.com/users/john-dulaney/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/john-dulaney/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/john-dulaney/subscriptions",
+            "organizations_url": "https://api.github.com/users/john-dulaney/orgs",
+            "repos_url": "https://api.github.com/users/john-dulaney/repos",
+            "events_url": "https://api.github.com/users/john-dulaney/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/john-dulaney/received_events",
+            "type": "User",
+            "site_admin": false
+          },
+          "labels": [
+            
+          ],
+          "state": "open",
+          "locked": false,
+          "assignee": null,
+          "assignees": [
+            
+          ],
+          "milestone": null,
+          "comments": 1,
+          "created_at": "2018-02-28T00:47:46Z",
+          "updated_at": "2018-02-28T02:21:55Z",
+          "closed_at": null,
+          "author_association": "COLLABORATOR",
+          "pull_request": {
+            "url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/pulls/19",
+            "html_url": "https://github.com/nss-day-cohort-22/Class-Website/pull/19",
+            "diff_url": "https://github.com/nss-day-cohort-22/Class-Website/pull/19.diff",
+            "patch_url": "https://github.com/nss-day-cohort-22/Class-Website/pull/19.patch"
+          },
+          "body": "## Link to Ticket\r\nJanitor\r\n\r\n## Description of Proposed Changes\r\n\r\n-  Added links to tech. Changed names in ty section.\r\n\r\n## Steps to Test\r\n\r\nOutline the steps to test\r\n\r\n```sh\r\ngit fetch --all\r\ngit checkout JD-omg-windows\r\n\r\n```\r\n1. http server open the site\r\n1. ensure the links work for each tech icon\r\n1. das it man\r\n\r\n## Impacted Areas in Application\r\n\r\nList general components of the application that this PR will affect:\r\n\r\n* tech.json, small change to main.js, small change to index.html\r\n\r\n## Mentions @krnorris65 @Chewieez \r\n\r\nTag users that need to review this code\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+        },
+        "comment": {
+          "url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues/comments/369098611",
+          "html_url": "https://github.com/nss-day-cohort-22/Class-Website/pull/19#issuecomment-369098611",
+          "issue_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues/19",
+          "id": 369098611,
+          "user": {
+            "login": "john-dulaney",
+            "id": 20269235,
+            "avatar_url": "https://avatars0.githubusercontent.com/u/20269235?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/john-dulaney",
+            "html_url": "https://github.com/john-dulaney",
+            "followers_url": "https://api.github.com/users/john-dulaney/followers",
+            "following_url": "https://api.github.com/users/john-dulaney/following{/other_user}",
+            "gists_url": "https://api.github.com/users/john-dulaney/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/john-dulaney/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/john-dulaney/subscriptions",
+            "organizations_url": "https://api.github.com/users/john-dulaney/orgs",
+            "repos_url": "https://api.github.com/users/john-dulaney/repos",
+            "events_url": "https://api.github.com/users/john-dulaney/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/john-dulaney/received_events",
+            "type": "User",
+            "site_admin": false
+          },
+          "created_at": "2018-02-28T02:21:55Z",
+          "updated_at": "2018-02-28T02:21:55Z",
+          "author_association": "COLLABORATOR",
+          "body": "Yes i can. done!"
+        }
+      },
+      "public": true,
+      "created_at": "2018-02-28T02:21:55Z",
+      "org": {
+        "id": 29761257,
+        "login": "nss-day-cohort-22",
+        "gravatar_id": "",
+        "url": "https://api.github.com/orgs/nss-day-cohort-22",
+        "avatar_url": "https://avatars.githubusercontent.com/u/29761257?"
+      }
+    },
+    {
+      "id": "7307360445",
+      "type": "PushEvent",
+      "actor": {
+        "id": 20269235,
+        "login": "john-dulaney",
+        "display_login": "john-dulaney",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/john-dulaney",
+        "avatar_url": "https://avatars.githubusercontent.com/u/20269235?"
+      },
+      "repo": {
+        "id": 118931376,
+        "name": "nss-day-cohort-22/Class-Website",
+        "url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website"
+      },
+      "payload": {
+        "push_id": 2364020666,
+        "size": 1,
+        "distinct_size": 1,
+        "ref": "refs/heads/JD-omg-windows",
+        "head": "1eb965fdf43ee30adf520f049c0a92d3b4c49fb9",
+        "before": "4d63bde017f35af01f1c0b33f325ade762cb65c6",
+        "commits": [
+          {
+            "sha": "1eb965fdf43ee30adf520f049c0a92d3b4c49fb9",
+            "author": {
+              "email": "john.s.dulaney1@gmail.com",
+              "name": "John Dulaney"
+            },
+            "message": "added the thing greg said to do. you know, that thing. right? like that one thing that opens tabs up on click. man greg is smart. no jk.",
+            "distinct": true,
+            "url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/commits/1eb965fdf43ee30adf520f049c0a92d3b4c49fb9"
+          }
+        ]
+      },
+      "public": true,
+      "created_at": "2018-02-28T02:21:35Z",
+      "org": {
+        "id": 29761257,
+        "login": "nss-day-cohort-22",
+        "gravatar_id": "",
+        "url": "https://api.github.com/orgs/nss-day-cohort-22",
+        "avatar_url": "https://avatars.githubusercontent.com/u/29761257?"
+      }
+    },
+    {
+      "id": "7307061818",
+      "type": "PullRequestEvent",
+      "actor": {
+        "id": 20269235,
+        "login": "john-dulaney",
+        "display_login": "john-dulaney",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/john-dulaney",
+        "avatar_url": "https://avatars.githubusercontent.com/u/20269235?"
+      },
+      "repo": {
+        "id": 118931376,
+        "name": "nss-day-cohort-22/Class-Website",
+        "url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website"
+      },
+      "payload": {
+        "action": "opened",
+        "number": 19,
+        "pull_request": {
+          "url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/pulls/19",
+          "id": 171827113,
+          "html_url": "https://github.com/nss-day-cohort-22/Class-Website/pull/19",
+          "diff_url": "https://github.com/nss-day-cohort-22/Class-Website/pull/19.diff",
+          "patch_url": "https://github.com/nss-day-cohort-22/Class-Website/pull/19.patch",
+          "issue_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues/19",
+          "number": 19,
+          "state": "open",
+          "locked": false,
+          "title": "Added links to tech. Changed names in ty section.",
+          "user": {
+            "login": "john-dulaney",
+            "id": 20269235,
+            "avatar_url": "https://avatars0.githubusercontent.com/u/20269235?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/john-dulaney",
+            "html_url": "https://github.com/john-dulaney",
+            "followers_url": "https://api.github.com/users/john-dulaney/followers",
+            "following_url": "https://api.github.com/users/john-dulaney/following{/other_user}",
+            "gists_url": "https://api.github.com/users/john-dulaney/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/john-dulaney/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/john-dulaney/subscriptions",
+            "organizations_url": "https://api.github.com/users/john-dulaney/orgs",
+            "repos_url": "https://api.github.com/users/john-dulaney/repos",
+            "events_url": "https://api.github.com/users/john-dulaney/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/john-dulaney/received_events",
+            "type": "User",
+            "site_admin": false
+          },
+          "body": "## Link to Ticket\r\n\r\nTITLE [Link]()\r\n\r\n## Description of Proposed Changes\r\n\r\n-  Added links to tech. Changed names in ty section.\r\n\r\n## Steps to Test\r\n\r\nOutline the steps to test\r\n\r\n```sh\r\ngit fetch --all\r\ngit checkout <feature_branch>\r\n\r\n```\r\n1. http server open the site\r\n1. ensure the links work for each tech icon\r\n1. das it man\r\n\r\n## Impacted Areas in Application\r\n\r\nList general components of the application that this PR will affect:\r\n\r\n* tech.json, small change to main.js, small change to index.html\r\n\r\n## Mentions @krnorris65 @Chewieez \r\n\r\nTag users that need to review this code\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+          "created_at": "2018-02-28T00:47:46Z",
+          "updated_at": "2018-02-28T00:47:46Z",
+          "closed_at": null,
+          "merged_at": null,
+          "merge_commit_sha": null,
+          "assignee": null,
+          "assignees": [
+            
+          ],
+          "requested_reviewers": [
+            
+          ],
+          "requested_teams": [
+            
+          ],
+          "labels": [
+            
+          ],
+          "milestone": null,
+          "commits_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/pulls/19/commits",
+          "review_comments_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/pulls/19/comments",
+          "review_comment_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/pulls/comments{/number}",
+          "comments_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues/19/comments",
+          "statuses_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/statuses/4d63bde017f35af01f1c0b33f325ade762cb65c6",
+          "head": {
+            "label": "nss-day-cohort-22:JD-omg-windows",
+            "ref": "JD-omg-windows",
+            "sha": "4d63bde017f35af01f1c0b33f325ade762cb65c6",
+            "user": {
+              "login": "nss-day-cohort-22",
+              "id": 29761257,
+              "avatar_url": "https://avatars1.githubusercontent.com/u/29761257?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/nss-day-cohort-22",
+              "html_url": "https://github.com/nss-day-cohort-22",
+              "followers_url": "https://api.github.com/users/nss-day-cohort-22/followers",
+              "following_url": "https://api.github.com/users/nss-day-cohort-22/following{/other_user}",
+              "gists_url": "https://api.github.com/users/nss-day-cohort-22/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/nss-day-cohort-22/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/nss-day-cohort-22/subscriptions",
+              "organizations_url": "https://api.github.com/users/nss-day-cohort-22/orgs",
+              "repos_url": "https://api.github.com/users/nss-day-cohort-22/repos",
+              "events_url": "https://api.github.com/users/nss-day-cohort-22/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/nss-day-cohort-22/received_events",
+              "type": "Organization",
+              "site_admin": false
+            },
+            "repo": {
+              "id": 118931376,
+              "name": "Class-Website",
+              "full_name": "nss-day-cohort-22/Class-Website",
+              "owner": {
+                "login": "nss-day-cohort-22",
+                "id": 29761257,
+                "avatar_url": "https://avatars1.githubusercontent.com/u/29761257?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/nss-day-cohort-22",
+                "html_url": "https://github.com/nss-day-cohort-22",
+                "followers_url": "https://api.github.com/users/nss-day-cohort-22/followers",
+                "following_url": "https://api.github.com/users/nss-day-cohort-22/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nss-day-cohort-22/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/nss-day-cohort-22/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nss-day-cohort-22/subscriptions",
+                "organizations_url": "https://api.github.com/users/nss-day-cohort-22/orgs",
+                "repos_url": "https://api.github.com/users/nss-day-cohort-22/repos",
+                "events_url": "https://api.github.com/users/nss-day-cohort-22/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/nss-day-cohort-22/received_events",
+                "type": "Organization",
+                "site_admin": false
+              },
+              "private": false,
+              "html_url": "https://github.com/nss-day-cohort-22/Class-Website",
+              "description": "NSS Day Cohort 22's Class Website",
+              "fork": false,
+              "url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website",
+              "forks_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/forks",
+              "keys_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/keys{/key_id}",
+              "collaborators_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/collaborators{/collaborator}",
+              "teams_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/teams",
+              "hooks_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/hooks",
+              "issue_events_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues/events{/number}",
+              "events_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/events",
+              "assignees_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/assignees{/user}",
+              "branches_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/branches{/branch}",
+              "tags_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/tags",
+              "blobs_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/git/blobs{/sha}",
+              "git_tags_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/git/tags{/sha}",
+              "git_refs_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/git/refs{/sha}",
+              "trees_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/git/trees{/sha}",
+              "statuses_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/statuses/{sha}",
+              "languages_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/languages",
+              "stargazers_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/stargazers",
+              "contributors_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/contributors",
+              "subscribers_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/subscribers",
+              "subscription_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/subscription",
+              "commits_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/commits{/sha}",
+              "git_commits_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/git/commits{/sha}",
+              "comments_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/comments{/number}",
+              "issue_comment_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues/comments{/number}",
+              "contents_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/contents/{+path}",
+              "compare_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/compare/{base}...{head}",
+              "merges_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/merges",
+              "archive_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/{archive_format}{/ref}",
+              "downloads_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/downloads",
+              "issues_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues{/number}",
+              "pulls_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/pulls{/number}",
+              "milestones_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/milestones{/number}",
+              "notifications_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/notifications{?since,all,participating}",
+              "labels_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/labels{/name}",
+              "releases_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/releases{/id}",
+              "deployments_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/deployments",
+              "created_at": "2018-01-25T15:33:41Z",
+              "updated_at": "2018-02-05T17:48:09Z",
+              "pushed_at": "2018-02-28T00:44:24Z",
+              "git_url": "git://github.com/nss-day-cohort-22/Class-Website.git",
+              "ssh_url": "git@github.com:nss-day-cohort-22/Class-Website.git",
+              "clone_url": "https://github.com/nss-day-cohort-22/Class-Website.git",
+              "svn_url": "https://github.com/nss-day-cohort-22/Class-Website",
+              "homepage": null,
+              "size": 15690,
+              "stargazers_count": 0,
+              "watchers_count": 0,
+              "language": "HTML",
+              "has_issues": true,
+              "has_projects": true,
+              "has_downloads": true,
+              "has_wiki": true,
+              "has_pages": true,
+              "forks_count": 0,
+              "mirror_url": null,
+              "archived": false,
+              "open_issues_count": 7,
+              "license": {
+                "key": "mit",
+                "name": "MIT License",
+                "spdx_id": "MIT",
+                "url": "https://api.github.com/licenses/mit"
+              },
+              "forks": 0,
+              "open_issues": 7,
+              "watchers": 0,
+              "default_branch": "master"
+            }
+          },
+          "base": {
+            "label": "nss-day-cohort-22:master",
+            "ref": "master",
+            "sha": "91d9b9e2f4e9055df43d549169f1b47679d25755",
+            "user": {
+              "login": "nss-day-cohort-22",
+              "id": 29761257,
+              "avatar_url": "https://avatars1.githubusercontent.com/u/29761257?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/nss-day-cohort-22",
+              "html_url": "https://github.com/nss-day-cohort-22",
+              "followers_url": "https://api.github.com/users/nss-day-cohort-22/followers",
+              "following_url": "https://api.github.com/users/nss-day-cohort-22/following{/other_user}",
+              "gists_url": "https://api.github.com/users/nss-day-cohort-22/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/nss-day-cohort-22/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/nss-day-cohort-22/subscriptions",
+              "organizations_url": "https://api.github.com/users/nss-day-cohort-22/orgs",
+              "repos_url": "https://api.github.com/users/nss-day-cohort-22/repos",
+              "events_url": "https://api.github.com/users/nss-day-cohort-22/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/nss-day-cohort-22/received_events",
+              "type": "Organization",
+              "site_admin": false
+            },
+            "repo": {
+              "id": 118931376,
+              "name": "Class-Website",
+              "full_name": "nss-day-cohort-22/Class-Website",
+              "owner": {
+                "login": "nss-day-cohort-22",
+                "id": 29761257,
+                "avatar_url": "https://avatars1.githubusercontent.com/u/29761257?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/nss-day-cohort-22",
+                "html_url": "https://github.com/nss-day-cohort-22",
+                "followers_url": "https://api.github.com/users/nss-day-cohort-22/followers",
+                "following_url": "https://api.github.com/users/nss-day-cohort-22/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nss-day-cohort-22/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/nss-day-cohort-22/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nss-day-cohort-22/subscriptions",
+                "organizations_url": "https://api.github.com/users/nss-day-cohort-22/orgs",
+                "repos_url": "https://api.github.com/users/nss-day-cohort-22/repos",
+                "events_url": "https://api.github.com/users/nss-day-cohort-22/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/nss-day-cohort-22/received_events",
+                "type": "Organization",
+                "site_admin": false
+              },
+              "private": false,
+              "html_url": "https://github.com/nss-day-cohort-22/Class-Website",
+              "description": "NSS Day Cohort 22's Class Website",
+              "fork": false,
+              "url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website",
+              "forks_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/forks",
+              "keys_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/keys{/key_id}",
+              "collaborators_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/collaborators{/collaborator}",
+              "teams_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/teams",
+              "hooks_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/hooks",
+              "issue_events_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues/events{/number}",
+              "events_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/events",
+              "assignees_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/assignees{/user}",
+              "branches_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/branches{/branch}",
+              "tags_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/tags",
+              "blobs_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/git/blobs{/sha}",
+              "git_tags_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/git/tags{/sha}",
+              "git_refs_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/git/refs{/sha}",
+              "trees_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/git/trees{/sha}",
+              "statuses_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/statuses/{sha}",
+              "languages_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/languages",
+              "stargazers_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/stargazers",
+              "contributors_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/contributors",
+              "subscribers_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/subscribers",
+              "subscription_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/subscription",
+              "commits_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/commits{/sha}",
+              "git_commits_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/git/commits{/sha}",
+              "comments_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/comments{/number}",
+              "issue_comment_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues/comments{/number}",
+              "contents_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/contents/{+path}",
+              "compare_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/compare/{base}...{head}",
+              "merges_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/merges",
+              "archive_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/{archive_format}{/ref}",
+              "downloads_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/downloads",
+              "issues_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues{/number}",
+              "pulls_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/pulls{/number}",
+              "milestones_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/milestones{/number}",
+              "notifications_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/notifications{?since,all,participating}",
+              "labels_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/labels{/name}",
+              "releases_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/releases{/id}",
+              "deployments_url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/deployments",
+              "created_at": "2018-01-25T15:33:41Z",
+              "updated_at": "2018-02-05T17:48:09Z",
+              "pushed_at": "2018-02-28T00:44:24Z",
+              "git_url": "git://github.com/nss-day-cohort-22/Class-Website.git",
+              "ssh_url": "git@github.com:nss-day-cohort-22/Class-Website.git",
+              "clone_url": "https://github.com/nss-day-cohort-22/Class-Website.git",
+              "svn_url": "https://github.com/nss-day-cohort-22/Class-Website",
+              "homepage": null,
+              "size": 15690,
+              "stargazers_count": 0,
+              "watchers_count": 0,
+              "language": "HTML",
+              "has_issues": true,
+              "has_projects": true,
+              "has_downloads": true,
+              "has_wiki": true,
+              "has_pages": true,
+              "forks_count": 0,
+              "mirror_url": null,
+              "archived": false,
+              "open_issues_count": 7,
+              "license": {
+                "key": "mit",
+                "name": "MIT License",
+                "spdx_id": "MIT",
+                "url": "https://api.github.com/licenses/mit"
+              },
+              "forks": 0,
+              "open_issues": 7,
+              "watchers": 0,
+              "default_branch": "master"
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/pulls/19"
+            },
+            "html": {
+              "href": "https://github.com/nss-day-cohort-22/Class-Website/pull/19"
+            },
+            "issue": {
+              "href": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues/19"
+            },
+            "comments": {
+              "href": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/issues/19/comments"
+            },
+            "review_comments": {
+              "href": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/pulls/19/comments"
+            },
+            "review_comment": {
+              "href": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/pulls/comments{/number}"
+            },
+            "commits": {
+              "href": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/pulls/19/commits"
+            },
+            "statuses": {
+              "href": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/statuses/4d63bde017f35af01f1c0b33f325ade762cb65c6"
+            }
+          },
+          "author_association": "COLLABORATOR",
+          "merged": false,
+          "mergeable": null,
+          "rebaseable": null,
+          "mergeable_state": "unknown",
+          "merged_by": null,
+          "comments": 0,
+          "review_comments": 0,
+          "maintainer_can_modify": false,
+          "commits": 2,
+          "additions": 57,
+          "deletions": 34,
+          "changed_files": 4
+        }
+      },
+      "public": true,
+      "created_at": "2018-02-28T00:47:46Z",
+      "org": {
+        "id": 29761257,
+        "login": "nss-day-cohort-22",
+        "gravatar_id": "",
+        "url": "https://api.github.com/orgs/nss-day-cohort-22",
+        "avatar_url": "https://avatars.githubusercontent.com/u/29761257?"
+      }
+    },
+    {
+      "id": "7307051282",
+      "type": "PushEvent",
+      "actor": {
+        "id": 20269235,
+        "login": "john-dulaney",
+        "display_login": "john-dulaney",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/john-dulaney",
+        "avatar_url": "https://avatars.githubusercontent.com/u/20269235?"
+      },
+      "repo": {
+        "id": 118931376,
+        "name": "nss-day-cohort-22/Class-Website",
+        "url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website"
+      },
+      "payload": {
+        "push_id": 2363863108,
+        "size": 1,
+        "distinct_size": 1,
+        "ref": "refs/heads/JD-omg-windows",
+        "head": "4d63bde017f35af01f1c0b33f325ade762cb65c6",
+        "before": "a603590e235fb1e8ca69c5ee5a713b621dd6c902",
+        "commits": [
+          {
+            "sha": "4d63bde017f35af01f1c0b33f325ade762cb65c6",
+            "author": {
+              "email": "john.s.dulaney1@gmail.com",
+              "name": "John Dulaney"
+            },
+            "message": "added some specification on names in the thank you section",
+            "distinct": true,
+            "url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website/commits/4d63bde017f35af01f1c0b33f325ade762cb65c6"
+          }
+        ]
+      },
+      "public": true,
+      "created_at": "2018-02-28T00:44:24Z",
+      "org": {
+        "id": 29761257,
+        "login": "nss-day-cohort-22",
+        "gravatar_id": "",
+        "url": "https://api.github.com/orgs/nss-day-cohort-22",
+        "avatar_url": "https://avatars.githubusercontent.com/u/29761257?"
+      }
+    },
+    {
+      "id": "7307005663",
+      "type": "CreateEvent",
+      "actor": {
+        "id": 20269235,
+        "login": "john-dulaney",
+        "display_login": "john-dulaney",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/john-dulaney",
+        "avatar_url": "https://avatars.githubusercontent.com/u/20269235?"
+      },
+      "repo": {
+        "id": 118931376,
+        "name": "nss-day-cohort-22/Class-Website",
+        "url": "https://api.github.com/repos/nss-day-cohort-22/Class-Website"
+      },
+      "payload": {
+        "ref": "JD-omg-windows",
+        "ref_type": "branch",
+        "master_branch": "master",
+        "description": "NSS Day Cohort 22's Class Website",
+        "pusher_type": "user"
+      },
+      "public": true,
+      "created_at": "2018-02-28T00:30:17Z",
+      "org": {
+        "id": 29761257,
+        "login": "nss-day-cohort-22",
+        "gravatar_id": "",
+        "url": "https://api.github.com/orgs/nss-day-cohort-22",
+        "avatar_url": "https://avatars.githubusercontent.com/u/29761257?"
+      }
+    },
+    {
+      "id": "7306287231",
+      "type": "PushEvent",
+      "actor": {
+        "id": 20269235,
+        "login": "john-dulaney",
+        "display_login": "john-dulaney",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/john-dulaney",
+        "avatar_url": "https://avatars.githubusercontent.com/u/20269235?"
+      },
+      "repo": {
+        "id": 122990282,
+        "name": "john-dulaney/bob-ross-movie-history",
+        "url": "https://api.github.com/repos/john-dulaney/bob-ross-movie-history"
+      },
+      "payload": {
+        "push_id": 2363466013,
+        "size": 18,
+        "distinct_size": 18,
+        "ref": "refs/heads/master",
+        "head": "91b3ffe017feaafc39aabc603f06a247e78f7290",
+        "before": "3076f6d66e53739a25cacbbed45f435a78ee67fb",
+        "commits": [
+          {
+            "sha": "5080de3fb3984de7ec7bcd7d6c73a5c9726eee63",
+            "author": {
+              "email": "krnorris65@gmail.com",
+              "name": "Kristen Norris"
+            },
+            "message": "added registration",
+            "distinct": true,
+            "url": "https://api.github.com/repos/john-dulaney/bob-ross-movie-history/commits/5080de3fb3984de7ec7bcd7d6c73a5c9726eee63"
+          },
+          {
+            "sha": "c5194eecb68971263d839e971fa116627a17aeb5",
+            "author": {
+              "email": "krnorris65@gmail.com",
+              "name": "Kristen Norris"
+            },
+            "message": "merged upstream",
+            "distinct": true,
+            "url": "https://api.github.com/repos/john-dulaney/bob-ross-movie-history/commits/c5194eecb68971263d839e971fa116627a17aeb5"
+          },
+          {
+            "sha": "1c159ed964c00f74fce6fae2f23f8553fe0bb620",
+            "author": {
+              "email": "krnorris65@gmail.com",
+              "name": "Kristen Norris"
+            },
+            "message": "Merge remote-tracking branch 'upstream/master'",
+            "distinct": true,
+            "url": "https://api.github.com/repos/john-dulaney/bob-ross-movie-history/commits/1c159ed964c00f74fce6fae2f23f8553fe0bb620"
+          },
+          {
+            "sha": "38c13ba14bf70cb63ee8ec7a4d62230d19caef62",
+            "author": {
+              "email": "krnorris65@gmail.com",
+              "name": "Kristen Norris"
+            },
+            "message": "user can make an api call to search movies",
+            "distinct": true,
+            "url": "https://api.github.com/repos/john-dulaney/bob-ross-movie-history/commits/38c13ba14bf70cb63ee8ec7a4d62230d19caef62"
+          },
+          {
+            "sha": "5212565136df69998351fd3c9ca9307af79daeb1",
+            "author": {
+              "email": "krnorris65@gmail.com",
+              "name": "Kristen Norris"
+            },
+            "message": "api call added to site.js",
+            "distinct": true,
+            "url": "https://api.github.com/repos/john-dulaney/bob-ross-movie-history/commits/5212565136df69998351fd3c9ca9307af79daeb1"
+          },
+          {
+            "sha": "b74a4f4306230f52b85dcafd432d8208b56589a0",
+            "author": {
+              "email": "krnorris65@gmail.com",
+              "name": "Kristen Norris"
+            },
+            "message": "removed Migrations",
+            "distinct": true,
+            "url": "https://api.github.com/repos/john-dulaney/bob-ross-movie-history/commits/b74a4f4306230f52b85dcafd432d8208b56589a0"
+          },
+          {
+            "sha": "c98a77f54568968ee8df00db86b08a6fec494424",
+            "author": {
+              "email": "krnorris65@gmail.com",
+              "name": "Kristen Norris"
+            },
+            "message": "added apikey to appsettings and stopped tracking appsettings.json in git",
+            "distinct": true,
+            "url": "https://api.github.com/repos/john-dulaney/bob-ross-movie-history/commits/c98a77f54568968ee8df00db86b08a6fec494424"
+          },
+          {
+            "sha": "4b1bf1058d65810c2cce512c11bca7c2beed69b5",
+            "author": {
+              "email": "krnorris65@gmail.com",
+              "name": "Kristen Norris"
+            },
+            "message": "following along",
+            "distinct": true,
+            "url": "https://api.github.com/repos/john-dulaney/bob-ross-movie-history/commits/4b1bf1058d65810c2cce512c11bca7c2beed69b5"
+          },
+          {
+            "sha": "1e62ae42de2d0bb65530f29d41b2b99e0f31fab9",
+            "author": {
+              "email": "krnorris65@gmail.com",
+              "name": "Kristen Norris"
+            },
+            "message": "fixed merge conflicts",
+            "distinct": true,
+            "url": "https://api.github.com/repos/john-dulaney/bob-ross-movie-history/commits/1e62ae42de2d0bb65530f29d41b2b99e0f31fab9"
+          },
+          {
+            "sha": "e6151cba97d8b6b577ed0ff137896a902ec5c06f",
+            "author": {
+              "email": "krnorris65@gmail.com",
+              "name": "Kristen Norris"
+            },
+            "message": "fixed merge conflicts",
+            "distinct": true,
+            "url": "https://api.github.com/repos/john-dulaney/bob-ross-movie-history/commits/e6151cba97d8b6b577ed0ff137896a902ec5c06f"
+          },
+          {
+            "sha": "4c6569451f5e0a99822d1501efa97ee1db8b036c",
+            "author": {
+              "email": "krnorris65@gmail.com",
+              "name": "Kristen Norris"
+            },
+            "message": "Merge remote-tracking branch 'upstream/master'",
+            "distinct": true,
+            "url": "https://api.github.com/repos/john-dulaney/bob-ross-movie-history/commits/4c6569451f5e0a99822d1501efa97ee1db8b036c"
+          },
+          {
+            "sha": "26205c7abaa0bb70d2a2a6426c425f09c237e330",
+            "author": {
+              "email": "krnorris65@gmail.com",
+              "name": "Kristen Norris"
+            },
+            "message": "updated api key",
+            "distinct": true,
+            "url": "https://api.github.com/repos/john-dulaney/bob-ross-movie-history/commits/26205c7abaa0bb70d2a2a6426c425f09c237e330"
+          },
+          {
+            "sha": "807b9e2896bf05170916b975acdde9dd555fbc5a",
+            "author": {
+              "email": "krnorris65@gmail.com",
+              "name": "Kristen Norris"
+            },
+            "message": "fixed merge conflict",
+            "distinct": true,
+            "url": "https://api.github.com/repos/john-dulaney/bob-ross-movie-history/commits/807b9e2896bf05170916b975acdde9dd555fbc5a"
+          },
+          {
+            "sha": "2dd82d87096345a2cc505eac752c4d6d8348b5b3",
+            "author": {
+              "email": "krnorris65@gmail.com",
+              "name": "Kristen Norris"
+            },
+            "message": "updated appsettings.json",
+            "distinct": true,
+            "url": "https://api.github.com/repos/john-dulaney/bob-ross-movie-history/commits/2dd82d87096345a2cc505eac752c4d6d8348b5b3"
+          },
+          {
+            "sha": "7c997ba8b8b309c20a0cc246536cb77c04686152",
+            "author": {
+              "email": "krnorris65@gmail.com",
+              "name": "Kristen Norris"
+            },
+            "message": "merged new upstream",
+            "distinct": true,
+            "url": "https://api.github.com/repos/john-dulaney/bob-ross-movie-history/commits/7c997ba8b8b309c20a0cc246536cb77c04686152"
+          },
+          {
+            "sha": "17decc1abab62123ea149581809b50bc2ab8fa6c",
+            "author": {
+              "email": "krnorris65@gmail.com",
+              "name": "Kristen Norris"
+            },
+            "message": "a MovieUser is created when a user clicks on a movie they searched for",
+            "distinct": true,
+            "url": "https://api.github.com/repos/john-dulaney/bob-ross-movie-history/commits/17decc1abab62123ea149581809b50bc2ab8fa6c"
+          },
+          {
+            "sha": "d2fa6495b102cfa3a4b6be5ed64a54fa686c4ee3",
+            "author": {
+              "email": "stevebrownlee@users.noreply.github.com",
+              "name": "Steve Brownlee"
+            },
+            "message": "Merge pull request #18 from krnorris65/master\n\nCreating a MovieUser",
+            "distinct": true,
+            "url": "https://api.github.com/repos/john-dulaney/bob-ross-movie-history/commits/d2fa6495b102cfa3a4b6be5ed64a54fa686c4ee3"
+          },
+          {
+            "sha": "91b3ffe017feaafc39aabc603f06a247e78f7290",
+            "author": {
+              "email": "john.s.dulaney1@gmail.com",
+              "name": "John"
+            },
+            "message": "Merge branch 'master' of github.com:nss-day-cohort-22/bob-ross-movie-history",
+            "distinct": true,
+            "url": "https://api.github.com/repos/john-dulaney/bob-ross-movie-history/commits/91b3ffe017feaafc39aabc603f06a247e78f7290"
+          }
+        ]
+      },
+      "public": true,
+      "created_at": "2018-02-27T21:34:52Z"
+    },
+    {
+      "id": "7306059056",
+      "type": "PushEvent",
+      "actor": {
+        "id": 20269235,
+        "login": "john-dulaney",
+        "display_login": "john-dulaney",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/john-dulaney",
+        "avatar_url": "https://avatars.githubusercontent.com/u/20269235?"
+      },
+      "repo": {
+        "id": 122990282,
+        "name": "john-dulaney/bob-ross-movie-history",
+        "url": "https://api.github.com/repos/john-dulaney/bob-ross-movie-history"
+      },
+      "payload": {
+        "push_id": 2363350535,
+        "size": 3,
+        "distinct_size": 3,
+        "ref": "refs/heads/master",
+        "head": "3076f6d66e53739a25cacbbed45f435a78ee67fb",
+        "before": "105ba1a5f36c60c439865ff196570ef32c0938d7",
+        "commits": [
+          {
+            "sha": "34cfb0e8c96402e8e0449882f03677a263118647",
+            "author": {
+              "email": "chortlehoort@gmail.com",
+              "name": "Steve Brownlee"
+            },
+            "message": "Added JS for storing movies. Added MovieController",
+            "distinct": true,
+            "url": "https://api.github.com/repos/john-dulaney/bob-ross-movie-history/commits/34cfb0e8c96402e8e0449882f03677a263118647"
+          },
+          {
+            "sha": "2b68cb0ef856127ba7856efabc2fa298678f928d",
+            "author": {
+              "email": "chortlehoort@gmail.com",
+              "name": "Steve Brownlee"
+            },
+            "message": "Track method now saves row and returns simple view",
+            "distinct": true,
+            "url": "https://api.github.com/repos/john-dulaney/bob-ross-movie-history/commits/2b68cb0ef856127ba7856efabc2fa298678f928d"
+          },
+          {
+            "sha": "3076f6d66e53739a25cacbbed45f435a78ee67fb",
+            "author": {
+              "email": "john.s.dulaney1@gmail.com",
+              "name": "John"
+            },
+            "message": "mc",
+            "distinct": true,
+            "url": "https://api.github.com/repos/john-dulaney/bob-ross-movie-history/commits/3076f6d66e53739a25cacbbed45f435a78ee67fb"
+          }
+        ]
+      },
+      "public": true,
+      "created_at": "2018-02-27T20:49:42Z"
+    },
+    {
+      "id": "7305662323",
+      "type": "PushEvent",
+      "actor": {
+        "id": 20269235,
+        "login": "john-dulaney",
+        "display_login": "john-dulaney",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/john-dulaney",
+        "avatar_url": "https://avatars.githubusercontent.com/u/20269235?"
+      },
+      "repo": {
+        "id": 122990282,
+        "name": "john-dulaney/bob-ross-movie-history",
+        "url": "https://api.github.com/repos/john-dulaney/bob-ross-movie-history"
+      },
+      "payload": {
+        "push_id": 2363148356,
+        "size": 6,
+        "distinct_size": 6,
+        "ref": "refs/heads/master",
+        "head": "105ba1a5f36c60c439865ff196570ef32c0938d7",
+        "before": "d239bce3f4d8870afd51d4b9fe724e311d4b8582",
+        "commits": [
+          {
+            "sha": "e3f6af1c10868c18d8496b1e54827e580cd81c03",
+            "author": {
+              "email": "chortlehoort@gmail.com",
+              "name": "Steve Brownlee"
+            },
+            "message": "Switched to SQLite",
+            "distinct": true,
+            "url": "https://api.github.com/repos/john-dulaney/bob-ross-movie-history/commits/e3f6af1c10868c18d8496b1e54827e580cd81c03"
+          },
+          {
+            "sha": "a2aaa0375838c8240122b1b54b9d7209b64dddd9",
+            "author": {
+              "email": "chortlehoort@gmail.com",
+              "name": "Steve Brownlee"
+            },
+            "message": "Pulling from appsettings",
+            "distinct": true,
+            "url": "https://api.github.com/repos/john-dulaney/bob-ross-movie-history/commits/a2aaa0375838c8240122b1b54b9d7209b64dddd9"
+          },
+          {
+            "sha": "586397a0f6b7beaf7bb2470136da9151c34280cd",
+            "author": {
+              "email": "chortlehoort@gmail.com",
+              "name": "Steve Brownlee"
+            },
+            "message": "Added service for injection into Layout and registered in Startup.cs",
+            "distinct": true,
+            "url": "https://api.github.com/repos/john-dulaney/bob-ross-movie-history/commits/586397a0f6b7beaf7bb2470136da9151c34280cd"
+          },
+          {
+            "sha": "05f25b4aa92d0f832738c0980ef1c364b54c857d",
+            "author": {
+              "email": "chortlehoort@gmail.com",
+              "name": "Steve Brownlee"
+            },
+            "message": "Moved service to Service directory and added code to inject into controller",
+            "distinct": true,
+            "url": "https://api.github.com/repos/john-dulaney/bob-ross-movie-history/commits/05f25b4aa92d0f832738c0980ef1c364b54c857d"
+          },
+          {
+            "sha": "c57d2b80c13476152b15b3bae4d818b1e43ab535",
+            "author": {
+              "email": "john.s.dulaney1@gmail.com",
+              "name": "John"
+            },
+            "message": "mc",
+            "distinct": true,
+            "url": "https://api.github.com/repos/john-dulaney/bob-ross-movie-history/commits/c57d2b80c13476152b15b3bae4d818b1e43ab535"
+          },
+          {
+            "sha": "105ba1a5f36c60c439865ff196570ef32c0938d7",
+            "author": {
+              "email": "john.s.dulaney1@gmail.com",
+              "name": "John"
+            },
+            "message": "mc",
+            "distinct": true,
+            "url": "https://api.github.com/repos/john-dulaney/bob-ross-movie-history/commits/105ba1a5f36c60c439865ff196570ef32c0938d7"
+          }
+        ]
+      },
+      "public": true,
+      "created_at": "2018-02-27T19:31:23Z"
+    },
+    {
+      "id": "7301042928",
+      "type": "CreateEvent",
+      "actor": {
+        "id": 20269235,
+        "login": "john-dulaney",
+        "display_login": "john-dulaney",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/john-dulaney",
+        "avatar_url": "https://avatars.githubusercontent.com/u/20269235?"
+      },
+      "repo": {
+        "id": 123062872,
+        "name": "john-dulaney/vue-tryout",
+        "url": "https://api.github.com/repos/john-dulaney/vue-tryout"
+      },
+      "payload": {
+        "ref": "master",
+        "ref_type": "branch",
+        "master_branch": "master",
+        "description": "screwing around with vue. Is it better?",
+        "pusher_type": "user"
+      },
+      "public": true,
+      "created_at": "2018-02-27T02:47:58Z"
+    },
+    {
+      "id": "7301041901",
+      "type": "CreateEvent",
+      "actor": {
+        "id": 20269235,
+        "login": "john-dulaney",
+        "display_login": "john-dulaney",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/john-dulaney",
+        "avatar_url": "https://avatars.githubusercontent.com/u/20269235?"
+      },
+      "repo": {
+        "id": 123062872,
+        "name": "john-dulaney/vue-tryout",
+        "url": "https://api.github.com/repos/john-dulaney/vue-tryout"
+      },
+      "payload": {
+        "ref": null,
+        "ref_type": "repository",
+        "master_branch": "master",
+        "description": "screwing around with vue. Is it better?",
+        "pusher_type": "user"
+      },
+      "public": true,
+      "created_at": "2018-02-27T02:47:37Z"
+    },
+    {
+      "id": "7299985523",
+      "type": "PushEvent",
+      "actor": {
+        "id": 20269235,
+        "login": "john-dulaney",
+        "display_login": "john-dulaney",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/john-dulaney",
+        "avatar_url": "https://avatars.githubusercontent.com/u/20269235?"
+      },
+      "repo": {
+        "id": 122990282,
+        "name": "john-dulaney/bob-ross-movie-history",
+        "url": "https://api.github.com/repos/john-dulaney/bob-ross-movie-history"
+      },
+      "payload": {
+        "push_id": 2360225651,
+        "size": 3,
+        "distinct_size": 3,
+        "ref": "refs/heads/master",
+        "head": "d239bce3f4d8870afd51d4b9fe724e311d4b8582",
+        "before": "e823c029418caf69f85a7d1b87b165dc7ef97424",
+        "commits": [
+          {
+            "sha": "b1d4a44aff094b715e71687754903f86691d69ab",
+            "author": {
+              "email": "chortlehoort@gmail.com",
+              "name": "Steve Brownlee"
+            },
+            "message": "Showing all movies in a grid",
+            "distinct": true,
+            "url": "https://api.github.com/repos/john-dulaney/bob-ross-movie-history/commits/b1d4a44aff094b715e71687754903f86691d69ab"
+          },
+          {
+            "sha": "32c020502b1cbe16e22ac4a1bc33fa4e8241bdb3",
+            "author": {
+              "email": "john.s.dulaney1@gmail.com",
+              "name": "John"
+            },
+            "message": "pm",
+            "distinct": true,
+            "url": "https://api.github.com/repos/john-dulaney/bob-ross-movie-history/commits/32c020502b1cbe16e22ac4a1bc33fa4e8241bdb3"
+          },
+          {
+            "sha": "d239bce3f4d8870afd51d4b9fe724e311d4b8582",
+            "author": {
+              "email": "john.s.dulaney1@gmail.com",
+              "name": "John"
+            },
+            "message": "mc",
+            "distinct": true,
+            "url": "https://api.github.com/repos/john-dulaney/bob-ross-movie-history/commits/d239bce3f4d8870afd51d4b9fe724e311d4b8582"
+          }
+        ]
+      },
+      "public": true,
+      "created_at": "2018-02-26T21:57:43Z"
+    },
+    {
+      "id": "7299820015",
+      "type": "PushEvent",
+      "actor": {
+        "id": 20269235,
+        "login": "john-dulaney",
+        "display_login": "john-dulaney",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/john-dulaney",
+        "avatar_url": "https://avatars.githubusercontent.com/u/20269235?"
+      },
+      "repo": {
+        "id": 122990282,
+        "name": "john-dulaney/bob-ross-movie-history",
+        "url": "https://api.github.com/repos/john-dulaney/bob-ross-movie-history"
+      },
+      "payload": {
+        "push_id": 2360140640,
+        "size": 3,
+        "distinct_size": 3,
+        "ref": "refs/heads/master",
+        "head": "e823c029418caf69f85a7d1b87b165dc7ef97424",
+        "before": "65898a68186782a767ae596238e8bdcadfe83f29",
+        "commits": [
+          {
+            "sha": "f3b8c05db370d79c913d9643f4c05c4b988013e8",
+            "author": {
+              "email": "stevebrownlee@users.noreply.github.com",
+              "name": "Steve Brownlee"
+            },
+            "message": "Merge pull request #16 from john-dulaney/master\n\nAdded cool search bar",
+            "distinct": true,
+            "url": "https://api.github.com/repos/john-dulaney/bob-ross-movie-history/commits/f3b8c05db370d79c913d9643f4c05c4b988013e8"
+          },
+          {
+            "sha": "5c75011d028375050de998eba7dcda5e8ea2e075",
+            "author": {
+              "email": "chortlehoort@gmail.com",
+              "name": "Steve Brownlee"
+            },
+            "message": "Ignoring appsettings",
+            "distinct": true,
+            "url": "https://api.github.com/repos/john-dulaney/bob-ross-movie-history/commits/5c75011d028375050de998eba7dcda5e8ea2e075"
+          },
+          {
+            "sha": "e823c029418caf69f85a7d1b87b165dc7ef97424",
+            "author": {
+              "email": "chortlehoort@gmail.com",
+              "name": "Steve Brownlee"
+            },
+            "message": "Attempt at api key configuration and showing titles/poster for searched movies",
+            "distinct": true,
+            "url": "https://api.github.com/repos/john-dulaney/bob-ross-movie-history/commits/e823c029418caf69f85a7d1b87b165dc7ef97424"
+          }
+        ]
+      },
+      "public": true,
+      "created_at": "2018-02-26T21:24:02Z"
+    }
+  ]

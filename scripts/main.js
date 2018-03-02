@@ -1,7 +1,4 @@
-const everything = require("./github.js")
-const eventListeners = require("./eventListeners.js")
+const studentInfo = require("./localStudentData.js")
 
 $(".loader-gif2").hide()
 $(".loader-gif").show()
-
-eventListeners()
