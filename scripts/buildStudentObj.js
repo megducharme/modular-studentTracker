@@ -2,7 +2,7 @@ function studentFactory(studentName, studentEvent){
     let eventDate = new Date(studentEvent.created_at)
 
     if(studentEvent.type === "ForkEvent"){
-        date = new Date(studentEvent.payload.forkee.pushed_at)
+        eventDate = new Date(studentEvent.payload.forkee.pushed_at)
     }
 
     const studentObject = Object.create(null, {
@@ -29,14 +29,14 @@ function studentFactory(studentName, studentEvent){
             writable: true
         },
         color: {
-            value: studentColor(getDiffDays(eventDate)),
+            value: getStudentColor(getDiffDays(eventDate)),
             writable: true
         }
     })
     return studentObject
 }
 
-function studentColor(diffDays) {
+function getStudentColor(diffDays) {
     switch (diffDays) {
         case " today":
             return color = "green"
