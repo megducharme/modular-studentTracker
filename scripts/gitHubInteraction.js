@@ -11,7 +11,7 @@ function createPromises(students) {
         arrayOfPromises.push(
             $.ajax({
                 type: "GET",
-                url: `../${student.githubHandle}.json`
+                url: `../students/${student.githubHandle}.json`
             })
         )
     })
