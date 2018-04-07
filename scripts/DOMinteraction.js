@@ -2,6 +2,11 @@ let stringToDOM = ""
 
 function prepForBootstrap(allStudents){
     let counter = 0
+
+    allStudents.sort(function(a,b){
+        return new Date(a.date) - new Date(b.date);
+    });
+
     allStudents.forEach(student => {
         if (counter === 0) {
             stringToDOM += "<div class='row'>"
