@@ -1,9 +1,15 @@
+h1, h2, h3, p, a, button {
+    font-family: 'lato';
+    color: #343849;
+}
+
 nav {
     display: flex;
-    height: 40px;
+    height: 50px;
     background-color: white;
     border-bottom: 1px solid #e2e2e2;
-    justify-content: row-reverse;
+    justify-content: space-between;
+    align-items: center;
     position: sticky;
     top: 0px;
 }
@@ -31,6 +37,19 @@ nav {
 
 button {
     margin: 10px;
+    background-color: #f8f8f8;
+    border-radius: 4px;
+    border: 1px solid #e2e2e2;
+}
+
+
+button:hover, button:active {
+    background-color: #ececec;
+    -webkit-transition: none;
+    -moz-transition: none;
+    -ms-transition: none;
+    -o-transition: none;
+    outline: none;
 }
 
 @media (max-width: 996px) {
