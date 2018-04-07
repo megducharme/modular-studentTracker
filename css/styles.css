@@ -55,7 +55,7 @@ button {
 }
 
 
-button:hover, button:focus, button:active {
+button:hover, button:focus {
     background-color: #ececec;
     -webkit-transition: none;
     -moz-transition: none;
