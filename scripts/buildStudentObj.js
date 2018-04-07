@@ -44,6 +44,7 @@ function studentFactory(studentName, studentEvent){
         return studentObject
     }catch(err){
         return {
+            name: stuentName,
             date: 0
         };
     }
