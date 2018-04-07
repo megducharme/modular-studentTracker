@@ -1,50 +1,50 @@
 function studentFactory(studentName, studentEvent){
-    let eventDate = null;
 
     try{
+
+        let eventDate = new Date(studentEvent.created_at)
+
         if(studentEvent.type === "ForkEvent"){
             eventDate = new Date(studentEvent.payload.forkee.pushed_at)
-        }else{
-            eventDate = new Date(studentEvent.created_at)
         }
+
+        let today = new Date(Date.now())
+
+        const studentObject = Object.create(null, {
+            name: {
+                value: studentName
+            },
+            githubHandle: {
+                value: studentEvent.actor.login
+            },
+            eventType: {
+                value: studentEvent.type
+            },
+            date: {
+                value: parseInt((today - eventDate) / (1000 * 60 * 60 * 24))
+            },
+            repo: {
+                value: studentEvent.repo.name.split("/")[1]
+            },
+            message: {
+                value: (studentEvent.type === "ForkEvent") ? "-" : `"${studentEvent.payload.commits[studentEvent.payload.commits.length - 1].message}"`
+            },
+            repoURL: {
+                value: studentEvent.repo.url.split("repos/")[1],
+            },
+            diffDays: {
+                value: getDiffDays(eventDate),
+                writable: true
+            },
+            color: {
+                value: getStudentColor(getDiffDays(eventDate)),
+                writable: true
+            }
+        })
+        return studentObject
     }catch(err){
-        console.log(studentName)
+        return null;
     }
-
-    let today = new Date(Date.now())
-
-    const studentObject = Object.create(null, {
-        name: {
-            value: studentName
-        },
-        githubHandle: {
-            value: studentEvent.actor.login
-        },
-        eventType: {
-            value: studentEvent.type
-        },
-        date: {
-            value: parseInt((today - eventDate) / (1000 * 60 * 60 * 24))
-        },
-        repo: {
-            value: studentEvent.repo.name.split("/")[1]
-        },
-        message: {
-            value: (studentEvent.type === "ForkEvent") ? "-" : `"${studentEvent.payload.commits[studentEvent.payload.commits.length - 1].message}"`
-        },
-        repoURL: {
-            value: studentEvent.repo.url.split("repos/")[1],
-        },
-        diffDays: {
-            value: getDiffDays(eventDate),
-            writable: true
-        },
-        color: {
-            value: getStudentColor(getDiffDays(eventDate)),
-            writable: true
-        }
-    })
-    return studentObject
 }
 
 function getStudentColor(diffDays) {
