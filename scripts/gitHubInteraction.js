@@ -1,5 +1,5 @@
-const printStudent = require("./printStudents.js")
-const getStudentObject = require("./extractStudentData.js")
+import printStudent from "./DOMinteraction.js";
+import getStudentObject from "./extractStudentData.js";
 
 
 function createPromises(students) {
@@ -11,7 +11,7 @@ function createPromises(students) {
         arrayOfPromises.push(
             $.ajax({
                 type: "GET",
-                url: `../students/${student.githubHandle}.json`
+                url: `https://spyproxy.bangazon.com/student/commit/https://api.github.com/users/${student.githubHandle}/events`
             })
         )
     })
@@ -34,4 +34,4 @@ function getStudentData(arrayOfPromises, students) {
 
 }
 
-module.exports = createPromises
+export default createPromises;

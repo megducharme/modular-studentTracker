@@ -37,4 +37,4 @@ function printToDOM(student) {
     $("#output").html(stringToDOM)
 }
 
-module.exports = prepForBootstrap
+export default prepForBootstrap;
