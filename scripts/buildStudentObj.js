@@ -43,7 +43,9 @@ function studentFactory(studentName, studentEvent){
         })
         return studentObject
     }catch(err){
-        return null;
+        return {
+            date: 0
+        };
     }
 }
 
