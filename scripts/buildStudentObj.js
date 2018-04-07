@@ -2,13 +2,13 @@ function studentFactory(studentName, studentEvent){
     let eventDate = null;
 
     try{
-        eventDate = new Date(studentEvent.created_at)
+        if(studentEvent.type === "ForkEvent"){
+            eventDate = new Date(studentEvent.payload.forkee.pushed_at)
+        }else{
+            eventDate = new Date(studentEvent.created_at)
+        }
     }catch(err){
         console.log(studentName)
-    }
-
-    if(studentEvent.type === "ForkEvent"){
-        eventDate = new Date(studentEvent.payload.forkee.pushed_at)
     }
 
     let today = new Date(Date.now())
