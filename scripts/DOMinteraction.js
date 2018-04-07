@@ -25,7 +25,6 @@ function prepForBootstrap(allStudents){
 
 
 function printToDOM(student) {
-    console.log("student made it!!", student)
     let event = (student.eventType === "ForkEvent") ? "Forked a repo " : "Pushed to GitHub "
 
     stringToDOM += `
