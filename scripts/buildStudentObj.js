@@ -48,6 +48,7 @@ function studentFactory(studentName, studentEvent){
                 "name": studentName.name,
                 "githubHandle": studentName.githubHandle
             },
+            githubHandle: studentName.githubHandle,
             date: 0
         };
     }
