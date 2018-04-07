@@ -34,4 +34,4 @@ function getStudentData(arrayOfPromises, students) {
 
 }
 
-modules.export = createPromises;
+module.exports = createPromises;

@@ -16,4 +16,4 @@ function buildStudentObject(data, students){
     return studentFactory(studentName, studentEvent)
 }
 
-modules.export = buildStudentObject;
+module.exports = buildStudentObject;

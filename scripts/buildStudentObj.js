@@ -62,4 +62,4 @@ function getDiffDays(lastPush){
     }
 }
 
-modules.export = studentFactory;
+module.exports = studentFactory;

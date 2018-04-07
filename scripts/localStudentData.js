@@ -25,4 +25,4 @@ function getStudentData(cohort) {
     return localDataPromise
 }
 
-modules.export = getStudentData;
+module.exports = getStudentData;
