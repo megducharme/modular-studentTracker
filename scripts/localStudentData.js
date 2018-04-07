@@ -4,7 +4,8 @@ let cohort = "";
 
 $("#classBtn").on("click", function (event) {
     $(this).children().removeClass("active")
-    $(this).addClass("active");
+    let element = event.target
+    $(element).addClass("active")
 
     let jsonAddress = event.target.id
     if(jsonAddress.startsWith("c__")){
