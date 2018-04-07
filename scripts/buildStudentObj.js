@@ -1,5 +1,11 @@
 function studentFactory(studentName, studentEvent){
-    let eventDate = new Date(studentEvent.created_at)
+    let eventDate = null;
+
+    try{
+        eventDate = new Date(studentEvent.created_at)
+    }catch(err){
+        console.log(studentName)
+    }
 
     if(studentEvent.type === "ForkEvent"){
         eventDate = new Date(studentEvent.payload.forkee.pushed_at)
