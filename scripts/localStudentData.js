@@ -3,6 +3,9 @@ let gitHubInteraction = require ("./gitHubInteraction.js");
 let cohort = "";
 
 $("#classBtn").on("click", function (event) {
+    $(this).siblings().removeClass("active")
+    $(this).addClass("active");
+
     let jsonAddress = event.target.id
     if(jsonAddress.startsWith("c__")){
         $("#output").html("")

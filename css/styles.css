@@ -15,6 +15,11 @@ nav {
     top: 0px;
 }
 
+a:hover {
+    text-decoration: none;
+    color: #213faf;
+}
+
 h3 {
     font-weight: 400;
     font-size: 1.2em;
@@ -44,7 +49,7 @@ h3 {
 button {
     margin: 10px;
     padding: 3px 8px 3px 8px;
-    background-color: #f8f8f8;
+    background-color: #efefef;
     border-radius: 4px;
     border: 1px solid #e2e2e2;
 }
@@ -58,6 +63,11 @@ button:hover, button:focus, button:active {
     -o-transition: none;
     outline: none;
     cursor: pointer;
+}
+
+.active {
+    background-color: #c5c5c5;
+    border: none;
 }
 
 @media (max-width: 996px) {
@@ -98,5 +108,5 @@ button:hover, button:focus, button:active {
 }
 
 body {
-    background-color: #f7f8f9;
+    background-color: #efefef;
 }

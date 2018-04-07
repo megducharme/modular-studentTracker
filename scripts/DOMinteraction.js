@@ -26,7 +26,7 @@ function prepForBootstrap(allStudents){
 
 
 function printToDOM(student) {
-    let event = (student.eventType === "ForkEvent") ? "Forked a repo " : "Pushed to GitHub "
+    let event = (student.eventType === "ForkEvent") ? "Forked: " : "Last push: "
 
     stringToDOM += `
         <div class="card center col">
