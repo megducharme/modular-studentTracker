@@ -1,3 +1,13 @@
+nav {
+    display: flex;
+    height: 40px;
+    background-color: white;
+    border-bottom: 1px solid #e2e2e2;
+    justify-content: row-reverse;
+    position: sticky;
+    top: 0px;
+}
+
 .red {
     color: red;
 }
