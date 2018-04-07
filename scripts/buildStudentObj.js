@@ -5,15 +5,6 @@ function studentFactory(studentName, studentEvent){
         eventDate = new Date(studentEvent.payload.forkee.pushed_at)
     }
 
-    let lastPush = null;
-
-    try{
-        lastPush = new Date(pushEvent.created_at)
-    }
-    catch (error){
-        console.log(studentName)
-    }
-
     let today = new Date(Date.now())
 
     const studentObject = Object.create(null, {
@@ -27,7 +18,7 @@ function studentFactory(studentName, studentEvent){
             value: studentEvent.type
         },
         date: {
-            value: parseInt((today - lastPush) / (1000 * 60 * 60 * 24))
+            value: parseInt((today - eventDate) / (1000 * 60 * 60 * 24))
         },
         repo: {
             value: studentEvent.repo.name.split("/")[1]
