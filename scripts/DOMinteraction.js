@@ -1,6 +1,7 @@
 let stringToDOM = ""
 
 function prepForBootstrap(allStudents){
+    stringToDOM = ""
     let students = allStudents,
         counter = 0
 
