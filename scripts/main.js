@@ -1,5 +1,5 @@
-import studentInfo from "./localStudentData.js";
-import treehousetracker from "./treehousetracker.js";
+let studentInfo = require ("./localStudentData.js");
+let treehousetracker = require ("./treehousetracker.js");
 
 $(".loader-gif2").hide()
 $(".loader-gif").show()

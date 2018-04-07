@@ -1,5 +1,5 @@
-import printStudent from "./DOMinteraction.js";
-import getStudentObject from "./extractStudentData.js";
+let printStudent = require ("./DOMinteraction.js");
+let getStudentObject = require ("./extractStudentData.js");
 
 
 function createPromises(students) {
@@ -34,4 +34,4 @@ function getStudentData(arrayOfPromises, students) {
 
 }
 
-export default createPromises;
+modules.export = createPromises;

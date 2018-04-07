@@ -1,4 +1,4 @@
-import studentFactory from "./buildStudentObj.js";
+let studentFactory = require ("./buildStudentObj.js");
 
 function buildStudentObject(data, students){
     let studentName = students.find(student => {
@@ -16,4 +16,4 @@ function buildStudentObject(data, students){
     return studentFactory(studentName, studentEvent)
 }
 
-export default buildStudentObject;
+modules.export = buildStudentObject;

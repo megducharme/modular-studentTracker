@@ -1,4 +1,4 @@
-import gitHubInteraction from "./gitHubInteraction.js";
+let gitHubInteraction = require ("./gitHubInteraction.js");
 
 let cohort = "";
 
@@ -25,4 +25,4 @@ function getStudentData(cohort) {
     return localDataPromise
 }
 
-export default getStudentData;
+modules.export = getStudentData;
