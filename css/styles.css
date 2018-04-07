@@ -65,7 +65,7 @@ button:hover, button:focus, button:active {
     cursor: pointer;
 }
 
-.active {
+.active-btn {
     background-color: #c5c5c5;
     border: none;
 }
