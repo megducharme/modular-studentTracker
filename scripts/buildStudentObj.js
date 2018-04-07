@@ -6,7 +6,7 @@ function studentFactory(studentName, studentEvent){
     }
 
     let lastPush = null;
-          
+
     try{
         lastPush = new Date(pushEvent.created_at)
     }
@@ -26,7 +26,9 @@ function studentFactory(studentName, studentEvent){
         eventType: {
             value: studentEvent.type
         },
-        date: parseInt((today - lastPush) / (1000 * 60 * 60 * 24)),
+        date: {
+            value: parseInt((today - lastPush) / (1000 * 60 * 60 * 24))
+        },
         repo: {
             value: studentEvent.repo.name.split("/")[1]
         },
