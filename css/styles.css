@@ -50,7 +50,7 @@ button {
 }
 
 
-button:hover button:focus {
+button:hover, button:focus, button:active {
     background-color: #ececec;
     -webkit-transition: none;
     -moz-transition: none;
@@ -58,10 +58,6 @@ button:hover button:focus {
     -o-transition: none;
     outline: none;
     cursor: pointer;
-}
-
-button:active {
-    font-weight: 600;
 }
 
 @media (max-width: 996px) {
