@@ -9,9 +9,15 @@ nav {
     background-color: white;
     border-bottom: 1px solid #e2e2e2;
     justify-content: space-between;
+    z-index: 1;
     align-items: center;
     position: sticky;
     top: 0px;
+}
+
+h3 {
+    font-weight: 400;
+    font-size: 1.2em;
 }
 
 .red {
@@ -37,13 +43,14 @@ nav {
 
 button {
     margin: 10px;
+    padding: 3px 8px 3px 8px;
     background-color: #f8f8f8;
     border-radius: 4px;
     border: 1px solid #e2e2e2;
 }
 
 
-button:hover, button:active {
+button:hover, button:active, button:focus {
     background-color: #ececec;
     -webkit-transition: none;
     -moz-transition: none;
