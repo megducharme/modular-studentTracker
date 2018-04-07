@@ -4,6 +4,7 @@ let getStudentObject = require ("./extractStudentData.js");
 
 function createPromises(students) {
     let arrayOfPromises = []
+    $("#output").html("")
 
     console.log("students", students)
 
