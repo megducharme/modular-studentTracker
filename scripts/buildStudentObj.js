@@ -44,7 +44,8 @@ function studentFactory(studentName, studentEvent){
         return studentObject
     }catch(err){
         return {
-            name: studentName,
+            name: studentName.name,
+            githubHandle: studentName.githubHandle,
             date: 0
         };
     }
