@@ -1,12 +1,7 @@
-let stringToDOM = {
-    value: "",
-    reset: () => {
-        this.value = ""
-    }
-}
+let stringToDOM = ""
 
 function printToDOM(allStudentObjs) {
-    stringToDOM.reset()
+    stringToDOM = ""
 
     allStudentObjs.forEach(student => {
         let event = (student.eventType === "ForkEvent") ? "Forked: " : "Last push: "
