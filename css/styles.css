@@ -12,9 +12,9 @@ body {
 
 .card {
     flex: 23%;
-    text-align: center;
     padding: 10px;
     margin: 8px;
+    align-items: center;
 }
 
 h1, h2, h3, p, button {
@@ -106,7 +106,8 @@ button:hover, button:focus {
     justify-content: center;
 }
 
-img {
+.student-avatar {
     border-radius: 100%;
     width: 70px;
+    margin-bottom: 10px;
 }
