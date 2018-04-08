@@ -13,7 +13,7 @@ body {
 .card {
     flex: 23%;
     text-align: center;
-    padding: 10px;
+    padding: 20px 10px;
     margin: 8px;
     align-items: center;
 }
