@@ -1,3 +1,8 @@
+body {
+    background-color: #efefef;
+    margin: 0 20px;
+}
+
 h1, h2, h3, p, button {
     font-family: 'lato';
     color: #343849;
@@ -13,6 +18,7 @@ nav {
     align-items: center;
     position: sticky;
     top: 0px;
+    width: 100%;
 }
 
 a:hover {
@@ -105,8 +111,4 @@ button:hover, button:focus {
 
 #output {
     margin: 20px;
-}
-
-body {
-    background-color: #efefef;
 }
