@@ -112,3 +112,15 @@ button:hover, button:focus {
     width: 70px;
     margin-bottom: 10px;
 }
+
+/* Dashboard section */
+
+.dash-board {
+    display: flex;
+}
+
+.card--body {
+    color:  #343849;
+    opacity: .6;
+    font-weight: 400;
+}
