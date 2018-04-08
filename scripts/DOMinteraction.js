@@ -1,34 +1,14 @@
-let stringToDOM = ""
-
-// function prepForBootstrap(allStudents){
-//     stringToDOM = ""
-//     let students = allStudents,
-//         counter = 0
-
-//     students.sort(function(a,b){
-//         return new Date(a.date) - new Date(b.date);
-//     });
-
-//     students.forEach(student => {
-//         if (counter === 0) {
-//             stringToDOM += "<div class='row'>"
-//         }
-
-//         if (counter % 4 === 0) {
-//             stringToDOM += "</div>"
-//             stringToDOM += "<div class='row'>"
-//         }
-
-//         counter++
-//         printToDOM(student)
-//     })
-// }
-
+let stringToDOM = {
+    value: "",
+    reset: () => {
+        this.value = ""
+    }
+}
 
 function printToDOM(student) {
     let event = (student.eventType === "ForkEvent") ? "Forked: " : "Last push: "
 
-    stringToDOM += `
+    stringToDOM.value += `
         <div class="card">
             <h4>${student.name.name}</h4>
             <p class="${student.color}">${event} ${student.diffDays}</p>
@@ -37,7 +17,7 @@ function printToDOM(student) {
             <a href="https://github.com/${student.githubHandle}" target="_blank">Student's Repo</a>
         </div>`
 
-    $("#output").html(stringToDOM)
+    $("#output").html(stringToDOM.value)
 }
 
-module.exports = printToDOM;
+module.exports = {printToDOM, stringToDOM};
