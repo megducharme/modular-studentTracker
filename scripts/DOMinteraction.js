@@ -1,7 +1,6 @@
-let stringToDOM = ""
 
 function printToDOM(allStudentObjs) {
-    stringToDOM = ""
+    let stringToDOM = ""
 
     allStudentObjs.forEach(student => {
         let event = (student.eventType === "ForkEvent") ? "Forked: " : "Last push: "
@@ -15,7 +14,7 @@ function printToDOM(allStudentObjs) {
                 <a href="https://github.com/${student.githubHandle}" target="_blank">Student's Repo</a>
             </div>`
 
-        $("#output").html(stringToDOM.value)
+        $("#output").html(stringToDOM)
     })
 
 }
