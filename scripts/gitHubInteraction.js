@@ -1,4 +1,4 @@
-let {printToDOM, stringToDOM} = require("./DOMinteraction.js");
+let printToDOM = require("./DOMinteraction.js");
 let getStudentObject = require("./extractStudentData.js");
 
 
@@ -34,11 +34,7 @@ function getStudentData(arrayOfPromises, students) {
             return new Date(a.date) - new Date(b.date);
         });
 
-        stringToDOM.reset()
-
-        allStudentObjs.forEach(student => {
-            printToDOM(student)
-        })
+        printToDOM(allStudentObjs)
     })
 
 }
