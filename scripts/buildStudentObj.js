@@ -17,6 +17,9 @@ function studentFactory(studentName, studentEvent){
             githubHandle: {
                 value: studentEvent.actor.login
             },
+            avatar: {
+                value: studentEvent.actor.avatar_url
+            },
             eventType: {
                 value: studentEvent.type
             },
@@ -49,6 +52,7 @@ function studentFactory(studentName, studentEvent){
                 "githubHandle": studentName.githubHandle
             },
             githubHandle: studentName.githubHandle,
+            avatar: "../img/nopic.png",
             date: 0
         };
     }
