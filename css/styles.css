@@ -2,14 +2,18 @@ body {
     background-color: #efefef;
 }
 
-.container {
-    margin: 0 20px;
-}
-
 #output{
     display:flex;
     flex-wrap: wrap;
     justify-content: center;
+    padding:0;
+}
+
+.card {
+    flex: 23%;
+    text-align: center;
+    padding: 10px;
+    margin: 8px;
 }
 
 h1, h2, h3, p, button {
@@ -84,23 +88,6 @@ button:hover, button:focus {
     background-color: #c5c5c5;
     border: none;
 }
-
-/* @media (max-width: 996px) {
-    .col {
-        width: 100%
-    }
-    .col h4{
-        font-size: 16px;
-    }
-}
-
-@media (max-width: 770px) {
-    .card {
-        padding: 0px;
-        margin: 0px;
-
-    }
-} */
 
 .class-buttons {
     display:flex;
