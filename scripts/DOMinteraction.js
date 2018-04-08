@@ -1,28 +1,28 @@
 let stringToDOM = ""
 
-function prepForBootstrap(allStudents){
-    stringToDOM = ""
-    let students = allStudents,
-        counter = 0
+// function prepForBootstrap(allStudents){
+//     stringToDOM = ""
+//     let students = allStudents,
+//         counter = 0
 
-    students.sort(function(a,b){
-        return new Date(a.date) - new Date(b.date);
-    });
+//     students.sort(function(a,b){
+//         return new Date(a.date) - new Date(b.date);
+//     });
 
-    students.forEach(student => {
-        if (counter === 0) {
-            stringToDOM += "<div class='row'>"
-        }
+//     students.forEach(student => {
+//         if (counter === 0) {
+//             stringToDOM += "<div class='row'>"
+//         }
 
-        if (counter % 4 === 0) {
-            stringToDOM += "</div>"
-            stringToDOM += "<div class='row'>"
-        }
+//         if (counter % 4 === 0) {
+//             stringToDOM += "</div>"
+//             stringToDOM += "<div class='row'>"
+//         }
 
-        counter++
-        printToDOM(student)
-    })
-}
+//         counter++
+//         printToDOM(student)
+//     })
+// }
 
 
 function printToDOM(student) {
@@ -43,4 +43,4 @@ function printToDOM(student) {
     $("#output").html(stringToDOM)
 }
 
-module.exports = prepForBootstrap;
+module.exports = printToDOM;

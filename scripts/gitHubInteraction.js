@@ -1,5 +1,5 @@
-let printStudent = require ("./DOMinteraction.js");
-let getStudentObject = require ("./extractStudentData.js");
+let printStudent = require("./DOMinteraction.js");
+let getStudentObject = require("./extractStudentData.js");
 
 
 function createPromises(students) {
@@ -29,7 +29,14 @@ function getStudentData(arrayOfPromises, students) {
         })
     }).then(() => {
         $(".loader-gif2").hide()
-        printStudent(allStudentObjs)
+
+        allStudentObjs.sort(function (a, b) {
+            return new Date(a.date) - new Date(b.date);
+        });
+
+        allStudentObjs.forEach(student => {
+            printStudent(student)
+        })
     })
 
 }

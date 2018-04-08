@@ -1,7 +1,18 @@
 body {
     background-color: #efefef;
+}
+
+.container {
     margin: 0 20px;
 }
+
+#output{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
 
 h1, h2, h3, p, button {
     font-family: 'lato';
