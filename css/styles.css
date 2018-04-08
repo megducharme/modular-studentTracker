@@ -117,6 +117,7 @@ button:hover, button:focus {
 
 .dash-board {
     display: flex;
+    margin: 3% 50px 0px 50px;
 }
 
 .card--body {
