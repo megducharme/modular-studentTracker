@@ -3,6 +3,8 @@ let gitHubInteraction = require ("./gitHubInteraction.js");
 let cohort = "";
 
 $("#classBtn").on("click", function (event) {
+    $("#jsPoints").hide()
+
     let jsonAddress = event.target.id
     if(jsonAddress.startsWith("c__")){
         $("#output").html("")

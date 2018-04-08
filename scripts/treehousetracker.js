@@ -1,9 +1,9 @@
 let students = ["kyleducharme", "danielaagnoletti", "rachaelbabcock2", "coledoster", "deannavickers", "jessicaswift", "levischubert", "rafc", "DanielBeecroft", "katherynford", "seanirwin", "johnmccoy2", "patrickmurphy2", "williamprater", "jacobsmith10", "dejanstjepanovic", "hayleylandsberg", "jeremiahpritchard", "jonathanriggs", "joshuabarton", "ronnieyoung", "paulzimmermanclayton", "meghandebity", "davidpaul2", "jakecarter"]
 let output = ""
 
-let arrayOfPromises = []
-let studentPoints = []
-let studentJsPoints = []
+let arrayOfPromises = [],
+    studentPoints = [],
+    studentJsPoints = []
 
 $("#c25").click(function () {
     arrayOfPromises = []
@@ -23,7 +23,6 @@ $("#c25").click(function () {
         )
     })
 
-    console.log("number of promises", arrayOfPromises.length)
 
     Promise.all(arrayOfPromises).then(responses => {
         responses.forEach(data => {
@@ -53,23 +52,10 @@ $("#c25").click(function () {
             return b.totalFEpoints - a.totalFEpoints
         });
 
-        console.log(studentPoints)
-
         $(".loader-gif2").hide()
         $("#jsPoints").show()
 
-        let counter = 0;
         studentPoints.forEach(student => {
-            if (counter === 0) {
-                output += `<div class="row">`
-            }
-
-            if (counter % 4 === 0) {
-                output += `</div>`
-                output += `<div class="row">`
-            }
-
-            counter++
             printToDom(student)
         })
 
@@ -80,28 +66,25 @@ $("#c25").click(function () {
 
 function printToDom(studentData) {
     output +=
-        `<div class="card center col">
-                <div class="card-body">
-                    <strong><h3>${studentData.name}</h3></strong>
-                    <div class="navy">
-                    Python points: ${studentData.pythonPoints}
-                    </div>
-                    <div>
-                    JavaScript points: ${studentData.jsPoints}
-                    </div>
-                    <div>
-                    CSS points: ${studentData.cssPoints}
-                    </div>
-                    <div>
-                    HTML points: ${studentData.htmlPoints}
-                    </div>
-                    <i>Total Treehouse Points: ${studentData.totalPoints}</i>
-                    <div class=${studentData.color}>
-                        Total Front End Points: ${studentData.jsPoints + studentData.cssPoints + studentData.htmlPoints}
-                    </div>
-                </div>
+        `<div class="card">
+            <strong><h3>${studentData.name}</h3></strong>
+            <div class="navy">
+                Python points: ${studentData.pythonPoints}
             </div>
-            <br>`
+            <div>
+                JavaScript points: ${studentData.jsPoints}
+            </div>
+            <div>
+                CSS points: ${studentData.cssPoints}
+            </div>
+            <div>
+                HTML points: ${studentData.htmlPoints}
+            </div>
+                <i>Total Treehouse Points: ${studentData.totalPoints}</i>
+            <div class=${studentData.color}>
+                Total Front End Points: ${studentData.jsPoints + studentData.cssPoints + studentData.htmlPoints}
+            </div>
+        </div><br>`
 }
 
 function sortByJs() {
@@ -115,19 +98,8 @@ $("#jsPoints").click(function () {
     console.log("sort by JS points")
     console.log("student js points", studentJsPoints)
     output = ""
-    let counter = 0;
 
     students.forEach(student => {
-        if (counter === 0) {
-            output += `<div class="row">`
-        }
-
-        if (counter % 4 === 0) {
-            output += `</div>`
-            output += `<div class="row">`
-        }
-
-        counter++
         printToDom(student)
     })
 
