@@ -12,8 +12,6 @@ body {
     justify-content: center;
 }
 
-
-
 h1, h2, h3, p, button {
     font-family: 'lato';
     color: #343849;
@@ -87,7 +85,7 @@ button:hover, button:focus {
     border: none;
 }
 
-@media (max-width: 996px) {
+/* @media (max-width: 996px) {
     .col {
         width: 100%
     }
@@ -102,7 +100,7 @@ button:hover, button:focus {
         margin: 0px;
 
     }
-}
+} */
 
 .class-buttons {
     display:flex;
@@ -118,8 +116,4 @@ button:hover, button:focus {
 .loader-gif2 {
     display: flex;
     justify-content: center;
-}
-
-#output {
-    margin: 20px;
 }
