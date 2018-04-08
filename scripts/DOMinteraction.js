@@ -5,7 +5,7 @@ function printToDOM(allStudentObjs) {
     allStudentObjs.forEach(student => {
         let event = (student.eventType === "ForkEvent") ? "Forked: " : "Last push: "
 
-        stringToDOM.value += `
+        stringToDOM += `
             <div class="card">
                 <h4>${student.name.name}</h4>
                 <p class="${student.color}">${event} ${student.diffDays}</p>
