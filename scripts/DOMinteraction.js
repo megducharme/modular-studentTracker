@@ -7,8 +7,8 @@ function printToDOM(allStudentObjs) {
 
         stringToDOM += `
             <div class="card">
-                <h4>${student.name.name}</h4>
                 <img src="${student.avatar}">
+                <h4>${student.name.name}</h4>
                 <p class="${student.color}">${event} ${student.diffDays}</p>
                 <a href="https://github.com/${student.repoURL}" target="_blank"><p style="color:black;">${student.repo}</p></a>
                 <p>${student.message}</p>
