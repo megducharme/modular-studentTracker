@@ -36,6 +36,7 @@ $("#c25").click(function () {
                 cssPoints: data.points.CSS,
                 htmlPoints: data.points.HTML,
                 pythonPoints: data.points.Python,
+                csharpPoints: data.points["C#"],
                 totalFEpoints: (data.points.JavaScript + data.points.CSS + data.points.HTML),
                 color: "red"
             }
@@ -71,7 +72,7 @@ function printToDom(studentData) {
         `<div class="card">
             <strong><h3>${studentData.name}</h3></strong>
             <div class="navy">
-                Python points: ${studentData.pythonPoints}
+                C# points: ${studentData.csharpPoints}
             </div>
             <div>
                 JavaScript points: ${studentData.jsPoints}
