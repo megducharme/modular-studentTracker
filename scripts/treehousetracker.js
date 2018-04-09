@@ -1,4 +1,6 @@
-let students = ["kyleducharme", "danielaagnoletti", "rachaelbabcock2", "coledoster", "deannavickers", "jessicaswift", "levischubert", "rafc", "DanielBeecroft", "katherynford", "seanirwin", "johnmccoy2", "patrickmurphy2", "williamprater", "jacobsmith10", "dejanstjepanovic", "hayleylandsberg", "jeremiahpritchard", "jonathanriggs", "joshuabarton", "ronnieyoung", "paulzimmermanclayton", "meghandebity", "davidpaul2", "jakecarter"]
+// let c25 = ["kyleducharme", "danielaagnoletti", "rachaelbabcock2", "coledoster", "deannavickers", "jessicaswift", "levischubert", "rafc", "DanielBeecroft", "katherynford", "seanirwin", "johnmccoy2", "patrickmurphy2", "williamprater", "jacobsmith10", "dejanstjepanovic", "hayleylandsberg", "jeremiahpritchard", "jonathanriggs", "joshuabarton", "ronnieyoung", "paulzimmermanclayton", "meghandebity", "davidpaul2", "jakecarter"]
+
+let c26 = ["sethdana", "joeysmith", "leahgwin", "jordanwilliams2", "elliothuck", "eventurino", "sathvikreddy", "evanlusky", "philippatton", "jenniferlawson4", "brettshearin", "williamkimball", "austingorman", "michaelroberts14"]
 let output = ""
 
 let arrayOfPromises = [],
@@ -14,7 +16,7 @@ $("#c25").click(function () {
     $(".loader-gif").hide()
     $(".loader-gif2").show()
 
-    students.forEach(student => {
+    c26.forEach(student => {
         arrayOfPromises.push(
             $.ajax({
                 type: "GET",
