@@ -70,7 +70,7 @@ $("#c25").click(function () {
 function printToDom(studentData) {
     output +=
         `<div class="card">
-            <img class="student-avatar" src="${studentData.gravatar_ul}">
+            <img class="student-avatar" src="${studentData.gravatar_url}">
             <h3 class="student-name">${studentData.name}</h3>
             <div>
             JavaScript points: ${studentData.jsPoints}
