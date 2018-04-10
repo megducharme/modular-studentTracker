@@ -39,7 +39,8 @@ $("#c25").click(function () {
                 pythonPoints: data.points.Python,
                 csharpPoints: data.points["C#"],
                 totalFEpoints: (data.points.JavaScript + data.points.CSS + data.points.HTML),
-                color: "red"
+                color: "red",
+                gravatar_url: data.gravatar_url
             }
 
             if (studentData.totalFEpoints < 3000 && studentData.totalFEpoints > 2000) {
@@ -69,6 +70,7 @@ $("#c25").click(function () {
 function printToDom(studentData) {
     output +=
         `<div class="card">
+            <img class="student-avatar" src="${studentData.gravatar_ul}">
             <h3 class="student-name">${studentData.name}</h3>
             <div>
             JavaScript points: ${studentData.jsPoints}
@@ -79,7 +81,7 @@ function printToDom(studentData) {
             <div>
             HTML points: ${studentData.htmlPoints}
             </div>
-            <div class="maroon">
+            <div class="gray">
                 C# points: ${studentData.csharpPoints}
             </div>
                 <i>Total Treehouse Points: ${studentData.totalPoints}</i>
