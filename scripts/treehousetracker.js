@@ -71,7 +71,7 @@ function printToDom(studentData) {
     output +=
         `<div class="card">
             <img class="student-avatar" src="${studentData.gravatar_url}">
-            <h3 class="student-name">${studentData.name}</h3>
+            <h4>${studentData.name}</h4>
             <div>
             JavaScript points: ${studentData.jsPoints}
             </div>
