@@ -75,6 +75,10 @@ button {
     border: 1px solid #e2e2e2;
 }
 
+.maroon{
+    color:maroon;
+}
+
 
 button:hover, button:focus {
     background-color: #ececec;
@@ -124,4 +128,8 @@ button:hover, button:focus {
     color:  #343849;
     opacity: .6;
     font-weight: 400;
+}
+
+.student-name{
+    font-weight: 800px;
 }

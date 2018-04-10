@@ -12,6 +12,7 @@ $("#c25").click(function () {
     studentJsPoints = []
     studentPoints = []
     output = ""
+    $("#output").html(output);
 
     $(".loader-gif").hide()
     $(".loader-gif2").show()
@@ -46,9 +47,7 @@ $("#c25").click(function () {
             } else if (studentData.totalFEpoints > 3000) {
                 studentData.color = "green"
             }
-
             studentPoints.push(studentData)
-
         })
 
         studentPoints.sort(function (a, b) {
@@ -70,18 +69,18 @@ $("#c25").click(function () {
 function printToDom(studentData) {
     output +=
         `<div class="card">
-            <strong><h3>${studentData.name}</h3></strong>
-            <div class="navy">
+            <h3 class="student-name">${studentData.name}</h3>
+            <div>
+            JavaScript points: ${studentData.jsPoints}
+            </div>
+            <div>
+            CSS points: ${studentData.cssPoints}
+            </div>
+            <div>
+            HTML points: ${studentData.htmlPoints}
+            </div>
+            <div class="maroon">
                 C# points: ${studentData.csharpPoints}
-            </div>
-            <div>
-                JavaScript points: ${studentData.jsPoints}
-            </div>
-            <div>
-                CSS points: ${studentData.cssPoints}
-            </div>
-            <div>
-                HTML points: ${studentData.htmlPoints}
             </div>
                 <i>Total Treehouse Points: ${studentData.totalPoints}</i>
             <div class=${studentData.color}>
@@ -98,8 +97,6 @@ function sortByJs() {
 
 $("#jsPoints").click(function () {
     let students = sortByJs()
-    console.log("sort by JS points")
-    console.log("student js points", studentJsPoints)
     output = ""
 
     students.forEach(student => {
