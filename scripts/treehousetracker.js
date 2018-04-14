@@ -3,13 +3,11 @@
 let c26 = ["sethdana", "joeysmith", "leahgwin", "jordanwilliams2", "elliothuck", "eventurino", "sathvikreddy", "evanlusky", "philippatton", "jenniferlawson4", "brettshearin", "williamkimball", "austingorman", "michaelroberts14", "glenlindquist", "klaushardt"]
 let output = ""
 
-let arrayOfPromises = [],
-    studentPoints = [],
-    studentJsPoints = []
+let studentPoints = []
 
 $("#c25").click(function () {
-    arrayOfPromises = []
-    studentJsPoints = []
+    let arrayOfPromises = []
+    let studentJsPoints = []
     studentPoints = []
     output = ""
     $("#output").html(output);
@@ -67,7 +65,7 @@ $("#c25").click(function () {
 
 });
 
-function printToDom(studentData) {
+let printToDom = (studentData) => {
     output +=
         `<div class="card">
             <img class="student-avatar" src="${studentData.gravatar_url}">
@@ -91,7 +89,7 @@ function printToDom(studentData) {
         </div><br>`
 }
 
-function sortByJs() {
+let sortByJs = () => {
     return studentPoints.slice(0).sort(function (a, b) {
         return b.jsPoints - a.jsPoints
     });

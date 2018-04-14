@@ -1,4 +1,5 @@
-function studentFactory(studentName, studentEvent){
+
+let studentFactory = (studentName, studentEvent) => {
 
     try{
 
@@ -58,7 +59,7 @@ function studentFactory(studentName, studentEvent){
     }
 }
 
-function getStudentColor(diffDays) {
+let getStudentColor = (diffDays) => {
     switch (diffDays) {
         case " today":
             return color = "green"
@@ -72,7 +73,7 @@ function getStudentColor(diffDays) {
     }
 }
 
-function getDiffDays(lastPush){
+let getDiffDays = (lastPush) => {
     let date = parseInt((new Date(Date.now()) - lastPush) / (1000 * 60 * 60 * 24))
 
     if(date === 0){

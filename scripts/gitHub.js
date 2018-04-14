@@ -1,8 +1,8 @@
-let printToDOM = require("./DOMinteraction.js");
+let printToDOM = require("./printToDom.js");
 let getStudentObject = require("./extractStudentData.js");
 
 
-function createPromises(students) {
+let createPromises = students => {
     let arrayOfPromises = []
 
     console.log("students", students)
@@ -20,7 +20,7 @@ function createPromises(students) {
 }
 
 
-function getStudentData(arrayOfPromises, students) {
+let getStudentData = (arrayOfPromises, students) => {
     let allStudentObjs = []
 
     Promise.all(arrayOfPromises).then(responses => {

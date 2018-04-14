@@ -1,6 +1,6 @@
-let studentFactory = require ("./buildStudentObj.js");
+let studentFactory = require ("./studentFactory.js");
 
-function buildStudentObject(data, students){
+let buildStudentObject = (data, students) => {
     let studentName = students.find(student => {
         return student.githubHandle === data[0].actor.login
     })

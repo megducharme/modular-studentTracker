@@ -1,5 +1,5 @@
 
-function printToDOM(allStudentObjs) {
+let printToDOM = (allStudentObjs) => {
     let stringToDOM = ""
 
     allStudentObjs.forEach(student => {

@@ -1,4 +1,4 @@
-let gitHubInteraction = require ("./gitHubInteraction.js");
+let gitHubInteraction = require ("./gitHub.js");
 
 let cohort = "";
 
@@ -15,7 +15,7 @@ $("#classBtn").on("click", function (event) {
     }
 })
 
-function getStudentData(cohort) {
+let getStudentData = cohort => {
     $(".loader-gif").hide()
     $(".loader-gif2").show()
 
