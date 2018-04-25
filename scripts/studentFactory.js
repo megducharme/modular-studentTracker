@@ -48,6 +48,7 @@ let studentFactory = (studentName, studentEvent) => {
         })
         return studentObject
     }catch(err){
+        console.log(err)
         return {
             name: {
                 "name": studentName.name,
