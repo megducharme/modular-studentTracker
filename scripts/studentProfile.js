@@ -2,12 +2,13 @@ let gitHubInteraction = require ("./gitHub.js");
 
 let cohort = "";
 
-$(".class-buttons").each(index => {
-    $(this).on("click", function(){
+$("body").on("click", function(event) {
+    console.log(event)
+    if(event.target.className === "class-buttons"){
         $("#jsPoints").hide();
         $("#footer").hide();
 
-        let jsonAddress = $(this).attr("id");
+        let jsonAddress = event.target.id;
         if(jsonAddress.startsWith("c__")){
             $("#output").html("")
             let cohort = `../students/c${jsonAddress.split("__")[1]}.json`
@@ -15,7 +16,7 @@ $(".class-buttons").each(index => {
                 gitHubInteraction(students)
             })
         }
-    })
+    }
 })
 
 
