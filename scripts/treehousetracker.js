@@ -19,7 +19,7 @@ $("#c25").click(function () {
     $(".loader-gif").hide()
     $(".loader-gif2").show()
 
-    c26.forEach(student => {
+    c27.forEach(student => {
         arrayOfPromises.push(
             $.ajax({
                 type: "GET",
