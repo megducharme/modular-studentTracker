@@ -2,22 +2,21 @@
 
 // let c26 = ["sethdana", "joeysmith", "leahgwin", "jordanwilliams2", "elliothuck", "eventurino", "sathvikreddy", "evanlusky", "philippatton", "jenniferlawson4", "brettshearin", "williamkimball", "austingorman", "michaelroberts14", "klaushardt", "adelaideyoder", "jewelramirez", "laurenrichert", "natashacox2", "jakeneild", "jacobhenderson4", "robertleedy", "shuaibsajid" ]
 
-let c27 = ["madisonpeper", "jedwards"];
+let c27 = ["madisonpeper", "jedwards", "gretchennutter"];
 
+let output = "";
 
-let output = ""
-
-let studentPoints = []
+let studentPoints = [];
 
 $("#c25").click(function () {
-    let arrayOfPromises = []
-    let studentJsPoints = []
-    studentPoints = []
+    let arrayOfPromises = [];
+    let studentJsPoints = [];
+    studentPoints = [];
     output = ""
     $("#output").html(output);
 
-    $(".loader-gif").hide()
-    $(".loader-gif2").show()
+    $(".loader-gif").hide();
+    $(".loader-gif2").show();
 
     c27.forEach(student => {
         arrayOfPromises.push(
@@ -46,22 +45,22 @@ $("#c25").click(function () {
             }
 
             if (studentData.totalFEpoints < 3000 && studentData.totalFEpoints > 2000) {
-                studentData.color = "yellow"
+                studentData.color = "yellow";
             } else if (studentData.totalFEpoints > 3000) {
-                studentData.color = "green"
+                studentData.color = "green";
             }
             studentPoints.push(studentData)
         })
 
         studentPoints.sort(function (a, b) {
-            return b.totalFEpoints - a.totalFEpoints
+            return b.totalFEpoints - a.totalFEpoints;
         });
 
-        $(".loader-gif2").hide()
-        $("#jsPoints").show()
+        $(".loader-gif2").hide();
+        $("#jsPoints").show();
 
         studentPoints.forEach(student => {
-            printToDom(student)
+            printToDom(student);
         })
 
         $("#output").html(output);
