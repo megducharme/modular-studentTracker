@@ -2,7 +2,7 @@
 
 // let c26 = ["sethdana", "joeysmith", "leahgwin", "jordanwilliams2", "elliothuck", "eventurino", "sathvikreddy", "evanlusky", "philippatton", "jenniferlawson4", "brettshearin", "williamkimball", "austingorman", "michaelroberts14", "klaushardt", "adelaideyoder", "jewelramirez", "laurenrichert", "natashacox2", "jakeneild", "jacobhenderson4", "robertleedy", "shuaibsajid" ]
 
-let c27 = ["madisonpeper", "jedwards", "gretchennutter"];
+let c27 = ["madisonpeper", "jedwards", "gretchennutter", "alejandrofont"];
 
 let output = "";
 
@@ -34,6 +34,7 @@ $("#c25").click(function () {
             let studentData = {
                 name: data.name,
                 totalPoints: data.points.total,
+                digitalLiteracy: data.points.digitalLiteracy,
                 jsPoints: data.points.JavaScript,
                 cssPoints: data.points.CSS,
                 htmlPoints: data.points.HTML,
@@ -75,6 +76,9 @@ let printToDom = (studentData) => {
             <h4>${studentData.name}</h4>
             <div>
             JavaScript points: ${studentData.jsPoints}
+            </div>
+            <div>
+            Digital Literacy points: ${studentData.digitalLiteracy}
             </div>
             <div>
             CSS points: ${studentData.cssPoints}
