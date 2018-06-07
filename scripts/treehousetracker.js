@@ -16,6 +16,7 @@ $("#c25").click(function () {
     $("#output").html(output);
 
     $(".loader-gif").hide();
+    $("#footer").hide();
     $(".loader-gif2").show();
 
     c27.forEach(student => {
