@@ -34,7 +34,7 @@ $("#c25").click(function () {
             let studentData = {
                 name: data.name,
                 totalPoints: data.points.total,
-                digitalLiteracy: data.points.digitalLiteracy,
+                digitalLiteracy: data.points["Digital Literacy"],
                 jsPoints: data.points.JavaScript,
                 cssPoints: data.points.CSS,
                 htmlPoints: data.points.HTML,
