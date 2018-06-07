@@ -2,7 +2,7 @@
 
 // let c26 = ["sethdana", "joeysmith", "leahgwin", "jordanwilliams2", "elliothuck", "eventurino", "sathvikreddy", "evanlusky", "philippatton", "jenniferlawson4", "brettshearin", "williamkimball", "austingorman", "michaelroberts14", "klaushardt", "adelaideyoder", "jewelramirez", "laurenrichert", "natashacox2", "jakeneild", "jacobhenderson4", "robertleedy", "shuaibsajid" ]
 
-let c27 = ["madisonpeper", "jedwards", "gretchennutter", "alejandrofont", "kellycook4", "mateusvanhalen", "helenchalmers", "janetwoods", "gradyrobbins", "anupamsingla", "matthewaugustine2", "rickybruner", "michaelparrish", "priyankagarg"];
+let c27 = ["madisonpeper", "jedwards", "gretchennutter", "alejandrofont", "kellycook4", "mateusvanhalen", "helenchalmers", "janetwoods", "gradyrobbins", "anupamsingla", "matthewaugustine2", "rickybruner", "michaelparrish", "priyankagarg", "markhale2", "taylorgulley"];
 
 let output = "";
 
