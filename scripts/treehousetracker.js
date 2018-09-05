@@ -42,7 +42,6 @@ $("#c25").click(function () {
                 cssPoints: data.points.CSS,
                 htmlPoints: data.points.HTML,
                 pythonPoints: data.points.Python,
-                csharpPoints: data.points["C#"],
                 totalFEpoints: (data.points.JavaScript + data.points.CSS + data.points.HTML),
                 color: "red",
                 gravatar_url: data.gravatar_url
@@ -88,9 +87,6 @@ let printToDom = (studentData) => {
             </div>
             <div>
             HTML points: ${studentData.htmlPoints}
-            </div>
-            <div class="gray">
-                C# points: ${studentData.csharpPoints}
             </div>
                 <i>Total Treehouse Points: ${studentData.totalPoints}</i>
             <div class=${studentData.color}>
