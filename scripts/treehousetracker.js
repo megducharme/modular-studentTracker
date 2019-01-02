@@ -4,7 +4,9 @@
 
 // let c27 = ["madisonpeper", "jedwards", "gretchennutter", "alejandrofont", "kellycook4", "mateusvanhalen", "helenchalmers", "janetwoods", "gradyrobbins", "anupamsingla", "matthewaugustine2", "rickybruner", "michaelparrish", "priyankagarg", "markhale2", "taylorgulley", "michaelmcclenton", "johnwood9", "figamus", "streatorward"];
 
-let c28 = ['jessicabarnett3', 'lesleyboyd', 'sebastiancivarolo', 'racheldaniel', 'bradnashville', 'seandavis3', 'jasehackman', 'robbyhecht', 'richardlancaster', 'nolanlittle', 'brendanmccray', 'maxmilner', 'kellymorin', 'bryannilsen', 'justinavickers', 'samuelwebber', 'dillonwilliams', 'austinzoradi', 'elysedawson', 'ousamaelayan', 'jasehackman', 'lindseyemaddox']
+// let c28 = ['jessicabarnett3', 'lesleyboyd', 'sebastiancivarolo', 'racheldaniel', 'bradnashville', 'seandavis3', 'jasehackman', 'robbyhecht', 'richardlancaster', 'nolanlittle', 'brendanmccray', 'maxmilner', 'kellymorin', 'bryannilsen', 'justinavickers', 'samuelwebber', 'dillonwilliams', 'austinzoradi', 'elysedawson', 'ousamaelayan', 'jasehackman', 'lindseyemaddox']
+
+let c30 = ['warnercarpenter', 'samuelcronin', 'stephenclark2', 'brianbneal', 'kirren', 'naienko', 'connorbailey', 'mosilvera', 'kellycoles', 'katerinafreeman', 'antoniojefferson', 'prafullatasonawane', 'jacobsanders2', 'kenperkerwicz', 'jacobsanders2', 'kenperkerwicz', 'ryandillinger', 'janetwoods']
 
 let output = "";
 
@@ -21,7 +23,7 @@ $("#c25").click(function () {
     $("#footer").hide();
     $(".loader-gif2").show();
 
-    c28.forEach(student => {
+    c30.forEach(student => {
         arrayOfPromises.push(
             $.ajax({
                 type: "GET",
