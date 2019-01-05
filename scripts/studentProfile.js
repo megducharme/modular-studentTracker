@@ -9,9 +9,11 @@ $("body").on("click", function(event) {
         $("#footer").hide();
 
         let jsonAddress = event.target.id;
-        if(jsonAddress.startsWith("c__")){
+        if(jsonAddress.startsWith("c__") || jsonAddress.startsWith("ds__")){
             $("#output").html("")
-            let cohort = `../students/c${jsonAddress.split("__")[1]}.json`
+            let student_type_num = jsonAddress.split("__");
+
+            let cohort = `../students/${student_type_num[0] + student_type_num[1]}.json`
             getStudentData(cohort).then(students => {
                 gitHubInteraction(students)
             })

@@ -4,9 +4,9 @@
 
 // let c27 = ["madisonpeper", "jedwards", "gretchennutter", "alejandrofont", "kellycook4", "mateusvanhalen", "helenchalmers", "janetwoods", "gradyrobbins", "anupamsingla", "matthewaugustine2", "rickybruner", "michaelparrish", "priyankagarg", "markhale2", "taylorgulley", "michaelmcclenton", "johnwood9", "figamus", "streatorward"];
 
-// let c28 = ['jessicabarnett3', 'lesleyboyd', 'sebastiancivarolo', 'racheldaniel', 'bradnashville', 'seandavis3', 'jasehackman', 'robbyhecht', 'richardlancaster', 'nolanlittle', 'brendanmccray', 'maxmilner', 'kellymorin', 'bryannilsen', 'justinavickers', 'samuelwebber', 'dillonwilliams', 'austinzoradi', 'elysedawson', 'ousamaelayan', 'jasehackman', 'lindseyemaddox']
+// let c28 = ["jessicabarnett3", "lesleyboyd", "sebastiancivarolo", "racheldaniel", "bradnashville", "seandavis3", "jasehackman", "robbyhecht", "richardlancaster", "nolanlittle", "brendanmccray", "maxmilner", "kellymorin", "bryannilsen", "justinavickers", "samuelwebber", "dillonwilliams", "austinzoradi", "elysedawson", "ousamaelayan", "jasehackman", "lindseyemaddox"]
 
-let c30 = ['warnercarpenter', 'samuelcronin', 'stephenclark2', 'brianbneal', 'kirren', 'naienko', 'connorbailey', 'mosilvera', 'kellycoles', 'antoniojefferson', 'prafullatasonawane', 'jacobsanders2', 'kenperkerwicz', 'ryandillinger', 'janetwoods', 'jamesfarrell2', 'abbeymichaelbrown', 'nathansepulveda', 'ryannelson7', 'niallfraser', 'aliabdulle']
+let c30 = ["warnercarpenter", "samuelcronin", "stephenclark2", "brianbneal", "kirren", "naienko", "connorbailey", "mosilvera", "kellycoles", "antoniojefferson", "prafullatasonawane", "jacobsanders2", "kenperkerwicz", "ryandillinger", "janetwoods", "jamesfarrell2", "abbeymichaelbrown", "nathansepulveda", "ryannelson7", "niallfraser", "aliabdulle"]
 
 let output = "";
 
