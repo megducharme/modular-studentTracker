@@ -6,7 +6,7 @@
 
 // let c28 = ['jessicabarnett3', 'lesleyboyd', 'sebastiancivarolo', 'racheldaniel', 'bradnashville', 'seandavis3', 'jasehackman', 'robbyhecht', 'richardlancaster', 'nolanlittle', 'brendanmccray', 'maxmilner', 'kellymorin', 'bryannilsen', 'justinavickers', 'samuelwebber', 'dillonwilliams', 'austinzoradi', 'elysedawson', 'ousamaelayan', 'jasehackman', 'lindseyemaddox']
 
-let c30 = ['warnercarpenter', 'samuelcronin', 'stephenclark2', 'brianbneal', 'kirren', 'naienko', 'connorbailey', 'mosilvera', 'kellycoles', 'antoniojefferson', 'prafullatasonawane', 'jacobsanders2', 'kenperkerwicz', 'ryandillinger', 'janetwoods', 'jamesfarrell2', 'abbeymichaelbrown', 'nathansepulveda', 'ryannelson7', 'niallfraser', 'aliabdulle']
+let c30 = ['warnercarpenter', 'samuelcronin', 'stephenclark2', 'brianbneal', 'kirren', 'naienko', 'connorbailey', 'mosilvera', 'kellycoles', 'antoniojefferson', 'prafullatasonawane', 'jacobsanders2', 'kenperkerwicz', 'ryandillinger', 'janetwoods', 'jamesfarrell2', 'abbeymichaelbrown', 'nathansepulveda', 'niallfraser', 'aliabdulle']
 
 let output = "";
 
