@@ -6,28 +6,28 @@
 
 // let c28 = ["jessicabarnett3", "lesleyboyd", "sebastiancivarolo", "racheldaniel", "bradnashville", "seandavis3", "jasehackman", "robbyhecht", "richardlancaster", "nolanlittle", "brendanmccray", "maxmilner", "kellymorin", "bryannilsen", "justinavickers", "samuelwebber", "dillonwilliams", "austinzoradi", "elysedawson", "ousamaelayan", "jasehackman", "lindseyemaddox"]
 
-let c30 = [
-  "warnercarpenter",
-  "samuelcronin",
-  "stephenclark2",
-  "brianbneal",
-  "kirren",
-  "naienko",
-  "connorbailey",
-  "mosilvera",
-  "kellycoles",
-  "antoniojefferson",
-  "prafullatasonawane",
-  "jacobsanders2",
-  "kenperkerwicz",
-  "ryandillinger",
-  "janetwoods",
-  "jamesfarrell2",
-  "abbeymichaelbrown",
-  "nathansepulveda",
-  "niallfraser",
-  "aliabdulle"
-];
+// let c30 = [
+//   "warnercarpenter",
+//   "samuelcronin",
+//   "stephenclark2",
+//   "brianbneal",
+//   "kirren",
+//   "naienko",
+//   "connorbailey",
+//   "mosilvera",
+//   "kellycoles",
+//   "antoniojefferson",
+//   "prafullatasonawane",
+//   "jacobsanders2",
+//   "kenperkerwicz",
+//   "ryandillinger",
+//   "janetwoods",
+//   "jamesfarrell2",
+//   "abbeymichaelbrown",
+//   "nathansepulveda",
+//   "niallfraser",
+//   "aliabdulle"
+// ];
 
 let c31 = [
   "samalpren",
@@ -56,7 +56,7 @@ $("#c25").click(function() {
   $("#footer").hide();
   $(".loader-gif2").show();
 
-  c30.forEach(student => {
+  c31.forEach(student => {
     arrayOfPromises.push(
       $.ajax({
         type: "GET",

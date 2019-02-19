@@ -1,19 +1,23 @@
-let studentFactory = require ("./studentFactory.js");
+let studentFactory = require("./studentFactory.js");
 
 let buildStudentObject = (data, students) => {
-    let studentName = students.find(student => {
-        return student.githubHandle === data[0].actor.login
-    })
+  console.log("students", students);
+  console.log("data", data);
 
-    let studentEvent = data.find(event => {
-        return event.type === "PushEvent"
-    })
+  let studentName = students.find(student => {
+    return student.githubHandle === data[0].actor.login;
+  });
+  console.log("studentName find data actor login", studentName);
 
-    if (data[0].type === "ForkEvent") {
-        studentEvent = data[0]
-    }
+  let studentEvent = data.find(event => {
+    return event.type === "PushEvent";
+  });
 
-    return studentFactory(studentName, studentEvent)
-}
+  if (data[0].type === "ForkEvent") {
+    studentEvent = data[0];
+  }
+
+  return studentFactory(studentName, studentEvent);
+};
 
 module.exports = buildStudentObject;
