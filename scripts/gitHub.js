@@ -4,7 +4,7 @@ let getStudentObject = require("./extractStudentData.js");
 let createPromises = students => {
   let arrayOfPromises = [];
 
-  console.log("students", students);
+  console.log("students right before promise", students);
 
   students.forEach(student => {
     arrayOfPromises.push(
@@ -16,17 +16,25 @@ let createPromises = students => {
       })
     );
   });
+  console.log("arrayOfPromises", arrayOfPromises);
+
+  // let correctGithubUserNames = arrayOfPromises.find(studentData => {
+  //   // return responseJSON.studentData[0].actor.login !== "undefined";
+  // });
+  // console.log("correctGithubUserNames", correctGithubUserNames);
 
   getStudentData(arrayOfPromises, students);
 };
 
-//is this buildStudentObject?
+//Wait... this getStudentData doesn't do anything? If I comment it out, everything still works
 let getStudentData = (arrayOfPromises, students) => {
   let allStudentObjs = [];
 
   Promise.all(arrayOfPromises)
     .then(responses => {
       responses.forEach(response => {
+        //you get this console log for every single student's github data. Therefore, the responseS need to filter out the bad usernames before going through this forEach
+        console.log("promise.all response:", response);
         allStudentObjs.push(getStudentObject(response, students));
       });
     })
