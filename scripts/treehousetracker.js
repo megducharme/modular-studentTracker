@@ -29,16 +29,38 @@
 //   "aliabdulle"
 // ];
 
-let c31 = [
-  "samalpren",
-  "sambritt",
-  "brianjobe",
-  "williammitchell3",
-  "christophermorgan",
-  "jonathanschaffer",
-  "anthonyvick",
-  "michaelyankura",
-  "jamekaechols"
+// let c31 = [
+//   "samalpren",
+//   "sambritt",
+//   "brianjobe",
+//   "williammitchell3",
+//   "christophermorgan",
+//   "jonathanschaffer",
+//   "anthonyvick",
+//   "michaelyankura",
+//   "jamekaechols"
+// ];
+
+let c32 = [
+  "shelleya",
+  "keishacard",
+  "nathanielfleming",
+  "emilyloggins2",
+  "deeppatel13",
+  "ellieash",
+  "josephdriscoll",
+  "carlybergthold",
+  "kendixon",
+  "heathercleland",
+  "williamjoor",
+  "burakkoc",
+  "jamesmetts",
+  "jasonbrooks3",
+  "jasoncollum",
+  "hughesspeer",
+  "jakepreston",
+  "joabsigrah",
+  "deliotclarke"
 ];
 
 let output = "";
@@ -56,7 +78,7 @@ $("#c25").click(function() {
   $("#footer").hide();
   $(".loader-gif2").show();
 
-  c31.forEach(student => {
+  c32.forEach(student => {
     arrayOfPromises.push(
       $.ajax({
         type: "GET",
