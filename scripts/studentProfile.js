@@ -17,8 +17,8 @@ $("body").on("click", function(event) {
       $("#output").html("");
       let student_type_num = jsonAddress.split("__");
       //index 0 is c and index [1] is the number of the cohort
-      //   console.log("student_type_num[0]", student_type_num[0]);
-      //   console.log("student_type_num[1]", student_type_num[1]);
+      console.log("student_type_num[0]", student_type_num[0]);
+      console.log("student_type_num[1]", student_type_num[1]);
 
       let cohort = `../students/${student_type_num[0] +
         student_type_num[1]}.json`;
