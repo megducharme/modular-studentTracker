@@ -7,6 +7,8 @@ let printToDOM = (allStudentObjs) => {
 
         let student_name = student.name === undefined ? "Nameless.." : student.name.name;
 
+        let student_githubHandle = student.githubHandle === undefined ? "Incorrect GH Handle" : student.name.githubHandle;
+
         stringToDOM += `
             <div class="card">
                 <img class="student-avatar" src="${student.avatar}">
@@ -14,7 +16,7 @@ let printToDOM = (allStudentObjs) => {
                 <p class="${student.color}">${event} ${student.diffDays}</p>
                 <a href="https://github.com/${student.repoURL}" target="_blank"><p style="color:black;">${student.repo}</p></a>
                 <p>${student.message}</p>
-                <a href="https://github.com/${student.githubHandle}" target="_blank">Student's Repo</a>
+                <a href="https://github.com/${student_githubHandle}" target="_blank">Student's Repo</a>
             </div>`
 
         $("#output").html(stringToDOM)
